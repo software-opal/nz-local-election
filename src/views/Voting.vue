@@ -1,5 +1,7 @@
 <template>
-  <ElectionOverview :data="groups"/>
+  <div class="home">
+    <img alt="Vue logo" src="../assets/logo.png">
+  </div>
 </template>
 
 <script lang="ts">
@@ -13,6 +15,6 @@ import lookupData from '@/assets/data_lookup.json';
   },
 })
 export default class Home extends Vue {
-  @Prop({ default: lookupData.grouped }) private groups!: object;
+  @Prop({ default: lookupData.grouped }) private id!: object;
 }
 </script>
