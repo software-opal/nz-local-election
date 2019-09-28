@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "The People's Choice - Labour",
+      "age": "56",
+      "before_politics": "Presbyterian Minister",
+      "election": "Christchurch",
+      "electorate": "Burwood",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/694-1148-Q19-Glenn.jpg?itok=64ftQ1tx",
+      "lives_in": "Shirley, Burwood ward",
+      "name": "Glenn Livingstone",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06006#Glenn Livingstone",
+      "why_elect": "I have been with the east of Christchurch since the earthquakes. My track record includes the promotion of an Insurance Tribunal, which has now been brought into law.",
+      "why_stand": "My entire working life has been and is vocational\u2014as a Presbyterian Minister and now as a City Councillor. Neither have been jobs for me. I am here to serve the community."
+    },
+    {
+      "affiliation": "Independent",
+      "age": "61",
+      "before_politics": "Owner- Maugers Contracting Ltd",
+      "election": "Christchurch",
+      "electorate": "Burwood",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/117-194-Q19-Phil_Mauger_-_running_for_councillor_for_Burwood.jpg?itok=Lnhwt1Aj",
+      "lives_in": "Avonhead, Christchurch",
+      "name": "Phil Mauger",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06006#Phil Mauger",
+      "why_elect": "I can bring business and common sense to the council. I have run a successful family business in Civil Construction in Christchurch for decades. With my background I know exactly what needs to be done to fix the state of the roads and land in the East.",
+      "why_stand": "I have been thinking of standing for council for 12 years. I have talked about it long enough and it is time for action. I have lived and worked in this ward for 55 years and know it like the back of my hand."
+    }
+  ],
+  "electorate": "Burwood",
+  "id": "WARD_06006",
+  "region": "Christchurch",
+  "type": "Council"
+}

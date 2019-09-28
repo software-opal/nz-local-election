@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "64",
+      "before_politics": "Pharmacist",
+      "election": " Upper Hutt",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/279-445-Q19-20190711_IMG_0632_Wayne-GuppyRGB.jpg?itok=cD8Ud3ZH",
+      "lives_in": "Heretaunga, Upper Hutt",
+      "name": "Wayne Guppy",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_045#Wayne Guppy",
+      "why_elect": "I understand our community and the region and have worked for Upper Hutt as Mayor and will continue to develop our city.",
+      "why_stand": "I am standing on my record of proven leadership and giving Upper Hutt a voice both locally and nationally. Upper Hutt has progressed to be the leading city in the region under my leadership."
+    },
+    {
+      "affiliation": "Independent",
+      "age": "53",
+      "before_politics": "Executive and Communications Mgr",
+      "election": " Upper Hutt",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/594-936-Q19-Angela_profile.jpg?itok=jsn9vHVM",
+      "lives_in": "Whiteman's Valley",
+      "name": "Angela McLeod",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_045#Angela McLeod",
+      "why_elect": "The only time I haven't lived in Upper Hutt is when I was studying at Massey University. We can do better with my community, national and international leadership experience in the corporate, parliamentary and NGO sector. Upper Hutt is a great place to live, work and play.",
+      "why_stand": "Upper Hutt has a solid foundation from long term leadership and I believe that I can lead the community and economy to the next level."
+    },
+    {
+      "affiliation": "Independent",
+      "age": "37",
+      "before_politics": "Orchestral Musician - NZSO",
+      "election": " Upper Hutt",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/TA_045_3.jpg?itok=iLCV26Sf",
+      "lives_in": "Trentham",
+      "name": "Steve Taylor",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_045#Steve Taylor",
+      "why_elect": "I will be a strong regional voice representing Upper Hutt. With challenges facing the Wellington region including transport, resilience and climate change risk mitigation, now is not the time to rest on our laurels. We need proactive, energetic and strategic leadership to deliver a secure future for the Wellington region.",
+      "why_stand": "My motivation is driven by my desire to provide a safe, connected and respected home for our children. A home that they are proud of. An affordable home that is resilient, with great amenities and an abundance of opportunity. Upper Hutt is our home, and our children are our future."
+    }
+  ],
+  "electorate": null,
+  "id": "TA_045",
+  "region": " Upper Hutt",
+  "type": "Mayor"
+}

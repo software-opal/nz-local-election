@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waitaki",
+      "electorate": "Ahuriri",
+      "image": null,
+      "lives_in": null,
+      "name": "Ross McRobie",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06801#Ross McRobie",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Ahuriri",
+  "id": "WARD_06801",
+  "region": "Waitaki",
+  "type": "Council"
+}

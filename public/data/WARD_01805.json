@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Otorohanga",
+      "electorate": "Wharepuhunga",
+      "image": null,
+      "lives_in": null,
+      "name": "Robyn Annette Klos",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01805#Robyn Annette Klos",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Wharepuhunga",
+  "id": "WARD_01805",
+  "region": "Otorohanga",
+  "type": "Council"
+}

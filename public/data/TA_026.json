@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Kawerau",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Malcolm Campbell",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_026#Malcolm Campbell",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": " Kawerau",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Tracy Hill",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_026#Tracy Hill",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": null,
+  "id": "TA_026",
+  "region": " Kawerau",
+  "type": "Mayor"
+}

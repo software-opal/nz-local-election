@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Taup\u014d",
+      "electorate": "Taup\u014d East Rural",
+      "image": null,
+      "lives_in": null,
+      "name": "Kylie Leonard",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02104#Kylie Leonard",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "54",
+      "before_politics": "Camp Manager",
+      "election": "Taup\u014d",
+      "electorate": "Taup\u014d East Rural",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/WARD_02104_2.jpg?itok=ELaLaUMp",
+      "lives_in": "Wairakei",
+      "name": "Chris Te Whare",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_02104#Chris Te Whare",
+      "why_elect": "I have lived around the Great Lake for the last 13 years (it's a great place to live, work and play) and have lived or taught in Turangi, Mangakino and I now live in Wairakei Village. All my work has been community based and I believe that I can contribute!",
+      "why_stand": "I am running for council as I believe that I can contribute to moving Taup\u014d District forward. My background in community work as a teacher, police officer, community board and school board of trustees person has given me skills to allow me to do this."
+    }
+  ],
+  "electorate": "Taup\u014d East Rural",
+  "id": "WARD_02104",
+  "region": "Taup\u014d",
+  "type": "Council"
+}

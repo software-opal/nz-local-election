@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Newcastle",
+      "image": null,
+      "lives_in": null,
+      "name": "Kawena Jones",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01308#Kawena Jones",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Newcastle",
+      "image": null,
+      "lives_in": null,
+      "name": "Noel Smith",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01308#Noel Smith",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Newcastle",
+  "id": "WARD_01308",
+  "region": "Waikato",
+  "type": "Council"
+}

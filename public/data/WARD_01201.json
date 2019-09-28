@@ -1,0 +1,83 @@
+{
+  "candidates": [
+    {
+      "affiliation": "The Library Group",
+      "age": null,
+      "before_politics": null,
+      "election": "Hauraki",
+      "electorate": "Plains",
+      "image": null,
+      "lives_in": null,
+      "name": "Ray Broad",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01201#Ray Broad",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Hauraki",
+      "electorate": "Plains",
+      "image": null,
+      "lives_in": null,
+      "name": "Phillip Buckthought",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01201#Phillip Buckthought",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Hauraki",
+      "electorate": "Plains",
+      "image": null,
+      "lives_in": null,
+      "name": "Rodney Garrett",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01201#Rodney Garrett",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Hauraki",
+      "electorate": "Plains",
+      "image": null,
+      "lives_in": null,
+      "name": "Ross Harris",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01201#Ross Harris",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Hauraki",
+      "electorate": "Plains",
+      "image": null,
+      "lives_in": null,
+      "name": "Tara Larking",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01201#Tara Larking",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Plains",
+  "id": "WARD_01201",
+  "region": "Hauraki",
+  "type": "Council"
+}

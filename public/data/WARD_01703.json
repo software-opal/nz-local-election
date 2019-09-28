@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waipa",
+      "electorate": "Maungatautari",
+      "image": null,
+      "lives_in": null,
+      "name": "Elwyn Andree-Wiltens",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01703#Elwyn Andree-Wiltens",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Maungatautari",
+  "id": "WARD_01703",
+  "region": "Waipa",
+  "type": "Council"
+}

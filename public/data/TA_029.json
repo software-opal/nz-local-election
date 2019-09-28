@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Wairoa",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Waipatu Winitana",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_029#Waipatu Winitana",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Wairoa",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Craig Little",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_029#Craig Little",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "60",
+      "before_politics": "Carer",
+      "election": " Wairoa",
+      "electorate": null,
+      "image": null,
+      "lives_in": "Tuai",
+      "name": "Jennifer Takuta-Moses",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_029#Jennifer Takuta-Moses",
+      "why_elect": "I have been in governance most of my life and have a governance qualification, I am strongly committed and can demonstrate transparency and skilled leadership for the future development of the Wairoa region.",
+      "why_stand": "I am a candidate for Mayor of Wairoa and have a profile with Wairoa District Council should you wish to read what my passion is all about in this lead up to the Mayoralty."
+    }
+  ],
+  "electorate": null,
+  "id": "TA_029",
+  "region": " Wairoa",
+  "type": "Mayor"
+}

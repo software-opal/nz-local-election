@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Timaru",
+      "electorate": "Pleasant Point-Temuka",
+      "image": null,
+      "lives_in": null,
+      "name": "Richard Lyon",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06402#Richard Lyon",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Timaru",
+      "electorate": "Pleasant Point-Temuka",
+      "image": null,
+      "lives_in": null,
+      "name": "Paddy O\u2019Reilly",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06402#Paddy OReilly",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": "49",
+      "before_politics": "Businessperson",
+      "election": "Timaru",
+      "electorate": "Pleasant Point-Temuka",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/407-660-Q19-Charles.jpg?itok=Pf3Cboja",
+      "lives_in": "Temuka",
+      "name": "Charles Scarsbrook",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06402#Charles Scarsbrook",
+      "why_elect": "I have lived in Temuka most of my life and am involved in many voluntary community areas, I feel my business experience and my strong sense of social justice within my community will be of benefit to my local area.",
+      "why_stand": "I enjoy being involved in my community and would like the opportunity to use the skills I have to make my community even better."
+    }
+  ],
+  "electorate": "Pleasant Point-Temuka",
+  "id": "WARD_06402",
+  "region": "Timaru",
+  "type": "Council"
+}

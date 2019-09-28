@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Whakat\u0101ne",
+      "electorate": "Galatea-Murupara",
+      "image": null,
+      "lives_in": null,
+      "name": "Hinerangi Goodman",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02504#Hinerangi Goodman",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "67",
+      "before_politics": "Farming partner, Teacher",
+      "election": "Whakat\u0101ne",
+      "electorate": "Galatea-Murupara",
+      "image": null,
+      "lives_in": "Galatea",
+      "name": "Alison Silcock",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_02504#Alison Silcock",
+      "why_elect": "The people within our communities know I am willing to roll up my sleeves and work for them and with them.",
+      "why_stand": "I enjoy helping shape the future of this diverse community."
+    },
+    {
+      "affiliation": null,
+      "age": "42",
+      "before_politics": "Student",
+      "election": "Whakat\u0101ne",
+      "electorate": "Galatea-Murupara",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/531-842-Q19-Screenshot_20190829-155529%5B1%5D.jpg?itok=S-Wn-lap",
+      "lives_in": "5 Moana street Ohope",
+      "name": "Jackie Te Amo",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_02504#Jackie Te Amo",
+      "why_elect": "I've lived in the ward most of my life, gained a lot of experience and are supported by my community.",
+      "why_stand": "To be the voice for the Galatea-Murupara Ward."
+    }
+  ],
+  "electorate": "Galatea-Murupara",
+  "id": "WARD_02504",
+  "region": "Whakat\u0101ne",
+  "type": "Council"
+}

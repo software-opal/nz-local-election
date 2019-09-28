@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Hauraki",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Toby Adams",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_012#Toby Adams",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "59",
+      "before_politics": "Treaty negotiator, contractor",
+      "election": " Hauraki",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/505-804-Q19-Screen_Shot_2019-08-28_at_7.05.17_PM.jpg?itok=P8fhX27U",
+      "lives_in": "Paeroa",
+      "name": "Josie Anderson",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_012#Josie Anderson",
+      "why_elect": "I bring to the table a new voice, fresh approach and representation reflecting the community. My professional skills are broad-based, ranging from governance, executive and finance management, commercial and community development, to resource management, conservation, strategic planning and crown negotiation. I add in my natural instinct, common sense and integrity.",
+      "why_stand": "My family has lived here for centuries. Hauraki is my home. I am committed to a thriving sustainable Hauraki future for coming generations. Council faces some key issues for which local solutions from a broader spectrum of voices are required. That's why I'm stepping forward."
+    }
+  ],
+  "electorate": null,
+  "id": "TA_012",
+  "region": " Hauraki",
+  "type": "Mayor"
+}

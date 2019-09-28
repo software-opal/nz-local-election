@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "64",
+      "before_politics": "Farmer, semi retired.",
+      "election": "Waitomo",
+      "electorate": "Waitomo Rural",
+      "image": null,
+      "lives_in": "Waitomo",
+      "name": "Phil Brodie",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_02001#Phil Brodie",
+      "why_elect": "See above.",
+      "why_stand": "I've been part of an elected council that over the last three terms has overcome huge financial and infrastructural challenges and I will be there to help my community benefit from the better position we are in as I have been re-elected unopposed."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waitomo",
+      "electorate": "Waitomo Rural",
+      "image": null,
+      "lives_in": null,
+      "name": "Allan Goddard",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02001#Allan Goddard",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waitomo",
+      "electorate": "Waitomo Rural",
+      "image": null,
+      "lives_in": null,
+      "name": "Sue Smith",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02001#Sue Smith",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Waitomo Rural",
+  "id": "WARD_02001",
+  "region": "Waitomo",
+  "type": "Council"
+}

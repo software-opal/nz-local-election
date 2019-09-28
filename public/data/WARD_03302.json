@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "New Plymouth",
+      "electorate": "North",
+      "image": null,
+      "lives_in": null,
+      "name": "Tony Bedford",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03302#Tony Bedford",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "New Plymouth",
+      "electorate": "North",
+      "image": null,
+      "lives_in": null,
+      "name": "Colin Johnston",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03302#Colin Johnston",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "New Plymouth",
+      "electorate": "North",
+      "image": null,
+      "lives_in": null,
+      "name": "Bill Simpson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03302#Bill Simpson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "New Plymouth",
+      "electorate": "North",
+      "image": null,
+      "lives_in": null,
+      "name": "John Williams",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03302#John Williams",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "North",
+  "id": "WARD_03302",
+  "region": "New Plymouth",
+  "type": "Council"
+}

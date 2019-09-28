@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Clutha",
+      "electorate": "Clutha Valley",
+      "image": null,
+      "lives_in": null,
+      "name": "Stewart Cowie",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07208#Stewart Cowie",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Clutha Valley",
+  "id": "WARD_07208",
+  "region": "Clutha",
+  "type": "Council"
+}

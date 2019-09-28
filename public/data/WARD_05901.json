@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waimakariri",
+      "electorate": "Oxford-Ohoka",
+      "image": null,
+      "lives_in": null,
+      "name": "Thomas Robson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05901#Thomas Robson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waimakariri",
+      "electorate": "Oxford-Ohoka",
+      "image": null,
+      "lives_in": null,
+      "name": "Wendy Doody",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05901#Wendy Doody",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waimakariri",
+      "electorate": "Oxford-Ohoka",
+      "image": null,
+      "lives_in": null,
+      "name": "Kevin Felstead",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05901#Kevin Felstead",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waimakariri",
+      "electorate": "Oxford-Ohoka",
+      "image": null,
+      "lives_in": null,
+      "name": "Niki Mealings",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05901#Niki Mealings",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Oxford-Ohoka",
+  "id": "WARD_05901",
+  "region": "Waimakariri",
+  "type": "Council"
+}

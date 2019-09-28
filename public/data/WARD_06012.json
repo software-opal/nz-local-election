@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent Citizens",
+      "age": "27",
+      "before_politics": "Businessperson -Owner/Operator",
+      "election": "Christchurch",
+      "electorate": "Central",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/568-895-Q19-65002675_2235989189834347_6853940134153289728_o__1.jpg?itok=8xp04Ata",
+      "lives_in": "Christchurch Central City",
+      "name": "Clive Antony",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06012#Clive Antony",
+      "why_elect": "As an entrepreneur in marketing, I will bring fresh and creative thinking to the council table to help solve our problems. I'm a huge believer in servant leadership. As an employer I also know the power in listening so I will actively seek to learn, listen and represent residents.",
+      "why_stand": "I am incredibly passionate about Christchurch and our future to be the most attractive city to live in NZ. The Central Ward is unique because of the relationship residents have with the CBD. I am passionate about building a culture and vibrant city that's loved by residents and business."
+    },
+    {
+      "affiliation": "Labour",
+      "age": "27",
+      "before_politics": "Labour Party Organiser",
+      "election": "Christchurch",
+      "electorate": "Central",
+      "image": null,
+      "lives_in": "Addington",
+      "name": "Jake McLellan",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06012#Jake McLellan",
+      "why_elect": "I've lived in this community for the last 17 years, grew up here and went to school here. During my time on the community board I've gained a complex understanding of the issues affecting our community and I know how council can be used to address them.",
+      "why_stand": "Because our community faces some big issues, and not enough has happened over the past three years to address them. I'm concerned about the deteriorating state of the Linwood Village and how poorly designed developments have started to impact amenity values while bully-boy developers leave bad feelings in communities."
+    },
+    {
+      "affiliation": "Local - Independent",
+      "age": "32",
+      "before_politics": "business owner and charity work",
+      "election": "Christchurch",
+      "electorate": "Central",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/272-428-Q19-Deon_new.jpg?itok=8qFuN7tz",
+      "lives_in": "Christchurch Central",
+      "name": "Deon Swiggs",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06012#Deon Swiggs",
+      "why_elect": "I love my city and am honoured to represent many amazing communities. I am visible, accountable and accessible. I offer experience, sound economic judgement and a commitment to getting things done.",
+      "why_stand": "I believe our city is on the cusp of being the best city in NZ and one of the best places to be in the world. But we still face some very unique challenges and I have the experience and energy to tackle these head on."
+    }
+  ],
+  "electorate": "Central",
+  "id": "WARD_06012",
+  "region": "Christchurch",
+  "type": "Council"
+}

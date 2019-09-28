@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Clutha",
+      "electorate": "Bruce",
+      "image": null,
+      "lives_in": null,
+      "name": "Selwyn Wilkinson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07206#Selwyn Wilkinson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Clutha",
+      "electorate": "Bruce",
+      "image": null,
+      "lives_in": null,
+      "name": "Gaynor Finch",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07206#Gaynor Finch",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "71",
+      "before_politics": "Business Management",
+      "election": "Clutha",
+      "electorate": "Bruce",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/7-13-Q19-IMG_8219-NZ_Passport__online_application_-1800x2400_px.jpg?itok=dh5_JsF-",
+      "lives_in": "Benhar",
+      "name": "Paul Hanlon",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_07206#Paul Hanlon",
+      "why_elect": "I have extensive management experience covering man management, change management and project management. As a military engineer I built roads installed water treatment plants built hostels. I will stand on the side of our farmers those who feed us and oppose those who attack them.",
+      "why_stand": "I care more for others than myself. I have always served, in the Armed forces then JCI, Lions, and NZRSA. Set up a community computing centre as a free service and gladly donated my time helping others. I now wish to Serve You in the Bruce Ward."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Clutha",
+      "electorate": "Bruce",
+      "image": null,
+      "lives_in": null,
+      "name": "Bruce Peter Vollweiler",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07206#Bruce Peter Vollweiler",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Bruce",
+  "id": "WARD_07206",
+  "region": "Clutha",
+  "type": "Council"
+}

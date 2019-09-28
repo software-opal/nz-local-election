@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Christchurch",
+      "electorate": "Banks Peninsula",
+      "image": null,
+      "lives_in": null,
+      "name": "Howard Needham",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06016#Howard Needham",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "The People's Choice",
+      "age": null,
+      "before_politics": null,
+      "election": "Christchurch",
+      "electorate": "Banks Peninsula",
+      "image": null,
+      "lives_in": null,
+      "name": "Andrew Turner",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06016#Andrew Turner",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Banks Peninsula",
+  "id": "WARD_06016",
+  "region": "Christchurch",
+  "type": "Council"
+}

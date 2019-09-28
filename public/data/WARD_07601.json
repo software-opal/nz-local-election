@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent for Rodney",
+      "age": null,
+      "before_politics": null,
+      "election": "Auckland",
+      "electorate": "Rodney",
+      "image": null,
+      "lives_in": null,
+      "name": "Greg Sayers",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07601#Greg Sayers",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Rodney",
+  "id": "WARD_07601",
+  "region": "Auckland",
+  "type": "Council"
+}

@@ -1,0 +1,83 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Westland",
+      "electorate": "Southern",
+      "image": null,
+      "lives_in": null,
+      "name": "Brian Manera",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05703#Brian Manera",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Westland",
+      "electorate": "Southern",
+      "image": null,
+      "lives_in": null,
+      "name": "Gavin Molloy",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05703#Gavin Molloy",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "70",
+      "before_politics": "Director, tourist operator",
+      "election": "Westland",
+      "electorate": "Southern",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/625-1004-Q19-IMG_8171.jpg?itok=8gxt5oNi",
+      "lives_in": "Hokitika",
+      "name": "Gray Eatwell",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_05703#Gray Eatwell",
+      "why_elect": "I have a clear vision that council must return to basics, so by engaging my proven background of leading people to be cohesive, under extreme conditions, I am confident that a functional honest council is realistically achievable.",
+      "why_stand": "As a sitting councillor, observing the underlying culture that is corrupting due process, a pathway has become obvious to me to bring council back into line with community expectations. To be effective the strength of all elected members must be engaged to serve Westland, through inclusive governance and fair practices."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Westland",
+      "electorate": "Southern",
+      "image": null,
+      "lives_in": null,
+      "name": "Ian Hartshorne",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05703#Ian Hartshorne",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Westland",
+      "electorate": "Southern",
+      "image": null,
+      "lives_in": null,
+      "name": "Ryan Kennedy",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05703#Ryan Kennedy",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Southern",
+  "id": "WARD_05703",
+  "region": "Westland",
+  "type": "Council"
+}

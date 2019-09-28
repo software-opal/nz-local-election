@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Clutha",
+      "electorate": "West Otago",
+      "image": null,
+      "lives_in": null,
+      "name": "John Herbert",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07201#John Herbert",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Clutha",
+      "electorate": "West Otago",
+      "image": null,
+      "lives_in": null,
+      "name": "Michele Kennedy",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07201#Michele Kennedy",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "West Otago",
+  "id": "WARD_07201",
+  "region": "Clutha",
+  "type": "Council"
+}

@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Gore",
+      "electorate": "Kaiwera-Waimumu",
+      "image": null,
+      "lives_in": null,
+      "name": "Stewart MacDonell",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07402#Stewart MacDonell",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Kaiwera-Waimumu",
+  "id": "WARD_07402",
+  "region": "Gore",
+  "type": "Council"
+}

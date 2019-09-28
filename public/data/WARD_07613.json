@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Team Franklin",
+      "age": "62",
+      "before_politics": "Rural Business",
+      "election": "Auckland",
+      "electorate": "Franklin",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/111-174-Q19-Bill_Cashmore_high_res_pic.jpg?itok=wmprthhN",
+      "lives_in": "Orere Point",
+      "name": "Bill Cashmore",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_07613#Bill Cashmore",
+      "why_elect": "I have nine years experience in local government, past term as Deputy Mayor of Auckland. Prior to this I was involved in agriculture, exporting and supporting business.",
+      "why_stand": "Franklin is a unique area that needs to be able to protect it's coastal environments, rural settlements and bigger towns. At the same time we need to create more opportunity in employment and quality living."
+    }
+  ],
+  "electorate": "Franklin",
+  "id": "WARD_07613",
+  "region": "Auckland",
+  "type": "Council"
+}

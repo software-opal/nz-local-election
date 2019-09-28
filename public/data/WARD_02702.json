@@ -1,0 +1,83 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "\u014cp\u014dtiki",
+      "electorate": "Waioeka-Waiotahi",
+      "image": null,
+      "lives_in": null,
+      "name": "Michael Spike Collier",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02702#Michael Spike Collier",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "67",
+      "before_politics": "renovator",
+      "election": "\u014cp\u014dtiki",
+      "electorate": "Waioeka-Waiotahi",
+      "image": null,
+      "lives_in": "Opotiki",
+      "name": "Ron Findlay",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_02702#Ron Findlay",
+      "why_elect": "I've lived in the Opotiki district for 16 years spread over 2 occasions. I've a wide experience of working with diverse groups. I'm a skilled communicator.",
+      "why_stand": "I became involved with a climate crisis group... Extinction Rebellion and realised that climate change and rising sea levels pose an immense risk to our town,our country, our planet. Act locally... think globally."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": "Nurse",
+      "election": "\u014cp\u014dtiki",
+      "electorate": "Waioeka-Waiotahi",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/227-363-Q19-PHOTO.jpg?itok=iZ0pPopz",
+      "lives_in": "Tirohanga",
+      "name": "Debi Hocart",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_02702#Debi Hocart",
+      "why_elect": "I have come from life in a big city and have now lived in Opotiki for over 30 years. I bring good communication, many years experience and service to the community in the health sector and in my volunteer roles.",
+      "why_stand": "Opotiki is a unique place with stunning beaches and walkways and bush. It is a wonderful place to bring up children, to retire and as a holiday destination. I want to be part of the future of this town to ensure we maintain our uniqueness while developing varied, local industries."
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "\u014cp\u014dtiki",
+      "electorate": "Waioeka-Waiotahi",
+      "image": null,
+      "lives_in": null,
+      "name": "Lew Kerr",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02702#Lew Kerr",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "\u014cp\u014dtiki",
+      "electorate": "Waioeka-Waiotahi",
+      "image": null,
+      "lives_in": null,
+      "name": "David Moore",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02702#David Moore",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Waioeka-Waiotahi",
+  "id": "WARD_02702",
+  "region": "\u014cp\u014dtiki",
+  "type": "Council"
+}

@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Tamahere",
+      "image": null,
+      "lives_in": null,
+      "name": "Aksel Bech",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01310#Aksel Bech",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Tamahere",
+  "id": "WARD_01310",
+  "region": "Waikato",
+  "type": "Council"
+}

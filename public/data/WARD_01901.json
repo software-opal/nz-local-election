@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "South Waikato",
+      "electorate": "T\u012brau",
+      "image": null,
+      "lives_in": null,
+      "name": "Peter Schulte",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01901#Peter Schulte",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "T\u012brau",
+  "id": "WARD_01901",
+  "region": "South Waikato",
+  "type": "Council"
+}

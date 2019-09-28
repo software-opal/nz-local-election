@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "56",
+      "before_politics": "Farmer",
+      "election": "Northland",
+      "electorate": "Kaipara",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/59-76-Q19-0Y9A1217.jpg?itok=2vUDs15c",
+      "lives_in": "Aoroa Dargaville",
+      "name": "Penny Smart",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0103#Penny Smart",
+      "why_elect": "Northland is home for me and a region that I care deeply about, having lived here all my life, raised a family and run a business here. I have current and previous governance experience and consider myself to be very approachable, diligent, honest and to have integrity.",
+      "why_stand": "Northland's environmental sustainability and enhancement are core reasons for me standing for the Regional Council. I am also very focused on the Kaipara as I believe that there is untapped potential for economic, cultural, social and environmental development and improvement. Collaboration is key for me."
+    }
+  ],
+  "electorate": "Kaipara",
+  "id": "CON_0103",
+  "region": "Northland",
+  "type": "Regional Council"
+}

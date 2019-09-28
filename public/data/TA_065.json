@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Team Mackenzie",
+      "age": null,
+      "before_politics": null,
+      "election": " Mackenzie",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Julian Lee",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_065#Julian Lee",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Mackenzie",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Graham Smith",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_065#Graham Smith",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": null,
+  "id": "TA_065",
+  "region": " Mackenzie",
+  "type": "Mayor"
+}

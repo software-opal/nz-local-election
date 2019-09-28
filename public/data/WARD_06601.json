@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waimate",
+      "electorate": "Hakataramea-Waihaorunga",
+      "image": null,
+      "lives_in": null,
+      "name": "Colin Pankhurst",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06601#Colin Pankhurst",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Hakataramea-Waihaorunga",
+  "id": "WARD_06601",
+  "region": "Waimate",
+  "type": "Council"
+}

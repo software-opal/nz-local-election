@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": "63",
+      "before_politics": "Pest control project manager",
+      "election": "Northland",
+      "electorate": "Te Hiku",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/33-43-Q19-Mike_Finlayson_042.jpg?itok=rlMMGlyi",
+      "lives_in": "Herekino, Kaitaia area",
+      "name": "Mike Finlayson",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0101#Mike Finlayson",
+      "why_elect": "I'm a good listener and gather a wealth of information from the many community engagements I participate in. I see opportunity and push hard for the best solutions. In the last three years I have worked extensively with the community to achieve great results in flood and environmental protection.",
+      "why_stand": "To help our community better protect the environment (water, native species, marine ecosystems etc) simultaneously creating employment opportunities in the Far North. Helping to build better democratic engagement so communities aren't just 'consulted', they would be integral in the development of policies and projects that would benefit us all."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Northland",
+      "electorate": "Te Hiku",
+      "image": null,
+      "lives_in": null,
+      "name": "Colin Toss Kitchen",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0101#Colin Toss Kitchen",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Te Hiku",
+  "id": "CON_0101",
+  "region": "Northland",
+  "type": "Regional Council"
+}

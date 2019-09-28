@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Clutha",
+      "electorate": "Clinton",
+      "image": null,
+      "lives_in": null,
+      "name": "Jo-anne Thomson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07202#Jo-anne Thomson",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Clinton",
+  "id": "WARD_07202",
+  "region": "Clutha",
+  "type": "Council"
+}

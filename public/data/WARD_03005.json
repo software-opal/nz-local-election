@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Hastings",
+      "electorate": "Kahuranaki",
+      "image": null,
+      "lives_in": null,
+      "name": "Sophie Siers",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03005#Sophie Siers",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Kahuranaki",
+  "id": "WARD_03005",
+  "region": "Hastings",
+  "type": "Council"
+}

@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "wlg-vote"
+version = "0.1.0"
+description = ""
+authors = ["Opal Symes <code@opal.codes>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+requests = "^2.22"
+beautifulsoup4 = "^4.8"
+attrs = "^19.1"
+
+[tool.poetry.dev-dependencies]
+isort = "^4.3"
+black = {version = "^19.*",allows-prereleases = true}
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

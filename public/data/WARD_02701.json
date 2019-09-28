@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": "teacher.",
+      "election": "\u014cp\u014dtiki",
+      "electorate": "Coast",
+      "image": null,
+      "lives_in": null,
+      "name": "Haki Mcroberts",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02701#Haki Mcroberts",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "34",
+      "before_politics": "Peer Support Specialist",
+      "election": "\u014cp\u014dtiki",
+      "electorate": "Coast",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/WARD_02701_2.jpg?itok=UoNnMlOp",
+      "lives_in": "Maraenui",
+      "name": "Louis R\u0101pihana",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_02701#Louis R\u0101pihana",
+      "why_elect": "I am a person who loves communicating with people, I want the people to have more of a voice in local policies and plans moving forward.",
+      "why_stand": "I am standing as a candidate at the request of the people, the people want a change and I am honoured to help make that happen."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "\u014cp\u014dtiki",
+      "electorate": "Coast",
+      "image": null,
+      "lives_in": null,
+      "name": "Allen Waenga",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02701#Allen Waenga",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Coast",
+  "id": "WARD_02701",
+  "region": "\u014cp\u014dtiki",
+  "type": "Council"
+}

@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": " Manawat\u016b",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Shane Casey",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_039#Shane Casey",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Manawat\u016b",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Russell Johnson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_039#Russell Johnson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "63",
+      "before_politics": "Revitalisation Manager",
+      "election": " Manawat\u016b",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/87-147-Q19-Photo_hires.jpg?itok=pokxVShK",
+      "lives_in": "Mt Biggs",
+      "name": "Helen Worboys",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_039#Helen Worboys",
+      "why_elect": "I bring experience, leadership, energy and advocacy to the Mayor's role having previously led a 20 year revitalisation programme of Feilding. I am an experienced event manager, fundraiser, marriage and funeral celebrant, JP and Rotary member, with a 'can do' attitude and strong work ethics.",
+      "why_stand": "I am proud to be contributing to the significant progress in our district and region, which is experiencing substantial growth in both population and business growth. Our economy is the best it has been for a long time and is predicted to continue."
+    }
+  ],
+  "electorate": null,
+  "id": "TA_039",
+  "region": " Manawat\u016b",
+  "type": "Mayor"
+}

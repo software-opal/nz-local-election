@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Gisborne",
+      "electorate": "Matakaoa-Waiapu",
+      "image": null,
+      "lives_in": null,
+      "name": "Bill Burdett",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02801#Bill Burdett",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Gisborne",
+      "electorate": "Matakaoa-Waiapu",
+      "image": null,
+      "lives_in": null,
+      "name": "Kerry Kururangi",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02801#Kerry Kururangi",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Matakaoa-Waiapu",
+  "id": "WARD_02801",
+  "region": "Gisborne",
+  "type": "Council"
+}

@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "53",
+      "before_politics": "Agribusiness person",
+      "election": "Southland",
+      "electorate": "Fiordland",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/121-164-Q19-Allan_Baird_IMG_3451.jpg?itok=XuWHLVWM",
+      "lives_in": "Dipton, Southland",
+      "name": "Allan Baird",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_1501#Allan Baird",
+      "why_elect": "I have a strong commercial and farming background. I have eight years on Federated Farmers Southland Executive, including three years as Provincial President. Our family are long standing Southland residents and I have two sons to whom I would desire a prosperous and positive region for their generation and future.",
+      "why_stand": "Local government is an important part of our democracy and I have developed a good skill set to be of value to my community in this role."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Southland",
+      "electorate": "Fiordland",
+      "image": null,
+      "lives_in": null,
+      "name": "Roger Hodgkinson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_1501#Roger Hodgkinson",
+      "why_elect": "I'm an ex sheep farmer, now residing in Te Anau. I'm an active advocate for coherent regional strategy and actively lobby decision makers. We must formulate/implement our own regional solutions before they are externally imposed! Our region will thrive into the future despite economic and environmental challenges.",
+      "why_stand": "I am motivated to be nominated candidate for representing the Fiordland Constituency as I have moved their in the last 6 years and wish to actively contribute where I can, to help preserve both its spectacular natural environment and wildlife habitat of Fiordland National Park and adjoining farming region."
+    }
+  ],
+  "electorate": "Fiordland",
+  "id": "CON_1501",
+  "region": "Southland",
+  "type": "Regional Council"
+}

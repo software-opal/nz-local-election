@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waimate",
+      "electorate": "Pareora-Otaio-Makikihi",
+      "image": null,
+      "lives_in": null,
+      "name": "Sandy McAlwee",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06602#Sandy McAlwee",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waimate",
+      "electorate": "Pareora-Otaio-Makikihi",
+      "image": null,
+      "lives_in": null,
+      "name": "Tom O'Connor",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06602#Tom OConnor",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Pareora-Otaio-Makikihi",
+  "id": "WARD_06602",
+  "region": "Waimate",
+  "type": "Council"
+}

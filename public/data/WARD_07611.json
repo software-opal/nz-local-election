@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Communist League",
+      "age": null,
+      "before_politics": null,
+      "election": "Auckland",
+      "electorate": "Manukau",
+      "image": null,
+      "lives_in": null,
+      "name": "Patrick Brown",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07611#Patrick Brown",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Labour Party",
+      "age": null,
+      "before_politics": "Lecturer in Education",
+      "election": "Auckland",
+      "electorate": "Manukau",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/110-172-Q19-image.jpg?itok=bw_s-qjK",
+      "lives_in": "Otahuhu",
+      "name": "Faanana Efeso Collins",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_07611#Faanana Efeso Collins",
+      "why_elect": "Committed to social inclusion, harmony and justice, I want people of all backgrounds and leanings to feel a deep sense of belonging. I'm seeking a second term as councillor because there is still much work to do in achieving excellent local outcomes.",
+      "why_stand": "Growing up in Otara and being aware of the challenges facing our communities, I want to offer a style of leadership and advocacy that is bold, informed and passionate. Manukau is an amazing place with wonderful people and huge potential. This is my home."
+    },
+    {
+      "affiliation": "Labour Party",
+      "age": null,
+      "before_politics": null,
+      "election": "Auckland",
+      "electorate": "Manukau",
+      "image": null,
+      "lives_in": null,
+      "name": "Alf Filipaina",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07611#Alf Filipaina",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Manukau",
+  "id": "WARD_07611",
+  "region": "Auckland",
+  "type": "Council"
+}

@@ -1,0 +1,83 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "South Wairarapa",
+      "electorate": "Martinborough",
+      "image": null,
+      "lives_in": null,
+      "name": "Pam Colenso",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05003#Pam Colenso",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "South Wairarapa",
+      "electorate": "Martinborough",
+      "image": null,
+      "lives_in": null,
+      "name": "Jason Jackson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05003#Jason Jackson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Count Me In",
+      "age": null,
+      "before_politics": "Self employed small business",
+      "election": "South Wairarapa",
+      "electorate": "Martinborough",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/221-353-Q19-DaphneGeisler_photo.jpg?itok=dryBx4oa",
+      "lives_in": "Martinborough",
+      "name": "Daphne Geisler",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_05003#Daphne Geisler",
+      "why_elect": "I will focus on building trust by influencing sound decisions based on effective processes and will be responsive to community views and insist on sound financial management. I have proven analytical, financial, strategic and presentation skills and understand the responsibilities of Councillor. I have the time and attitude to succeed.",
+      "why_stand": "I am lucky to have lived in the Wairarapa for 20 years. I'm continuously inspired by local innovative and creative small businesses, the productive rural land, green hills, rugged coastline, caring community and diverse environment. I will work to protect it and improve how the Council delivers services."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "South Wairarapa",
+      "electorate": "Martinborough",
+      "image": null,
+      "lives_in": null,
+      "name": "Brian Jephson (Jeppy)",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05003#Brian Jephson Jeppy",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "South Wairarapa",
+      "electorate": "Martinborough",
+      "image": null,
+      "lives_in": null,
+      "name": "Pip Maynard",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05003#Pip Maynard",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Martinborough",
+  "id": "WARD_05003",
+  "region": "South Wairarapa",
+  "type": "Council"
+}

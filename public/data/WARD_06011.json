@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "The People's Choice - Labour",
+      "age": "41",
+      "before_politics": "Business owner and parent",
+      "election": "Christchurch",
+      "electorate": "Spreydon",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/55-92-Q19-Melanie_Coker_small.jpg?itok=O8eKb-Ak",
+      "lives_in": "Spreydon",
+      "name": "Melanie Coker",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06011#Melanie Coker",
+      "why_elect": "I have a PhD in biochemistry, and worked as a research scientist for 10 years, so have academic skills and determination. I am the director of my own successful education company, so have business experience and financial nous. I have firsthand understanding of the issues of the Spreydon Ward community.",
+      "why_stand": "I've lived in Christchurch my whole life and feel committed to our city. I've worked in the Spreydon community on the community board for the past six years. I want to continue to serve the people of Christchurch as, for me, this is the best city in the world."
+    },
+    {
+      "affiliation": "Independent",
+      "age": "38",
+      "before_politics": "construction worker",
+      "election": "Christchurch",
+      "electorate": "Spreydon",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/100-167-Q19-fullsizeoutput_183c.jpg?itok=ycin5dzm",
+      "lives_in": "Spreydon",
+      "name": "Scott Esdaile",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06011#Scott Esdaile",
+      "why_elect": "I place great importance on acting quickly on things that matter. Working for a local contracting roading company gives me a down to earth, practical hands on approach. I believe I bring to Council a fresh approach including strong communication skills, leadership, integrity, accountability and a great deal of positivity.",
+      "why_stand": "Born and bred in Christchurch I'm a passionate advocate of this city and its people. I want to be the voice of my local electorate and work hard to affect change."
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Christchurch",
+      "electorate": "Spreydon",
+      "image": null,
+      "lives_in": null,
+      "name": "Peter Gatonyi",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06011#Peter Gatonyi",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Spreydon",
+  "id": "WARD_06011",
+  "region": "Christchurch",
+  "type": "Council"
+}

@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": "Engineer",
+      "election": "Thames-Coromandel",
+      "electorate": "Coromandel-Colville",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/WARD_01101_1.jpg?itok=yJ98wulP",
+      "lives_in": "Coromandel town",
+      "name": "Tony Brljevich",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_01101#Tony Brljevich",
+      "why_elect": "I have a passion to see a community making its own decisions on matters that affect it and I have the experience required to navigate bureaucracy to see these decisions implemented.",
+      "why_stand": "I am running for election to ensure the community's wishes are heard in council and implemented as practically as possible."
+    },
+    {
+      "affiliation": "Independent",
+      "age": "72",
+      "before_politics": "Pharmacist/Chemist",
+      "election": "Thames-Coromandel",
+      "electorate": "Coromandel-Colville",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/178-297-Q19-fullsizeoutput_60da.jpg?itok=L_gG5sF-",
+      "lives_in": "Coromandel",
+      "name": "Neville Cameron",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_01101#Neville Cameron",
+      "why_elect": "I lave a long history as a small businessman, I know that you should not spend more than your income. I have lived in Coromandel for 44 years my parents ashes are on the Tokotea. My grandparents are buried in Thames. This is my Turangawaewae.",
+      "why_stand": "We need to even up the development and infrastructure across the TCDC area and get the rural areas better represented. The TCDC in the past prevented Whangamata from getting an airport! Other areas apart from Thames need to be heard, especially Coromandel/Colville."
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Thames-Coromandel",
+      "electorate": "Coromandel-Colville",
+      "image": null,
+      "lives_in": null,
+      "name": "John Morrissey",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01101#John Morrissey",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Coromandel-Colville",
+  "id": "WARD_01101",
+  "region": "Thames-Coromandel",
+  "type": "Council"
+}

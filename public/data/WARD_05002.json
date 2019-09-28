@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "South Wairarapa",
+      "electorate": "Featherston",
+      "image": null,
+      "lives_in": null,
+      "name": "Ross Vickery",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05002#Ross Vickery",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "South Wairarapa",
+      "electorate": "Featherston",
+      "image": null,
+      "lives_in": null,
+      "name": "Colin Olds",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05002#Colin Olds",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "South Wairarapa",
+      "electorate": "Featherston",
+      "image": null,
+      "lives_in": null,
+      "name": "Garrick Emms",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05002#Garrick Emms",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Integrity - Inclusive - Progress",
+      "age": null,
+      "before_politics": null,
+      "election": "South Wairarapa",
+      "electorate": "Featherston",
+      "image": null,
+      "lives_in": null,
+      "name": "Brenda West",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05002#Brenda West",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Featherston",
+  "id": "WARD_05002",
+  "region": "South Wairarapa",
+  "type": "Council"
+}

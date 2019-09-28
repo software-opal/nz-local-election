@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": " Stratford",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Rawinia Henderson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_034#Rawinia Henderson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Stratford",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Graham William Kelly",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_034#Graham William Kelly",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Stratford",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Neil Volzke",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_034#Neil Volzke",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": null,
+  "id": "TA_034",
+  "region": " Stratford",
+  "type": "Mayor"
+}

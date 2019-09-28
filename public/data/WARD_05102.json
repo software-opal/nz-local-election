@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Tasman",
+      "electorate": "Lakes-Murchison",
+      "image": null,
+      "lives_in": null,
+      "name": "Stuart Bryant",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05102#Stuart Bryant",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Lakes-Murchison",
+  "id": "WARD_05102",
+  "region": "Tasman",
+  "type": "Council"
+}

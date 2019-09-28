@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Ruapehu",
+      "electorate": "Ohura",
+      "image": null,
+      "lives_in": null,
+      "name": "Lyn Neeson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03601#Lyn Neeson",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Ohura",
+  "id": "WARD_03601",
+  "region": "Ruapehu",
+  "type": "Council"
+}

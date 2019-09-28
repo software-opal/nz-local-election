@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "West Coast",
+      "electorate": "Westland",
+      "image": null,
+      "lives_in": null,
+      "name": "John William Wood",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_1203#John William Wood",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "59",
+      "before_politics": "Civil Engioneer",
+      "election": "West Coast",
+      "electorate": "Westland",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/62-79-Q19-Stuart-Challenger_Thumbnail-480x331.jpg?itok=YysJu1Yh",
+      "lives_in": "3 Mile Hokitika",
+      "name": "Stuart Challenger",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_1203#Stuart Challenger",
+      "why_elect": "I am a Natural Resource Engineer, which gives me a good understanding of both the hard and soft process involved in development. I have a good understanding of the drivers of the West Coast residents through my work and sporting involvement over the years.",
+      "why_stand": "I believe that the West Coast has a great future, however, there are a large number of people looking for short terms gains and not considering the long term. I am standing for consideration of what we want the West Coast to be in 20 years."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "West Coast",
+      "electorate": "Westland",
+      "image": null,
+      "lives_in": null,
+      "name": "Debra Magner",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_1203#Debra Magner",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": "41",
+      "before_politics": "Small businesses owner",
+      "election": "West Coast",
+      "electorate": "Westland",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/118-159-Q19-F1A65BBA-6C96-4781-9B63-7D9ADAAE2426.jpg?itok=MOX73Ysq",
+      "lives_in": "Franz Josef Glacier",
+      "name": "Logan John Skinner",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_1203#Logan John Skinner",
+      "why_elect": "I will drive action and accountability at WCRC. I grew up on a farm and am now involved in tourism so understand some of the key industries in Westland first hand. I have worked for the Government Auditor Audit NZ in the past and seen good and bad governance.",
+      "why_stand": "We need more action and accountability from WCRC. Too often problems are ignored until they become an expensive \"emergency\" fix\u2014such as the Hokitika sea wall."
+    }
+  ],
+  "electorate": "Westland",
+  "id": "CON_1203",
+  "region": "West Coast",
+  "type": "Regional Council"
+}

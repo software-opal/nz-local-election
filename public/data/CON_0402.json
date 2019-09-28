@@ -1,0 +1,83 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Bay of Plenty",
+      "electorate": "Tauranga",
+      "image": null,
+      "lives_in": null,
+      "name": "Paula Thompson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0402#Paula Thompson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "ACTION not WORDS",
+      "age": null,
+      "before_politics": null,
+      "election": "Bay of Plenty",
+      "electorate": "Tauranga",
+      "image": null,
+      "lives_in": null,
+      "name": "Andrew von Dadelszen",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0402#Andrew von Dadelszen",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Bay of Plenty",
+      "electorate": "Tauranga",
+      "image": null,
+      "lives_in": null,
+      "name": "Stuart Crosby",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0402#Stuart Crosby",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "LOVE TAURANGA!",
+      "age": null,
+      "before_politics": null,
+      "election": "Bay of Plenty",
+      "electorate": "Tauranga",
+      "image": null,
+      "lives_in": null,
+      "name": "David Love",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0402#David Love",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Lets BANG This Out",
+      "age": null,
+      "before_politics": null,
+      "election": "Bay of Plenty",
+      "electorate": "Tauranga",
+      "image": null,
+      "lives_in": null,
+      "name": "Stacey Rose",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0402#Stacey Rose",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Tauranga",
+  "id": "CON_0402",
+  "region": "Bay of Plenty",
+  "type": "Regional Council"
+}

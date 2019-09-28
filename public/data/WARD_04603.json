@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": "25",
+      "before_politics": "Financial Advisor",
+      "election": "Lower Hutt",
+      "electorate": "Northern",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/252-404-Q19-CD_Profile-Picture_01.jpg?itok=nHJiMi0C",
+      "lives_in": "Stokes valley",
+      "name": "Casey Diver",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_04603#Casey Diver",
+      "why_elect": "I have a background in the not-for-profit sector and also the private sector in finance. I am highly educated and experienced in organising, leading, communicating and delivering community outcomes. Through my work I have developed a core belief that to serve the community is to put service above self.",
+      "why_stand": "I would one day like to have a family to grow up in the Hutt City. To do that I feel that we need voices around the council table that are working for community first and foremost. That put service above self in the pursuit of community development."
+    },
+    {
+      "affiliation": "Bring Back Julie",
+      "age": null,
+      "before_politics": null,
+      "election": "Lower Hutt",
+      "electorate": "Northern",
+      "image": null,
+      "lives_in": null,
+      "name": "Julie Englebretsen",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_04603#Julie Englebretsen",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Lower Hutt",
+      "electorate": "Northern",
+      "image": null,
+      "lives_in": null,
+      "name": "Leigh Sutton",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_04603#Leigh Sutton",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Northern",
+  "id": "WARD_04603",
+  "region": "Lower Hutt",
+  "type": "Council"
+}

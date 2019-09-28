@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Hawke's Bay",
+      "electorate": "Ngaruroro",
+      "image": null,
+      "lives_in": null,
+      "name": "Jeff van Beek",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0603#Jeff van Beek",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": "65",
+      "before_politics": "Lawyer and Adviser",
+      "election": "Hawke's Bay",
+      "electorate": "Ngaruroro",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/92-122-Q19-Guy_Wellwood_2019.jpg?itok=vq1QxBuS",
+      "lives_in": "Havelock North",
+      "name": "Guy Wellwood",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0603#Guy Wellwood",
+      "why_elect": "I am a clear and independent thinker that can be convinced of other arguments if they are good enough. I have lived and worked in Hawkes Bay for most of my life in good times and bad. I have always been prepared to listen and learn.",
+      "why_stand": "After a career as a lawyer and a government and business adviser I would like the opportunity to be a politician which I define as one who works and debates with other councillors to reach consensus on priorities in the Region for the benefit of the environment and the economy."
+    }
+  ],
+  "electorate": "Ngaruroro",
+  "id": "CON_0603",
+  "region": "Hawke's Bay",
+  "type": "Regional Council"
+}

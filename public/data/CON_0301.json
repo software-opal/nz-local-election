@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Thames-Coromandel",
+      "image": null,
+      "lives_in": null,
+      "name": "Liam Kedzlie",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0301#Liam Kedzlie",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Rates Control Team",
+      "age": "54",
+      "before_politics": "Documentary maker\u2014film maker",
+      "election": "Waikato",
+      "electorate": "Thames-Coromandel",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/9-16-Q19-Clyde_Graf_election_2019.jpg?itok=JmgfdYv4",
+      "lives_in": "Hamilton\u2014 close to WRC",
+      "name": "Clyde Graf",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0301#Clyde Graf",
+      "why_elect": "To make a good council representative, a person must have courage and determination. In Council, it is staff that often drive the agenda, and unfortunately most councillors sit back and do little to challenge that bureaucratic direction when needed. My track record shows I work for the people, not staff.",
+      "why_stand": "I have spent the last 21 years interviewing, and listening to community members while filming and producing wildlife and environmental documentaries. I enjoy hearing about the issues that matter to people and I enjoy representing those people and their communities, offering a voice on their behalf."
+    },
+    {
+      "affiliation": null,
+      "age": "62",
+      "before_politics": "Business owner/operator",
+      "election": "Waikato",
+      "electorate": "Thames-Coromandel",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/43-56-Q19-Dal_Minogue.jpg?itok=Nt4OS5kN",
+      "lives_in": "Ferry Landing",
+      "name": "Dal Minogue",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0301#Dal Minogue",
+      "why_elect": "Firstly, I regard it as a privilege to represent the Thames-Coromandel ward and take the duties that arise seriously. Secondly, I always do my best to capture the genuine feelings of people. Thirdly, I adopt an honest, straight forward leadership style when representing those in Council.",
+      "why_stand": "I am passionate about improving and protecting our environment while allowing for the continued economic expansion of our economy. I am passionate about finding smart, intelligent, innovative ways to do this because if we don't, none of us will win."
+    },
+    {
+      "affiliation": "Independent",
+      "age": "70",
+      "before_politics": "Lawyer and campaigner",
+      "election": "Waikato",
+      "electorate": "Thames-Coromandel",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/77-99-Q19-Denis_Photo_2wrc.jpg?itok=BrgsRhwA",
+      "lives_in": "Thames",
+      "name": "Denis Tegg",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0301#Denis Tegg",
+      "why_elect": "As a (retired) lawyer and community campaigner I have the requisite knowledge experience and vision. eg. as a private citizen I initiated the successful Thames public bus service, and 20 years ago, I proposed a law which still protects many Coromandel beaches and forests from mining.",
+      "why_stand": "I'm standing for Waikato Regional Council because I want our children to inherit a livable and prosperous planet. We may fail to do that unless we reduce emissions by 50% within 10 years. This is a climate crisis and regional council must lead with urgent action."
+    }
+  ],
+  "electorate": "Thames-Coromandel",
+  "id": "CON_0301",
+  "region": "Waikato",
+  "type": "Regional Council"
+}

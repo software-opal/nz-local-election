@@ -1,0 +1,83 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "52",
+      "before_politics": "Consultant",
+      "election": "Kaipara",
+      "electorate": "Otamatea",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/423-687-Q19-Anna-Curnow-Web__1_of_3.jpg?itok=JNNvTh5a",
+      "lives_in": "Ruawai",
+      "name": "Anna Curnow",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_00303#Anna Curnow",
+      "why_elect": "I'm experienced in management with both small and large businesses and also not-for-profits. I have significant experience in local government and regional economic development work. I've lived in Kaipara for over 12 years. Both my daughters went to school in Maungaturoto and I live on a dairy farm in Ruawai.",
+      "why_stand": "I'm passionate about our beautiful District and the opportunities that exist here. Our land is productive, our people are hard workers, our communities are vibrant and our environment is beautiful. What's more, we are right next door to the biggest city in NZ. Huge potential!"
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Kaipara",
+      "electorate": "Otamatea",
+      "image": null,
+      "lives_in": null,
+      "name": "Craig Jepson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_00303#Craig Jepson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Kaipara",
+      "electorate": "Otamatea",
+      "image": null,
+      "lives_in": null,
+      "name": "Wayne Linton",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_00303#Wayne Linton",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Kaipara",
+      "electorate": "Otamatea",
+      "image": null,
+      "lives_in": null,
+      "name": "Ian Miller",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_00303#Ian Miller",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Kaipara",
+      "electorate": "Otamatea",
+      "image": null,
+      "lives_in": null,
+      "name": "Mark Gregory Vincent",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_00303#Mark Gregory Vincent",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Otamatea",
+  "id": "WARD_00303",
+  "region": "Kaipara",
+  "type": "Council"
+}

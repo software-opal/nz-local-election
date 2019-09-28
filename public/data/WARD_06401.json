@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Timaru",
+      "electorate": "Geraldine",
+      "image": null,
+      "lives_in": null,
+      "name": "Gavin Oliver",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06401#Gavin Oliver",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Timaru",
+      "electorate": "Geraldine",
+      "image": null,
+      "lives_in": null,
+      "name": "McGregor Simpson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06401#McGregor Simpson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "64",
+      "before_politics": "Principal Geraldine High School",
+      "election": "Timaru",
+      "electorate": "Geraldine",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/WARD_06401_3.jpg?itok=yk4o0pg7",
+      "lives_in": "Near Geraldine",
+      "name": "Kerry Stevens",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06401#Kerry Stevens",
+      "why_elect": "My connection to Geraldine spans 18 years in three very different roles (Principal, Manager and councillor), but all are leadership positions serving our community in some way. I enjoy the complexity of the councillor's role which involves a mixture of supporting local people/groups and developing council plans, strategies and policies.",
+      "why_stand": "I'm proud to call Geraldine home because it's a special and unique community. I have the time, energy, persistence and skills needed to perform the councillor's role; and I'm strongly motivated to making a positive difference for our community because I find this personally very satisfying."
+    }
+  ],
+  "electorate": "Geraldine",
+  "id": "WARD_06401",
+  "region": "Timaru",
+  "type": "Council"
+}

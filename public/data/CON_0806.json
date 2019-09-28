@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Manawat\u016b-Whanganui",
+      "electorate": "Tararua",
+      "image": null,
+      "lives_in": null,
+      "name": "Allan Benbow",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0806#Allan Benbow",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "50",
+      "before_politics": "Farm business owner",
+      "election": "Manawat\u016b-Whanganui",
+      "electorate": "Tararua",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/170-229-Q19-BW1_8478_cropped.jpg?itok=LA9FUi67",
+      "lives_in": "Ballance",
+      "name": "Andrew Day",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0806#Andrew Day",
+      "why_elect": "I'm a third generation sheep, beef and dairy support farmer with an Ag-science degree and have a track record of ensuring our natural resources are used in a fair and equitable manner that provides for future generations. It's about creating a level playing field for all.",
+      "why_stand": "I'm standing for Horizons because I believe Tararua can have both a thriving prosperous economy and a natural environment to be proud of, so it remains a great place to work and play for future generations."
+    },
+    {
+      "affiliation": "Independent",
+      "age": "61",
+      "before_politics": "Semi Retired Dairy Farmer",
+      "election": "Manawat\u016b-Whanganui",
+      "electorate": "Tararua",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/148-194-Q19-Lorraine_Stephenson-Net-.jpg?itok=VzGHDkum",
+      "lives_in": "Tararua",
+      "name": "Lorraine Stephenson",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0806#Lorraine Stephenson",
+      "why_elect": "I have 35 years local, regional and national governance experience. Resource Management background, Hearing Commissioner for 25 years. Extensive community/volunteer work in Tararua. I am politically savvy, self driven, analytical,strategic, culturally aware and not afraid of hard work. I am M\u0101ori and a woman who is well qualified for the role.",
+      "why_stand": "Born and bred in Tararua, lived and worked on the land all my life. I am a caretaker/kaitiaki of the land. I am passionate about Tararua and my life's work has paved a clear pathway to a role with Horizons Regional Council. It is my turn,my time to represent Tararua."
+    }
+  ],
+  "electorate": "Tararua",
+  "id": "CON_0806",
+  "region": "Manawat\u016b-Whanganui",
+  "type": "Regional Council"
+}

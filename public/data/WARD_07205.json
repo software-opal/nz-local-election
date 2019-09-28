@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Clutha",
+      "electorate": "Catlins",
+      "image": null,
+      "lives_in": null,
+      "name": "Dane Catherwood",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07205#Dane Catherwood",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Clutha",
+      "electorate": "Catlins",
+      "image": null,
+      "lives_in": null,
+      "name": "Hilary Mcnab",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07205#Hilary Mcnab",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Catlins",
+  "id": "WARD_07205",
+  "region": "Clutha",
+  "type": "Council"
+}

@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waimate",
+      "electorate": "Lower Waihao",
+      "image": null,
+      "lives_in": null,
+      "name": "Sheila Paul",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06603#Sheila Paul",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Lower Waihao",
+  "id": "WARD_06603",
+  "region": "Waimate",
+  "type": "Council"
+}

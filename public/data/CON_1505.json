@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Southland",
+      "electorate": "Southern",
+      "image": null,
+      "lives_in": null,
+      "name": "Lloyd James Mccallum",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_1505#Lloyd James Mccallum",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Southern",
+  "id": "CON_1505",
+  "region": "Southland",
+  "type": "Regional Council"
+}

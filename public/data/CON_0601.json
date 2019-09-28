@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "61",
+      "before_politics": "Community Worker",
+      "election": "Hawke's Bay",
+      "electorate": "Wairoa",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/147-193-Q19.jpg?itok=GQqWibbv",
+      "lives_in": "Mohaka",
+      "name": "Charles Lambert",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0601#Charles Lambert",
+      "why_elect": "I have served a term as a Wairoa District Councillor (WDC). In this position I gained valuable experience with new fresh water regulations, with infrastructure and asset management, producing long term and annual plans. And the importance of genuine consultation. I can do this and I can do it well.",
+      "why_stand": "I believe that we have the responsibility of handing over our lands and waterways to the next generation in the best condition possible. The biggest danger to our environment is us. That's why I'm here, I think we can make some positive changes."
+    },
+    {
+      "affiliation": "Independent",
+      "age": "54",
+      "before_politics": "I continue work in agriculture",
+      "election": "Hawke's Bay",
+      "electorate": "Wairoa",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/141-186-Q19-DB21B863-4873-4D07-B1BD-1B704D8F24F9.jpg?itok=L9hE86Ry",
+      "lives_in": "Mangapoike road Frasertown",
+      "name": "Fenton Wilson",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0601#Fenton Wilson",
+      "why_elect": "I live and farm in Wairoa and have a wealth of governance experience from leadership positions over the last 10 years plus. It's a full time role and I have attended in excess of 90% of all meetings over my years as a councillor. I am prepared to work hard.",
+      "why_stand": "Wairoa needs an experienced councillor to continue progress in transport, sensible land use, tourism opportunities and new developments such as a Wairoa regional park leverage funded with regional seeding cash. Progress takes time when you are working with multi agencies and I have the connections to accelerate success."
+    }
+  ],
+  "electorate": "Wairoa",
+  "id": "CON_0601",
+  "region": "Hawke's Bay",
+  "type": "Regional Council"
+}

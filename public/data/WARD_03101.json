@@ -1,0 +1,83 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": "42",
+      "before_politics": "Company Director.",
+      "election": "Napier",
+      "electorate": "Ahuriri",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/214-345-Q19-67815300_107974210563532_7728914621200859136_n.jpg?itok=bYF8RioW",
+      "lives_in": "Ahuriri ward.",
+      "name": "Matthew Bonnett",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_03101#Matthew Bonnett",
+      "why_elect": "I have the energy and the experience in governance and strategic planning to represent Ahuriri ward and our greater city with sound judgment.",
+      "why_stand": "Our city needs compassionate, dynamic councillors who can focus on the core obligations of council in providing sound infrastructure, including clean and unadulterated water, parking, paths and roading, a recycling service with reliability and integrity, improved environmental management, and emergency preparedness."
+    },
+    {
+      "affiliation": null,
+      "age": "34",
+      "before_politics": "Professional Engineer",
+      "election": "Napier",
+      "electorate": "Ahuriri",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/501-796-Q19-1T9a-SFA.jpg?itok=CTpD3Fm-",
+      "lives_in": "Bluff Hill",
+      "name": "Hayley Browne (nee Young)",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_03101#Hayley Browne nee Young",
+      "why_elect": "I'm a Process Engineer with a background in water systems, maintenance and risk management. I've advocated for human rights at an international level, I'll use those skills to ensure the voice of Napier is heard. I'm future focused and will push for sustainable, resilient growth of our city.",
+      "why_stand": "I've fought for human rights internationally for five years and I'll to use the empathy and strength I've gained to ensure every decision at council has considered the dignity and respect of the people in our community. I want Napier to be the best place to live, work and play."
+    },
+    {
+      "affiliation": "More of a say",
+      "age": "38",
+      "before_politics": "Businessperson and father of 2",
+      "election": "Napier",
+      "electorate": "Ahuriri",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/574-907-Q19-J_Crow_Head_and_Shoulders_HiRes_2.jpg?itok=bD5S9qn3",
+      "lives_in": "Ahuriri Ward, Napier",
+      "name": "James Crow",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_03101#James Crow",
+      "why_elect": "I bring strong governance and perspective to council, sitting on both a company and charitable trust board. I have rallied for issues of homelessness and housing at both council and government level. I will champion our community and ensure the sustainable and economic growth of our city.",
+      "why_stand": "A lack of consistent consultation process has caused major projects to be challenged by the public. This as a clear indication council is not listening to residents. We need a council that will work to improve infrastructure like clean water before leaping into large projects like pools and tourism endeavours."
+    },
+    {
+      "affiliation": "New Independent - time for change",
+      "age": null,
+      "before_politics": null,
+      "election": "Napier",
+      "electorate": "Ahuriri",
+      "image": null,
+      "lives_in": null,
+      "name": "Craig Morley",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03101#Craig Morley",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": "Business Owner D/SGT NZ Police",
+      "election": "Napier",
+      "electorate": "Ahuriri",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/235-374-Q19-Keith_Price_Square.jpg?itok=fBAc6KQN",
+      "lives_in": "Napier City",
+      "name": "Keith Price",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_03101#Keith Price",
+      "why_elect": "After serving the city for four terms, I have a lot to offer in terms of both experience and future focus. It is important to me to research thoroughly and listen to all contributions in order to make informed decisions. I have a strong voice for my constituents.",
+      "why_stand": "Napier is a vibrant and progressive place to live and visit. It is important to me to see the city move ahead, while ensuring that we have the fundamentals right, including and effective and sustainable infrastructure. We have an iconic identity that we need to protect."
+    }
+  ],
+  "electorate": "Ahuriri",
+  "id": "WARD_03101",
+  "region": "Napier",
+  "type": "Council"
+}

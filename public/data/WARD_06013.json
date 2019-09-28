@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "The People's Choice - Labour",
+      "age": "42",
+      "before_politics": "Development Manager",
+      "election": "Christchurch",
+      "electorate": "Cashmere",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/691-1143-Q19-AF8AF550-AAF7-4972-A56E-0EAEF203C805.jpg?itok=qumpNCPL",
+      "lives_in": "Cashmere, Christchurch",
+      "name": "Lee Sampson",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06013#Lee Sampson",
+      "why_elect": "I've spent 20+ years managing large public and private sector projects and I'm confident that by making sounder decisions and getting the basics right, we can deliver more for our communities and within our financial constraints.",
+      "why_stand": "I'm ensuring Christchurch realises it's potential as one of the most liveable, vibrant, sustainable cities in the world\u2014for all our communities. I'm standing to safeguard this future knowing I have a track record of collaboratively getting things done\u2014and can tackle big issues in a positive way."
+    },
+    {
+      "affiliation": "Independent",
+      "age": "57",
+      "before_politics": "Event Manager",
+      "election": "Christchurch",
+      "electorate": "Cashmere",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/490-777-Q19-7422_Tim-Scandrett_0030.jpg?itok=Wf-a9dCE",
+      "lives_in": "Cashmere",
+      "name": "Tim Scandrett",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06013#Tim Scandrett",
+      "why_elect": "I am an experienced City Councillor who knows how to get the job done. I am a strong independent advocate who will continue to keep our community's voice at the core of council decision making.",
+      "why_stand": "I am running for Council again as I believe we are making great progress in rebuilding our city. But there is still a lot to do. My Cashmere ward has a wonderful natural environment which we all love and I want to protect."
+    },
+    {
+      "affiliation": null,
+      "age": "64",
+      "before_politics": "Insurance Loss Adjuster",
+      "election": "Christchurch",
+      "electorate": "Cashmere",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/534-848-Q19-0.jpg?itok=UxB_e3mv",
+      "lives_in": "Cashmere",
+      "name": "Joe Sullivan",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06013#Joe Sullivan",
+      "why_elect": "I have lived and worked in Christchurch most of my life and I believe I have the core values and experience to make a very solid and dependable contribution to the council and the people of our city.",
+      "why_stand": "I think we have a very special city with a unique heritage and an even greater future ahead of us. We have the opportunity in acting for the people of Christchurch to make this our city, the city of choice for NZ. We can do better."
+    }
+  ],
+  "electorate": "Cashmere",
+  "id": "WARD_06013",
+  "region": "Christchurch",
+  "type": "Council"
+}

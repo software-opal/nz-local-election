@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Whangarei",
+      "electorate": "Whangarei Heads",
+      "image": null,
+      "lives_in": null,
+      "name": "Dave Blackley",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_00203#Dave Blackley",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Whangarei",
+      "electorate": "Whangarei Heads",
+      "image": null,
+      "lives_in": null,
+      "name": "Greg Innes",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_00203#Greg Innes",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "62",
+      "before_politics": "Leadership Training",
+      "election": "Whangarei",
+      "electorate": "Whangarei Heads",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/34-62-Q19-2C780D09-BB75-4426-A0C8-77E62AFEDB1D.jpg?itok=nySPMOmF",
+      "lives_in": "McLeod Bay, Whangarei Heads",
+      "name": "Don Lake",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_00203#Don Lake",
+      "why_elect": "I have been in leadership and governance roles since I was still in high school, and have worked with leadership teams in non-profit organisations over a long period of time. As a medical graduate (GP) I have worked with individuals and communities and understand what 'healthy' looks like.",
+      "why_stand": "I believe strongly in representative government where ordinary people get to have a say in issues that directly affect them. I believe we are in an age where long term planning has got to focus on 'the big' and where businesses need to partner with council to achieve shared outcomes."
+    }
+  ],
+  "electorate": "Whangarei Heads",
+  "id": "WARD_00203",
+  "region": "Whangarei",
+  "type": "Council"
+}

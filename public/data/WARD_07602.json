@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Putting People First",
+      "age": null,
+      "before_politics": null,
+      "election": "Auckland",
+      "electorate": "Albany",
+      "image": null,
+      "lives_in": null,
+      "name": "John Watson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07602#John Watson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "59",
+      "before_politics": "Business woman and writer",
+      "election": "Auckland",
+      "electorate": "Albany",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/94-148-Q19-IMG_20190829_090942_454.jpg?itok=Lg15VDlc",
+      "lives_in": "Orewa",
+      "name": "Alezix Heneti",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_07602#Alezix Heneti",
+      "why_elect": "I have served community and business 38 years.",
+      "why_stand": "I know Albany Ward is the best area to live in."
+    },
+    {
+      "affiliation": "Independent",
+      "age": "66",
+      "before_politics": "School Teacher",
+      "election": "Auckland",
+      "electorate": "Albany",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/85-133-Q19-Parfitt-14_16.jpg?itok=FiGqUkPJ",
+      "lives_in": "Murrays Bay",
+      "name": "Julia Parfitt",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_07602#Julia Parfitt",
+      "why_elect": "I believe my experience as the Chairperson of the Hibiscus and Bays Local Board and a former North Shore City councillor representing the Albany ward, has given me an excellent understanding of the issues we face. I am hardworking and effective at ensuring our needs are recognised and met.",
+      "why_stand": "I am standing because I believe it's time for change. After 9 years I am extremely disappointed to see what little focus our ward, Auckland's fastest growing, has within council and council budgets. I will work collaboratively within council to resolve issues rather than just highlighting them."
+    },
+    {
+      "affiliation": "Putting People First",
+      "age": null,
+      "before_politics": null,
+      "election": "Auckland",
+      "electorate": "Albany",
+      "image": null,
+      "lives_in": null,
+      "name": "Wayne Walker",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07602#Wayne Walker",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Albany",
+  "id": "WARD_07602",
+  "region": "Auckland",
+  "type": "Council"
+}

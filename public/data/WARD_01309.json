@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Raglan",
+      "image": null,
+      "lives_in": null,
+      "name": "Dennis Amoore",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01309#Dennis Amoore",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Raglan",
+      "image": null,
+      "lives_in": null,
+      "name": "Matt Holl",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01309#Matt Holl",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Raglan",
+      "image": null,
+      "lives_in": null,
+      "name": "Lisa Thomson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01309#Lisa Thomson",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Raglan",
+  "id": "WARD_01309",
+  "region": "Waikato",
+  "type": "Council"
+}

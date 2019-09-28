@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "50",
+      "before_politics": "Father, gardener",
+      "election": " Southland",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/471-749-Q19-IMG_0330.jpg?itok=JOdj81TS",
+      "lives_in": "Riverton",
+      "name": "Don Byars",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_073#Don Byars",
+      "why_elect": "I believe the council exists to empower our community rather than to direct it. To properly represent our community, I believe elected representatives need to be in our community, working alongside our people to tackle problems and develop opportunities together. These beliefs provide a good foundation to represent our community.",
+      "why_stand": "Our region's efforts to earn income have come at the expense of diversity of employment for our people, economic stability in times of change and environmental costs. I believe we can broaden our approach to growth so that it improves the well-being of our community."
+    },
+    {
+      "affiliation": null,
+      "age": "65",
+      "before_politics": "Publican and Author",
+      "election": " Southland",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/637-1032-Q19-Tim_Hanna.jpg?itok=38OZBMcq",
+      "lives_in": "Lumsden",
+      "name": "Tim Hanna",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_073#Tim Hanna",
+      "why_elect": "Having worked in advertising as a creative director and later becoming a successful author my communication and marketing skills will prove useful as mayor. I have restored an old hotel so that is a thriving social hub for my community and I appreciate the challenges and opportunities for new businesses.",
+      "why_stand": "I believe that Southland offers unique opportunities for a growing population of individuals and families seeking a better life. Identifying and encouraging the development of this potential is a key driver in securing a better future for our region and as mayor I would make this a priority."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Southland",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Gary Ian Tong",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_073#Gary Ian Tong",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": null,
+  "id": "TA_073",
+  "region": " Southland",
+  "type": "Mayor"
+}

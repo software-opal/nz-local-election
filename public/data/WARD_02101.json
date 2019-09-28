@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Taup\u014d",
+      "electorate": "Mangakino-Pouakani",
+      "image": null,
+      "lives_in": null,
+      "name": "Kirsty Trueman",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02101#Kirsty Trueman",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Mangakino-Pouakani",
+  "id": "WARD_02101",
+  "region": "Taup\u014d",
+  "type": "Council"
+}

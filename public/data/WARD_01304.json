@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Hukanui-Waerenga",
+      "image": null,
+      "lives_in": null,
+      "name": "Howard Lovell",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01304#Howard Lovell",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Hukanui-Waerenga",
+      "image": null,
+      "lives_in": null,
+      "name": "Chris Woolerton",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01304#Chris Woolerton",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Hukanui-Waerenga",
+  "id": "WARD_01304",
+  "region": "Waikato",
+  "type": "Council"
+}

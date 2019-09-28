@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "38",
+      "before_politics": "Youth Worker",
+      "election": " Selwyn",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/655-1070-Q19-9B5E5A97-B4D6-457A-AC62-E77766124056.jpg?itok=Rh7vQj45",
+      "lives_in": "Darfield",
+      "name": "Sam Broughton",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_062#Sam Broughton",
+      "why_elect": "I love people and enjoy supporting others to be the best they can be. I enjoy strategic thinking and planning for the future by taking a long term view. I like to see things planned well but am passionate about kick starting projects to get them going.",
+      "why_stand": "I love Selwyn and live in Darfield with my wife Liz and daughter Elliott. I believe in using my skills and abilities to contribute to our community and enjoy investing my time and relationships with others to build Selwyn for all."
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": " Selwyn",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Bill Woods",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_062#Bill Woods",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": null,
+  "id": "TA_062",
+  "region": " Selwyn",
+  "type": "Mayor"
+}

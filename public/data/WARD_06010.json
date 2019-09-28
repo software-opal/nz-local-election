@@ -1,0 +1,83 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Christchurch",
+      "electorate": "Riccarton",
+      "image": null,
+      "lives_in": null,
+      "name": "Peter Laloli",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06010#Peter Laloli",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "The People's Choice - Labour",
+      "age": "56",
+      "before_politics": "Union Organiser",
+      "election": "Christchurch",
+      "electorate": "Riccarton",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/217-348-Q19-IMG_1545.jpg?itok=zidKGJKG",
+      "lives_in": "Burnside",
+      "name": "Anthony Rimell",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06010#Anthony Rimell",
+      "why_elect": "I have lived and worked in Riccarton for much of my life. As a Pastor and a community organiser, I have constantly focused on empowering our communities, especially the most vulnerable.",
+      "why_stand": "I believe Christchurch is about the people, not just the infrastructure. I love the many various ethnicities and cultures that call Riccarton home. I want to make sure they all have a voice in shaping our future."
+    },
+    {
+      "affiliation": "Independent - Best for Riccarton",
+      "age": "26",
+      "before_politics": "Account Manager",
+      "election": "Christchurch",
+      "electorate": "Riccarton",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/5-11-Q19-profile_photo.jpg?itok=UXG_fOfe",
+      "lives_in": "Sockburn/Church Corner",
+      "name": "Luke Chandler",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06010#Luke Chandler",
+      "why_elect": "Listen. Our community board and Councillors have not been listening to the people. I will hold regular in person meetings to ensure the people are being heard.",
+      "why_stand": "I believe our community needs solutions, independence and action from a new generation of public representation. I am Best for Riccarton, ready to offer a rejuvenated approach."
+    },
+    {
+      "affiliation": "Independent Citizens",
+      "age": "23",
+      "before_politics": "Partner\u2014Private Bank",
+      "election": "Christchurch",
+      "electorate": "Riccarton",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/299-477-Q19-Catherine_Chu_Profile_Photo.jpg?itok=yQfrBsDi",
+      "lives_in": "Ilam, Christchurch",
+      "name": "Catherine Chu",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06010#Catherine Chu",
+      "why_elect": "I'm an Authorised Financial Adviser, an Executive Member of Keep Christchurch Beautiful and passionate about keeping our Garden City clean and green. I was born in Christchurch and lived in Riccarton my whole life. I have also served on our community board and have a deep understanding of our community.",
+      "why_stand": "It's now time for a new face and a new perspective on our City Council. I'm standing to take action on; reviewing council spending and ensuring rates are affordable; on restoring basic infrastructure and services to our city; and keeping our water chlorine-free."
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": "Company Director,  Broker",
+      "election": "Christchurch",
+      "electorate": "Riccarton",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/179-298-Q19-profile_photo.jpg?itok=NZNXsJWK",
+      "lives_in": "Merivale Ch Ch",
+      "name": "John Connelly",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06010#John Connelly",
+      "why_elect": "I have lived in the Riccarton Ward for 45 years and aware of the issues and needs. I experienced, take practical and common sense approach to business and community organisations I will be an effective communicator for the silent majority of ratepayers.",
+      "why_stand": "I am passionate about our city, and have been approached by a large number of ratepayers both home and business owners."
+    }
+  ],
+  "electorate": "Riccarton",
+  "id": "WARD_06010",
+  "region": "Christchurch",
+  "type": "Council"
+}

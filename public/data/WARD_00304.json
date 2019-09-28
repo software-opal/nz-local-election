@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Kaipara",
+      "electorate": "Mangawhai-Kaiwaka",
+      "image": null,
+      "lives_in": null,
+      "name": "Jonathan Larsen",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_00304#Jonathan Larsen",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Kaipara",
+      "electorate": "Mangawhai-Kaiwaka",
+      "image": null,
+      "lives_in": null,
+      "name": "Peter Wethey",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_00304#Peter Wethey",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Mangawhai-Kaiwaka",
+  "id": "WARD_00304",
+  "region": "Kaipara",
+  "type": "Council"
+}

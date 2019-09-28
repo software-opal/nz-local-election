@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Southland",
+      "electorate": "Eastern-Dome",
+      "image": null,
+      "lives_in": null,
+      "name": "Jeremy Mcphail",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_1502#Jeremy Mcphail",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Southland",
+      "electorate": "Eastern-Dome",
+      "image": null,
+      "lives_in": null,
+      "name": "David Stevens",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_1502#David Stevens",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Eastern-Dome",
+  "id": "CON_1502",
+  "region": "Southland",
+  "type": "Regional Council"
+}

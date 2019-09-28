@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Waimate",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Murray Ludemann",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_066#Murray Ludemann",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Waimate",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Craig Rowley",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_066#Craig Rowley",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": null,
+  "id": "TA_066",
+  "region": " Waimate",
+  "type": "Mayor"
+}

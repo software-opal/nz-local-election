@@ -1,0 +1,83 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Tararua",
+      "electorate": "South Tararua",
+      "image": null,
+      "lives_in": null,
+      "name": "Alison Franklin",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_04102#Alison Franklin",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Tararua",
+      "electorate": "South Tararua",
+      "image": null,
+      "lives_in": null,
+      "name": "Rena Tyler",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_04102#Rena Tyler",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Tararua",
+      "electorate": "South Tararua",
+      "image": null,
+      "lives_in": null,
+      "name": "Peter Johns",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_04102#Peter Johns",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Tararua",
+      "electorate": "South Tararua",
+      "image": null,
+      "lives_in": null,
+      "name": "Shirley Hull",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_04102#Shirley Hull",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "New ideas, fresh youthful energy and genuine passion",
+      "age": null,
+      "before_politics": null,
+      "election": "Tararua",
+      "electorate": "South Tararua",
+      "image": null,
+      "lives_in": null,
+      "name": "Raylene Ann Treder",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_04102#Raylene Ann Treder",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "South Tararua",
+  "id": "WARD_04102",
+  "region": "Tararua",
+  "type": "Council"
+}

@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " South Waikato",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Jenny Shattock",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_019#Jenny Shattock",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": null,
+  "id": "TA_019",
+  "region": " South Waikato",
+  "type": "Mayor"
+}

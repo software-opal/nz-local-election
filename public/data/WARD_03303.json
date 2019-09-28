@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": "58",
+      "before_politics": "Businessperson",
+      "election": "New Plymouth",
+      "electorate": "South-West",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/40-72-Q19-IMG_1695.jpg?itok=aHM_9dvk",
+      "lives_in": "South West Ward",
+      "name": "Chris Hale",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_03303#Chris Hale",
+      "why_elect": "I want to develop a way to be a conduit for the public and ratepayers in my ward to deal directly and honestly with council. By being able to interact with them on a regular basis and then take their comments and needs and represent them at council meetings.",
+      "why_stand": "It is my desire to make a change for the better for the region and the rate payers. To establish policies for the protection of rate payer funding and to control costs blowing out with no accountability. Rate payers deserve better skill sets and results for their investment."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "New Plymouth",
+      "electorate": "South-West",
+      "image": null,
+      "lives_in": null,
+      "name": "Peter Henderson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03303#Peter Henderson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "69",
+      "before_politics": "Manufacturing",
+      "election": "New Plymouth",
+      "electorate": "South-West",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/678-1113-Q19-0268EC74-0BD9-4D94-865D-0F967B677C43.jpg?itok=vbMzlNdS",
+      "lives_in": "Inglewood",
+      "name": "Richard Jordan",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_03303#Richard Jordan",
+      "why_elect": "I am down to earth, practical, realistic, with a background that brings a wealth of experience in different disciplines including local government.",
+      "why_stand": "I passion and vision for our district. That is fantastic place to live and raise a family, an environment where business can flourish, a place where all people are valued, a place where the outdoors are treasured and cared for and are easily accessible."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "New Plymouth",
+      "electorate": "South-West",
+      "image": null,
+      "lives_in": null,
+      "name": "Marie Pearce",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03303#Marie Pearce",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "South-West",
+  "id": "WARD_03303",
+  "region": "New Plymouth",
+  "type": "Council"
+}

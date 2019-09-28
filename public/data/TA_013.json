@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "57",
+      "before_politics": "Business owner",
+      "election": " Waikato",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/143-230-Q19-Korikori.jpg?itok=lRUPka0c",
+      "lives_in": "Ngaruawahia",
+      "name": "Korikori Hawkins",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_013#Korikori Hawkins",
+      "why_elect": "I'm proud to be seventh generation Waikato Tainui and I have a natural ability to engage with a broad range of people, both culturally and professionally.",
+      "why_stand": "I believe I have the skills and experience to lead Council vision to create thriving, connected and liveable communities and I am passionate about change."
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": " Waikato",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Allan Sanson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_013#Allan Sanson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "43",
+      "before_politics": "Farmer, and Engineer",
+      "election": " Waikato",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/642-1047-Q19-P1140616.jpg?itok=HH2VfaKZ",
+      "lives_in": "Raglan",
+      "name": "Simon Thomson",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_013#Simon Thomson",
+      "why_elect": "I am a fourth generation farmer running 260 hectares of beef and dairy support animals. Additional experience I bring includes engineering in the agriculture, aquaculture, bio-plastics, yachting and drone industries, I have worked for Xtreme Zero Waste in materials ecology and electronics recycling, and with DoC in the Chatham Islands.",
+      "why_stand": "I declare a climate emergency, and that farming is the solution to this emergency through analysing our landscapes and supporting the goal of every farm having 20% of their income from non-animal-protein sources within five years, and 50% in 10 years. Make the 'Waikato' a world recognised brand."
+    }
+  ],
+  "electorate": null,
+  "id": "TA_013",
+  "region": " Waikato",
+  "type": "Mayor"
+}

@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Clutha",
+      "electorate": "Balclutha",
+      "image": null,
+      "lives_in": null,
+      "name": "Carol Sutherland",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07204#Carol Sutherland",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Clutha",
+      "electorate": "Balclutha",
+      "image": null,
+      "lives_in": null,
+      "name": "Wayne Felts",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07204#Wayne Felts",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Clutha",
+      "electorate": "Balclutha",
+      "image": null,
+      "lives_in": null,
+      "name": "Alison Ludemann",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07204#Alison Ludemann",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Clutha",
+      "electorate": "Balclutha",
+      "image": null,
+      "lives_in": null,
+      "name": "Ken Payne",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07204#Ken Payne",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Balclutha",
+  "id": "WARD_07204",
+  "region": "Clutha",
+  "type": "Council"
+}

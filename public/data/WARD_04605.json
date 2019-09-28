@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Lower Hutt",
+      "electorate": "Eastern",
+      "image": null,
+      "lives_in": null,
+      "name": "Glenda Barratt",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_04605#Glenda Barratt",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": "43",
+      "before_politics": "Stay-at-home parent, educator.",
+      "election": "Lower Hutt",
+      "electorate": "Eastern",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/555-875-Q19-Andy_Mitchell_profile_picture.jpg?itok=qCLUhi_b",
+      "lives_in": "Naenae",
+      "name": "Andy Mitchell",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_04605#Andy Mitchell",
+      "why_elect": "I'm an active citizen who is well connected and respected in my community. I have broad governance experience across community groups, early childhood centres and schools. I'm a good listener, have empathy for others and can accurately represent the varied views and experiences of my fellow residents.",
+      "why_stand": "I love Lower Hutt but I'm running for change in council because I feel that communities should be empowered to determine their own future, not have it delivered by council. I want our city to protect and promote its rich diversity and natural beauty, and the wellbeing of all residents."
+    }
+  ],
+  "electorate": "Eastern",
+  "id": "WARD_04605",
+  "region": "Lower Hutt",
+  "type": "Council"
+}

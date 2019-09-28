@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent and working for us",
+      "age": "31",
+      "before_politics": "Environmental Regulation",
+      "election": "Napier",
+      "electorate": "Onekawa-Tamatea",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/244-390-Q19-NCC_-_Photo_20022019.jpg?itok=AT4wtg2i",
+      "lives_in": "Onekawa",
+      "name": "Annette Brosnan",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_03102#Annette Brosnan",
+      "why_elect": "I have been raised and am now raising my family in this Ward, I am extremely passionate about our representation. I believe my assertive, well researched and common sense contributions make a positive difference for our Ward. I've also worked in local government for 11 years and hold a Bachelor of Business Studies.",
+      "why_stand": "I am running to represent us around the council table because there is work to be done, our water, consultation and environmental impact decisions need work. I love this ward and believe I can make a difference for us. I'm also excited about working with our city's new leadership."
+    },
+    {
+      "affiliation": "Ratepayers action group",
+      "age": null,
+      "before_politics": null,
+      "election": "Napier",
+      "electorate": "Onekawa-Tamatea",
+      "image": null,
+      "lives_in": null,
+      "name": "Steve Gibson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03102#Steve Gibson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Local and listening",
+      "age": null,
+      "before_politics": null,
+      "election": "Napier",
+      "electorate": "Onekawa-Tamatea",
+      "image": null,
+      "lives_in": null,
+      "name": "Richard McGrath",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03102#Richard McGrath",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Onekawa-Tamatea",
+  "id": "WARD_03102",
+  "region": "Napier",
+  "type": "Council"
+}

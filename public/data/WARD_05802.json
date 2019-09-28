@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": "31",
+      "before_politics": "Support staff/training teacher",
+      "election": "Hurunui",
+      "electorate": "East",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/324-506-Q19-IMG_20190721_134215.jpg?itok=NgDVTMH5",
+      "lives_in": "Cheviot",
+      "name": "Toka Te Taua",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_05802#Toka Te Taua",
+      "why_elect": "I'm motivated, passionate and enthusiastic about life and my community. I call Hurunui home and I am willing to hear from our communities to support connections between our Eastern ward and Hurunui District to strengthen and understand our relationships and needs.",
+      "why_stand": "I'm passionate about community and believe I can connect our communities to support our many compositions. I want to bring a new perspective and address common public issues."
+    },
+    {
+      "affiliation": null,
+      "age": "31",
+      "before_politics": "Local Business Owner",
+      "election": "Hurunui",
+      "electorate": "East",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/6-12-Q19-file-5.jpg?itok=hAR5CgAn",
+      "lives_in": "Waipara Village",
+      "name": "Stephen Carr",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_05802#Stephen Carr",
+      "why_elect": "I am a local small business owner in the transport industry, am involved with Civil Defence as Glenmark area coordinator and am also a trustee on both the Hurunui Trails Trust and the Christchurch Heroes LGBTI+ Sports Teams Charitable Trust.",
+      "why_stand": "I would like to give a voice to our less populated areas within our district to ensure we are not forgotten and put on the shelf, while our more populated areas get all the attention."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Hurunui",
+      "electorate": "East",
+      "image": null,
+      "lives_in": null,
+      "name": "Vincent Daly",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05802#Vincent Daly",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Hurunui",
+      "electorate": "East",
+      "image": null,
+      "lives_in": null,
+      "name": "Fiona Harris",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05802#Fiona Harris",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "East",
+  "id": "WARD_05802",
+  "region": "Hurunui",
+  "type": "Council"
+}

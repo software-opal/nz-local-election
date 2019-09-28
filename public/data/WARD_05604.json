@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "61",
+      "before_politics": "Admin and piano teacher",
+      "election": "Grey",
+      "electorate": "Eastern",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/457-731-Q19-Portrait_Photo_-_Karen_Grant_-_Eastern_Ward.jpg?itok=eAJnGWD2",
+      "lives_in": "Kaiata",
+      "name": "Karen Grant",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_05604#Karen Grant",
+      "why_elect": "I keep active in local groups including LandSAR, Cave Rescue, West Coast Alpine Club, Te Puawai Cooperative and an advisory group. I've had a career as a scientist in medical research, manufacturing, and waste management; then ten years with our local polytech, and now self-employed. I'm an analytical problem solver.",
+      "why_stand": "I've enjoyed twelve years now on my lifestyle block in Kaiata; this is my home and I love the Coast, love its rugged bush and friendly communities. It's time now for me to find ways to help us stay strong in the face of change."
+    },
+    {
+      "affiliation": null,
+      "age": "61",
+      "before_politics": "Self employed",
+      "election": "Grey",
+      "electorate": "Eastern",
+      "image": null,
+      "lives_in": "Grey Valley",
+      "name": "Allan Gibson",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_05604#Allan Gibson",
+      "why_elect": "Having been in business here for the last 35 years I have met a lot of people, I have been involved in many community projects which I have really enjoyed and wish to be involved more in the future.",
+      "why_stand": "I'm running for the third time I am passionate about our district and I believe I can contribute to make it a better place so that more people would want to live here as well."
+    },
+    {
+      "affiliation": null,
+      "age": "55",
+      "before_politics": "Retail business owner",
+      "election": "Grey",
+      "electorate": "Eastern",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/8-16-Q19-IMG_7563-NZ_Passport__digital_format_-1800x2400_px.jpg?itok=thkIMFe9",
+      "lives_in": "Nelson Creek, Grey Valley",
+      "name": "Jackie Farrelly",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_05604#Jackie Farrelly",
+      "why_elect": "I ran a retail business in town for 15 years. I know many of the people having been involved with Guides, ATC, the local church, school, athletics, politics and other community groups.",
+      "why_stand": "I love the Coast, its people and living in the Grey Valley."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Grey",
+      "electorate": "Eastern",
+      "image": null,
+      "lives_in": null,
+      "name": "Anton Becker",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05604#Anton Becker",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Eastern",
+  "id": "WARD_05604",
+  "region": "Grey",
+  "type": "Council"
+}

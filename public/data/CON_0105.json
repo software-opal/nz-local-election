@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": "73",
+      "before_politics": "Businessman, Chair of NEST",
+      "election": "Northland",
+      "electorate": "Whangarei Urban",
+      "image": null,
+      "lives_in": "Whau Valley",
+      "name": "John Bain",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0105#John Bain",
+      "why_elect": "I have experience of the politics on local government and have made sound friends while delivering good results to all parts of NRC policy. I can make the hard decisions and still talk to any colleague may not agree with me. My constituents can be sure I represent them well.",
+      "why_stand": "I have a few targets I want to achieve with the roads, water and maintaining good management policies. I still have a lot to contribute with knowledge I have gained over the last couple of terms. I ask for the votes to complete this work."
+    },
+    {
+      "affiliation": "Independent",
+      "age": "67",
+      "before_politics": "Biosecurity consultant",
+      "election": "Northland",
+      "electorate": "Whangarei Urban",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/91-121-Q19-Jack_Craw_websized_cropped.jpg?itok=kQaqcSNY",
+      "lives_in": "Kensington",
+      "name": "Jack Craw",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0105#Jack Craw",
+      "why_elect": "I am a proud local that is highly experienced in management and governance in science, conservation, resource management and regional government. I am the former Biosecurity Manager for Auckland Region and currently operate an environmental and biosecurity consultancy throughout NZ and the Pacific.",
+      "why_stand": "Northland must adapt rapidly to meet massive environmental challenges and save ratepayers future financial losses. We need a strong proponent for getting the North's rivers swimmable again, more proactive planning for the emerging climate emergency, and integrated transportation system. I am also an expert on kauri dieback and biosecurity."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Northland",
+      "electorate": "Whangarei Urban",
+      "image": null,
+      "lives_in": null,
+      "name": "David Sinclair",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0105#David Sinclair",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Whangarei Urban",
+  "id": "CON_0105",
+  "region": "Northland",
+  "type": "Regional Council"
+}

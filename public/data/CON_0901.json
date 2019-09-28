@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "\u2013",
+      "age": null,
+      "before_politics": null,
+      "election": "Wellington",
+      "electorate": "K\u0101piti Coast",
+      "image": null,
+      "lives_in": null,
+      "name": "Penny Gaylor",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0901#Penny Gaylor",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": "71",
+      "before_politics": "Exec Director Technology Co",
+      "election": "Wellington",
+      "electorate": "K\u0101piti Coast",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/CON_0901_2.jpg?itok=Z0_cxN7I",
+      "lives_in": "Paraparaumu",
+      "name": "Neil Mackay",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0901#Neil Mackay",
+      "why_elect": "Through my roles as Chair of Electra, Chief Executive of Industry NZ (Government economic development agency) and Chair of the Kapiti Aquatic Centre Trust I have developed good governance, partnership and leadership skills and experience. This experience equips me well to represent Kapiti effectively on the Regional Council.",
+      "why_stand": "I love the Kapiti Coast. I have lived here with my family for the last 30 years. Its critical for Kapiti's well-being that it strengthen its economic base and nurture its natural and built environment. I want to advocate on behalf of the Kapiti constituency to make this happen."
+    }
+  ],
+  "electorate": "K\u0101piti Coast",
+  "id": "CON_0901",
+  "region": "Wellington",
+  "type": "Regional Council"
+}

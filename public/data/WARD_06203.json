@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Selwyn",
+      "electorate": "Ellesmere",
+      "image": null,
+      "lives_in": null,
+      "name": "Shelley Jane Baikie",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06203#Shelley Jane Baikie",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "43",
+      "before_politics": "Business Development Manager",
+      "election": "Selwyn",
+      "electorate": "Ellesmere",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/304-483-Q19-Profile_Pic_Shane_Epiha.jpg?itok=vuPiel2r",
+      "lives_in": "Leeston",
+      "name": "Shane Epiha",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06203#Shane Epiha",
+      "why_elect": "I love my family, and having a safe, caring prosperous community for all our local families to grow up in is my commitment. I am an executive committee member for the Road Transport Association of NZ and volunteer my time to give motivational discussions to young people in our region.",
+      "why_stand": "I care about people, \"he tangata\" that is the most important part of any community. What I have found is that by giving you receive 10 times back and more. I want to contribute by being a voice for the community."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Selwyn",
+      "electorate": "Ellesmere",
+      "image": null,
+      "lives_in": null,
+      "name": "Murray Lemon",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06203#Murray Lemon",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Ellesmere",
+  "id": "WARD_06203",
+  "region": "Selwyn",
+  "type": "Council"
+}

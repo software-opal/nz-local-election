@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "The People's Choice - Labour",
+      "age": null,
+      "before_politics": null,
+      "election": "Christchurch",
+      "electorate": "Coastal",
+      "image": null,
+      "lives_in": null,
+      "name": "Kelly Barber",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06007#Kelly Barber",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Your Vote - Your Voice Independent",
+      "age": "64",
+      "before_politics": "Governance and broadcasting",
+      "election": "Christchurch",
+      "electorate": "Coastal",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/686-1132-Q19-image.jpg?itok=H4-wMRnc",
+      "lives_in": "Parklands",
+      "name": "James Daniels",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06007#James Daniels",
+      "why_elect": "I have extensive experience in this form of governance having spent 21 years at Te Runanga o Ngai Tahu plus commercial nous through being a director of one of the country's foremost property investment and development companies. I am also trusted, being a director on the board of Te P\u0101p\u0101.",
+      "why_stand": "I grew up here, will grow old here; things should be better. Our community has been neglected and disrespected over the last nine years so we need vigorous, visible and vocal representation. I will establish positive relationships with other councillors, staff and entities to ensure we get what we deserve."
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Christchurch",
+      "electorate": "Coastal",
+      "image": null,
+      "lives_in": null,
+      "name": "David East",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06007#David East",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Coastal",
+  "id": "WARD_06007",
+  "region": "Christchurch",
+  "type": "Council"
+}

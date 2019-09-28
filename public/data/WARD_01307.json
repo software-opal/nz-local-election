@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": "61",
+      "before_politics": "MAnagement Consultant",
+      "election": "Waikato",
+      "electorate": "Ngaruawahia",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/WARD_01307_1.jpg?itok=2_MG_4Ah",
+      "lives_in": "Taupiri",
+      "name": "Janet Gibb",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_01307#Janet Gibb",
+      "why_elect": "I strive to be available and approachable within the community. I speak up in council meetings and communicate well with other elected members and council staff. I know I have made a difference and apply common sense to decision making. I have solid experience across all areas in council.",
+      "why_stand": "I have been privileged to serve this community for six years as your local councillor. I have many years of management experience in particular in community and banking areas. This experience has stood me in good stead to continue to make good decisions and add value with governing our district."
+    },
+    {
+      "affiliation": null,
+      "age": "51",
+      "before_politics": "Strategic Grants Adviser",
+      "election": "Waikato",
+      "electorate": "Ngaruawahia",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/398-645-Q19-P1490612.jpg?itok=ZHMr1mXs",
+      "lives_in": "Ngaaruawaahia",
+      "name": "Rongo Kirkwood",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_01307#Rongo Kirkwood",
+      "why_elect": "I bring a strong work ethic, well established networks and an open mind to enhancing what is already in place.",
+      "why_stand": "I believe our Ngaruawahia ward is the cultural heritage hub of our district. As a seventh generation resident, I believe it is my responsibility to protect the most significant taonga of our area, which is the people who live here, the environment that surrounds us and sites of significance."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Ngaruawahia",
+      "image": null,
+      "lives_in": null,
+      "name": "Eugene Patterson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01307#Eugene Patterson",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Ngaruawahia",
+  "id": "WARD_01307",
+  "region": "Waikato",
+  "type": "Council"
+}

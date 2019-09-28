@@ -1,0 +1,83 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Hurunui",
+      "electorate": "West",
+      "image": null,
+      "lives_in": null,
+      "name": "Lynda Murchison",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05801#Lynda Murchison",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Hurunui",
+      "electorate": "West",
+      "image": null,
+      "lives_in": null,
+      "name": "Margaret Walker",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05801#Margaret Walker",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Hurunui",
+      "electorate": "West",
+      "image": null,
+      "lives_in": null,
+      "name": "Nicky Anderson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05801#Nicky Anderson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Hurunui",
+      "electorate": "West",
+      "image": null,
+      "lives_in": null,
+      "name": "Ross Barnes",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05801#Ross Barnes",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Hurunui",
+      "electorate": "West",
+      "image": null,
+      "lives_in": null,
+      "name": "Jason Fletcher",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05801#Jason Fletcher",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "West",
+  "id": "WARD_05801",
+  "region": "Hurunui",
+  "type": "Council"
+}

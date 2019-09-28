@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Gisborne",
+      "electorate": "Tawhiti-Uawa",
+      "image": null,
+      "lives_in": null,
+      "name": "Pat Seymour",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02803#Pat Seymour",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Tawhiti-Uawa",
+  "id": "WARD_02803",
+  "region": "Gisborne",
+  "type": "Council"
+}

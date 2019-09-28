@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Waipa",
+      "electorate": "Pirongia",
+      "image": null,
+      "lives_in": null,
+      "name": "Clare St Pierre",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01701#Clare St Pierre",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waipa",
+      "electorate": "Pirongia",
+      "image": null,
+      "lives_in": null,
+      "name": "Bruce Thomas",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01701#Bruce Thomas",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Pirongia",
+  "id": "WARD_01701",
+  "region": "Waipa",
+  "type": "Council"
+}

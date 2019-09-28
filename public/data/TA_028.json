@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "48",
+      "before_politics": "Community Animator",
+      "election": " Gisborne",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/77-118-Q19-WIN_20190208_15_43_44_Pro__2.jpg?itok=nGRBgG4P",
+      "lives_in": "Awapuni Gisborne",
+      "name": "Meredith Akuhata-Brown",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_028#Meredith Akuhata-Brown",
+      "why_elect": "I have lived in our community all my life and as a local understand many of the challenges that people face. I have a wealth of experience in local governance and believe I have more to offer in the role as a Gisborne District Councillor.",
+      "why_stand": "Positive change does take time, I've loved my role in Council and many people have said I am helping create good change. So I'm seeking re election in the local body elections. Much of my efforts have focused on making Council more accountable and inclusive for everybody."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Gisborne",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Ross Meurant",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_028#Ross Meurant",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "43",
+      "before_politics": "Academia and business",
+      "election": " Gisborne",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/86-136-Q19-IMG_8417.jpg?itok=slJkRnQO",
+      "lives_in": "Matokitoki",
+      "name": "Rehette Stoltz",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_028#Rehette Stoltz",
+      "why_elect": "I have a fresh, strategic approach and will lead Council to focus on doing the basics well.",
+      "why_stand": "I love our place! I see huge potential in our region and want to support and enable the changes, innovation and possibilities that will allow everyone to thrive."
+    }
+  ],
+  "electorate": null,
+  "id": "TA_028",
+  "region": " Gisborne",
+  "type": "Mayor"
+}

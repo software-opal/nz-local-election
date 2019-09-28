@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "54",
+      "before_politics": "Dairy Farmer and Land Owner",
+      "election": " Otorohanga",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/TA_018_1.jpg?itok=G_B1ihwl",
+      "lives_in": "Te Kawa West",
+      "name": "Max Baxter",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_018#Max Baxter",
+      "why_elect": "I am a good elected representative because I have significant governance experience, I am pragmatic and incredibly proud of where I live. My honesty, integrity and welcoming personality are great attributes in the governance role I hold as mayor.",
+      "why_stand": "I love our district and having been our mayor for the last 6 years I have learnt an incredible amount, through experience, contacts made and the passion I have I am the best person to lead our district in the next term."
+    },
+    {
+      "affiliation": "Independent",
+      "age": "61",
+      "before_politics": "Farmer",
+      "election": " Otorohanga",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/283-453-Q19-Photo_of_Doreen_November_18.jpg?itok=_C0RuF2N",
+      "lives_in": "Honikiwi",
+      "name": "Doreen de Haan",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_018#Doreen de Haan",
+      "why_elect": "I have a heart and soul for the community. I am a good listener and respect what people have to say. I am an organiser of events. I was Rural councillor for Otorohanga District Council 1998-2007.",
+      "why_stand": "Otorohanga wants a central Mayor. I live 12 kms west of Otorohanga, in Honikiwi and I call that central. Shopping is done in Otorohanga, from farm supplies, animal supplies, clothing, food and nearly everything else. I have lived in this district for 34 years. I am a local candidate for Mayor."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Otorohanga",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Leveson Gower",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_018#Leveson Gower",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": null,
+  "id": "TA_018",
+  "region": " Otorohanga",
+  "type": "Mayor"
+}

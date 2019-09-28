@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": "Chief Executive",
+      "election": "Bay of Plenty",
+      "electorate": "Western Bay of Plenty",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/51-66-Q19-Jane_Nees_Cropped_2019.jpg?itok=lsF5RlFD",
+      "lives_in": "Pyes Pa",
+      "name": "Jane Nees",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0401#Jane Nees",
+      "why_elect": "I am hardworking and conscientious, value honesty and integrity, and am people focused. I have a very strong management and governance background, understand local government, and I have a proven twelve year track record as a very experienced and effective Councillor. Check out my website www.janenees.co.nz to learn more.",
+      "why_stand": "I've a real passion for the Bay of Plenty. I understand the challenges it faces and want to help make wise decisions for its future. I'm seeking re-election because I believe I can make a difference and want to work with our community to make \"A Better Bay of Plenty.\""
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Bay of Plenty",
+      "electorate": "Western Bay of Plenty",
+      "image": null,
+      "lives_in": null,
+      "name": "Norm Bruning",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0401#Norm Bruning",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": "42",
+      "before_politics": "Community news journalist",
+      "election": "Bay of Plenty",
+      "electorate": "Western Bay of Plenty",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/120-162-Q19-045__2.jpg?itok=rfUlU_RZ",
+      "lives_in": "Omokoroa",
+      "name": "Matthew Farrell",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0401#Matthew Farrell",
+      "why_elect": "I'm involved in the community as much as possible. I'm active here and now and for the next generation, not just this election. Vote for my common-sense, and I'll gain experience, turning my listening into doing. I will balance fair costs with prudent spending and wise project investment decisions.",
+      "why_stand": "I believe elected representatives should publicise what they're doing through their time in office, and be transparent in their dealings without being invisible locally. I think a regional councillor should hear what locals want, then listen and act by advocating at regional council level, for the community."
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Bay of Plenty",
+      "electorate": "Western Bay of Plenty",
+      "image": null,
+      "lives_in": null,
+      "name": "Jenny Hobbs",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0401#Jenny Hobbs",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Western Bay of Plenty",
+  "id": "CON_0401",
+  "region": "Bay of Plenty",
+  "type": "Regional Council"
+}

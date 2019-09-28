@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Clutha",
+      "electorate": "Lawrence-Tuapeka",
+      "image": null,
+      "lives_in": null,
+      "name": "Geoff Blackmore",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07203#Geoff Blackmore",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Clutha",
+      "electorate": "Lawrence-Tuapeka",
+      "image": null,
+      "lives_in": null,
+      "name": "Mel Foster",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07203#Mel Foster",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Lawrence-Tuapeka",
+  "id": "WARD_07203",
+  "region": "Clutha",
+  "type": "Council"
+}

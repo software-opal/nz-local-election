@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Grey",
+      "electorate": "Southern",
+      "image": null,
+      "lives_in": null,
+      "name": "Rex MacDonald",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05603#Rex MacDonald",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Grey",
+      "electorate": "Southern",
+      "image": null,
+      "lives_in": null,
+      "name": "Peter Haddock",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05603#Peter Haddock",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Grey",
+      "electorate": "Southern",
+      "image": null,
+      "lives_in": null,
+      "name": "Lynda LeBrun",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05603#Lynda LeBrun",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Southern",
+  "id": "WARD_05603",
+  "region": "Grey",
+  "type": "Council"
+}

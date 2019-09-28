@@ -1,0 +1,83 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Waihou",
+      "image": null,
+      "lives_in": null,
+      "name": "Hugh Vercoe",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0303#Hugh Vercoe",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": "48",
+      "before_politics": "Administration, Caregiver",
+      "election": "Waikato",
+      "electorate": "Waihou",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/102-136-Q19-TaraJesperson.jpg?itok=CrE80bJ7",
+      "lives_in": "Paeroa",
+      "name": "Tara Jesperson",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0303#Tara Jesperson",
+      "why_elect": "I may not have the first-hand knowledge and experience of other candidates but what I have is passion and enthusiasm. I grew up in the country with a fisherman father so have some understanding of how things work and have a constant desire to learn more and help others.",
+      "why_stand": "I have always felt drawn to protecting the environment and instantly fell in love with the Waikato when I moved here in 2015. I want to do all I can to keep her beautiful while making sure primary industries are looked after and operate sustainably."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Waihou",
+      "image": null,
+      "lives_in": null,
+      "name": "Gray Baldwin",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0303#Gray Baldwin",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": "65",
+      "before_politics": "Specialist digger opperater",
+      "election": "Waikato",
+      "electorate": "Waihou",
+      "image": null,
+      "lives_in": "Waikino",
+      "name": "Bill Cox",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0303#Bill Cox",
+      "why_elect": "I have lived in the Te Aroha district for 58 yrs farming land drainage waste management contracting for farmers frontera wallace Corp councils and as a McKenzie friend helping people the the courts as well as serving on the Thames valley drainage board.",
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "51",
+      "before_politics": "Farmer",
+      "election": "Waikato",
+      "electorate": "Waihou",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/53-69-Q19-Stu.jpg?itok=WRTwTp_I",
+      "lives_in": "Tauhei",
+      "name": "Stu Husband",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0303#Stu Husband",
+      "why_elect": "Over the last 6 years I have enjoyed the challenges of representing my Constituents. I am a passionate advocate who isn't afraid to speak out about issues facing the community. With my communication, enthusiasm and influencing skills I have shown I have these qualities and more to offer the Region.",
+      "why_stand": "To continue advocating for my constituents. It takes time to make a difference, build up networks and see benefits. I have a thorough understanding of how the processes work, considerable experience in issues that matter to ratepayers and am actively involved in seeking change for a more efficiently run Council."
+    }
+  ],
+  "electorate": "Waihou",
+  "id": "CON_0303",
+  "region": "Waikato",
+  "type": "Regional Council"
+}

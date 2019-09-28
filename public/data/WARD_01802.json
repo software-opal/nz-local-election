@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "66",
+      "before_politics": "Farmer",
+      "election": "Otorohanga",
+      "electorate": "Waipa",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/419-679-Q19-Photo.jpg?itok=lcSErL2c",
+      "lives_in": "Otewa/Rewarewa",
+      "name": "Evan Cowan",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_01802#Evan Cowan",
+      "why_elect": "I have a background in science which I believe puts me in a good position to analyze issues as they arise. I have also lived in the district all my working life and have a good grasp of practical issues facing the community.",
+      "why_stand": "I believe it is very important that voters have a choice. I have the time and I believe, the ability to make a useful contribution if elected."
+    },
+    {
+      "affiliation": null,
+      "age": "56",
+      "before_politics": "Farmer",
+      "election": "Otorohanga",
+      "electorate": "Waipa",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/401-648-Q19-2019_R_Johnson_Candidate_profile_picture.jpg?itok=QcrrtyB6",
+      "lives_in": "Otewa",
+      "name": "Roy Johnson",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_01802#Roy Johnson",
+      "why_elect": "I have 3 terms experience as a councillor and I will be ready when the difficult decisions come around again. This council takes governance. Every decision is money. You have to know that the advantages outweigh the disadvantages. It excites me to represent my community.",
+      "why_stand": "I have always enjoyed representing rural people and I love being part of a rural community. Having been Otorohanga Federated Farmers Chair for 4 years submitting against the district plan, it was logical that I stood for my ward and a rural seat at the district council."
+    }
+  ],
+  "electorate": "Waipa",
+  "id": "WARD_01802",
+  "region": "Otorohanga",
+  "type": "Council"
+}

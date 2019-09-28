@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Southland",
+      "electorate": "Stewart Island/Rakiura",
+      "image": null,
+      "lives_in": null,
+      "name": "Bruce Ford",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07305#Bruce Ford",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "29",
+      "before_politics": "Skipper/Businessperson",
+      "election": "Southland",
+      "electorate": "Stewart Island/Rakiura",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/237-377-Q19-IMG_4657.jpg?itok=NZUVGzPF",
+      "lives_in": "Stewart Island.",
+      "name": "Rakiura Herzhoff",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_07305#Rakiura Herzhoff",
+      "why_elect": "I have had the opportunity to both live here and other places throughout NZ and overseas. My love for this Island and passion to keep getting to know our people means I am receptive to different ideas and value that which makes Stewart Island our cherished home.",
+      "why_stand": "Stewart Island first and foremost for Stewart Islanders! We are coming into ever bigger changes as Stewart Island becomes more and more a desired destination for both national and international travel. This increases attention from external businesses and organisations who are looking to capitalise on this."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Southland",
+      "electorate": "Stewart Island/Rakiura",
+      "image": null,
+      "lives_in": null,
+      "name": "Jon Ross Spraggon",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07305#Jon Ross Spraggon",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Stewart Island/Rakiura",
+  "id": "WARD_07305",
+  "region": "Southland",
+  "type": "Council"
+}

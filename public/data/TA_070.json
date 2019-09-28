@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": " Queenstown Lakes",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Al Angus",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_070#Al Angus",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "67",
+      "before_politics": "Company Director",
+      "election": " Queenstown Lakes",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/199-322-Q19-SV_Jim_Boult___-_01.jpg?itok=P8DAgg_-",
+      "lives_in": "Lake Hayes",
+      "name": "Jim Boult",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_070#Jim Boult",
+      "why_elect": "I was elected in 2016 to cause progress to happen. I have proved over the past three years well capable of doing that. I have lived here since 1982, and have participated widely and successfully in community matters. I have made progress, but I wish to do more. I'm committed.",
+      "why_stand": "I want our district to continue to be the best part of the world to live in and visit. We are special and we need to treat the district in that manner. It is a privilege to be here."
+    },
+    {
+      "affiliation": "Independent",
+      "age": "60",
+      "before_politics": "Business owner/operator.",
+      "election": " Queenstown Lakes",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/63-106-Q19-Portrait2__3.jpg?itok=tnUo2rN0",
+      "lives_in": "Queenstown",
+      "name": "Nik Kiddle",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_070#Nik Kiddle",
+      "why_elect": "Over 25 years in NZ public service has prepared me to lead the local community with respect, honesty and integrity. I am a trusted consensus builder, drawing on years of negotiating experience for the NZ government.",
+      "why_stand": "A culture change is needed in our council\u2014I want to bring it back into a constructive and honest relationship with the community, one where community values and objectives guide council decisions."
+    }
+  ],
+  "electorate": null,
+  "id": "TA_070",
+  "region": " Queenstown Lakes",
+  "type": "Mayor"
+}

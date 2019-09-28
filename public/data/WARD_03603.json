@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "55",
+      "before_politics": "DOC Ranger",
+      "election": "Ruapehu",
+      "electorate": "National Park",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/651-1064-Q19-29883888_1902790663073297_142870066_o.jpg?itok=hlyExBxT",
+      "lives_in": "Owhango",
+      "name": "Simon O'Neill",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_03603#Simon ONeill",
+      "why_elect": "My background is in policy development and implementation, with an information-focussed philosophy: the more people know, the better decisions they make. I'm used to fighting for what's important (like our rescue helicopters) and experienced working in and around government agencies and commercial interest.",
+      "why_stand": "Like many of us, I wasn't born or bred in this ward, nor was it part of my plan to end up in National Park. It just happened that way. It's been good to me and local government is one way for me to give back."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Ruapehu",
+      "electorate": "National Park",
+      "image": null,
+      "lives_in": null,
+      "name": "Murray Wilson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03603#Murray Wilson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Ruapehu",
+      "electorate": "National Park",
+      "image": null,
+      "lives_in": null,
+      "name": "Peter Zimmer",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03603#Peter Zimmer",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "National Park",
+  "id": "WARD_03603",
+  "region": "Ruapehu",
+  "type": "Council"
+}

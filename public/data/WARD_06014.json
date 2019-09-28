@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Your Positive Voice for Linwood",
+      "age": null,
+      "before_politics": null,
+      "election": "Christchurch",
+      "electorate": "Linwood",
+      "image": null,
+      "lives_in": null,
+      "name": "Alexandra Davids",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06014#Alexandra Davids",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "The People's Choice - Labour",
+      "age": "44",
+      "before_politics": null,
+      "election": "Christchurch",
+      "electorate": "Linwood",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/546-863-Q19-Yani_close_cc19.jpg?itok=PyfHvNqM",
+      "lives_in": "Woolston",
+      "name": "Yani Johanson",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06014#Yani Johanson",
+      "why_elect": "I live locally and am committed to improving the quality of life for residents in the Linwood ward by putting people at the heart of decision making.",
+      "why_stand": "I offer you an experienced city councillor dedicated to standing up for social justice, environmental sustainability, and transparent decision-making. I am a strong voice for Linwood standing up for the local community around the council table."
+    }
+  ],
+  "electorate": "Linwood",
+  "id": "WARD_06014",
+  "region": "Christchurch",
+  "type": "Council"
+}

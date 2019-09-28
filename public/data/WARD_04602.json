@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": "62",
+      "before_politics": "Businessperson",
+      "election": "Lower Hutt",
+      "electorate": "Harbour",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/357-569-Q19-Tui-Lewis-2019.jpg?itok=kTJaME37",
+      "lives_in": "Harbour ward",
+      "name": "Tui Lewis",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_04602#Tui Lewis",
+      "why_elect": "I've lived in our city my whole life. I'm experienced in sales and marketing. I have been on council two terms and work collaboratively within our communities to help support their aspirations. I have strong relationships with people through volunteering, organising community groups and belonging to service and sports clubs.",
+      "why_stand": "I'm passionate about our Harbour Ward and I value the diversity of culture within the Ward, our unique location and wonderful setting within our city. But, housing shortages plus climate change challenges may affect some of us and only by working together we'll better understand how to implement meaningful solutions."
+    },
+    {
+      "affiliation": null,
+      "age": "23",
+      "before_politics": "University Student",
+      "election": "Lower Hutt",
+      "electorate": "Harbour",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/91-151-Q19-simon_profile_2.jpg?itok=BiwhoDoJ",
+      "lives_in": "Petone",
+      "name": "Simon Monrad",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_04602#Simon Monrad",
+      "why_elect": "I'm not standing for myself but for my community. I know that change isn't going to come through legislation. So I promise to use my platform to empower where real politics happens\u2014out in the street, in solidarity, together as people. Let's make this our city.",
+      "why_stand": "The Hutt can be great to live in, but things have changed recently. Rents are high, inequality has widened, we're working hard but wages are low, and over 1,000 are homeless. I'm standing because the city is right now run for the few, not the many. We can change it."
+    },
+    {
+      "affiliation": "The Man for the Future",
+      "age": null,
+      "before_politics": null,
+      "election": "Lower Hutt",
+      "electorate": "Harbour",
+      "image": null,
+      "lives_in": null,
+      "name": "Gavin Murphy",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_04602#Gavin Murphy",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Harbour",
+  "id": "WARD_04602",
+  "region": "Lower Hutt",
+  "type": "Council"
+}

@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Central Otago",
+      "electorate": "Maniototo",
+      "image": null,
+      "lives_in": null,
+      "name": "Stuart Duncan",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06903#Stuart Duncan",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Maniototo",
+  "id": "WARD_06903",
+  "region": "Central Otago",
+  "type": "Council"
+}

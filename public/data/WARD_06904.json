@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Central Otago",
+      "electorate": "Teviot Valley",
+      "image": null,
+      "lives_in": null,
+      "name": "Stephen F Jeffery",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06904#Stephen F Jeffery",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Teviot Valley",
+  "id": "WARD_06904",
+  "region": "Central Otago",
+  "type": "Council"
+}

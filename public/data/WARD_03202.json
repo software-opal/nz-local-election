@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Central Hawke's Bay",
+      "electorate": "Ruataniwha",
+      "image": null,
+      "lives_in": null,
+      "name": "Kelly Annand",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03202#Kelly Annand",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Central Hawke's Bay",
+      "electorate": "Ruataniwha",
+      "image": null,
+      "lives_in": null,
+      "name": "Tim Chote",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03202#Tim Chote",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Eyes and ears for our community on the ground!",
+      "age": null,
+      "before_politics": null,
+      "election": "Central Hawke's Bay",
+      "electorate": "Ruataniwha",
+      "image": null,
+      "lives_in": null,
+      "name": "Gerard Minehan",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03202#Gerard Minehan",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Central Hawke's Bay",
+      "electorate": "Ruataniwha",
+      "image": null,
+      "lives_in": null,
+      "name": "Exham Wichman",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03202#Exham Wichman",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Ruataniwha",
+  "id": "WARD_03202",
+  "region": "Central Hawke's Bay",
+  "type": "Council"
+}

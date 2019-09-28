@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "50",
+      "before_politics": "Guerrilla Film Maker",
+      "election": " Kaipara",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/379-610-Q19-moko_2.jpg?itok=yyKLgQbN",
+      "lives_in": "Omamari",
+      "name": "Moemoea Mohoawhenua",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_003#Moemoea Mohoawhenua",
+      "why_elect": "I am Tangata Whenua. My Tupuna have been here since the beginning of time. I was brought up on my Marae and at Omamari and as such will do all I can for my M\u0101ori and P\u0101keh\u0101 people, and everyone else here, from the principals and values of Tikanga M\u0101ori.",
+      "why_stand": "The main reason I am running for the Mayoralty is to say to my M\u0101ori people, especially our Rangatahi (Youth), that we are just as good as anyone else. We have the same mana (dignity). We can achieve our dreams and become all we are capable of becoming."
+    },
+    {
+      "affiliation": null,
+      "age": "47",
+      "before_politics": "Businessperson",
+      "election": " Kaipara",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/674-1103-Q19-Jason_Smith_Feb19.jpg?itok=M77iv7R4",
+      "lives_in": "Kaipara",
+      "name": "Jason Smith",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_003#Jason Smith",
+      "why_elect": "Being 5th generation local helps me understand the history and context of where we are and where we're headed. As the only current mayor in all NZ with an economic development doctorate, I am qualified to help take Kaipara to the next level. Already being mayor, I know the ropes.",
+      "why_stand": "I'm passionate about Kaipara and want this place to thrive and prosper."
+    }
+  ],
+  "electorate": null,
+  "id": "TA_003",
+  "region": " Kaipara",
+  "type": "Mayor"
+}

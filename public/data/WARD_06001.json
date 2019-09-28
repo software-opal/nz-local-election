@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "The People's Choice - Labour",
+      "age": "30",
+      "before_politics": "Student",
+      "election": "Christchurch",
+      "electorate": "Harewood",
+      "image": null,
+      "lives_in": "Belfast",
+      "name": "Scott Franicevic",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06001#Scott Franicevic",
+      "why_elect": "My extensive experience in Customer Relations roles makes me a people person who enjoys nothing more than having a good chat. With that in mind I believe I have the skills and experience to connect with and represent the views of the People of Harewood.",
+      "why_stand": "Because like many people in our City I believe it is time to see some fresh faces and change around the council table. I believe that I can be a strong and vocal advocate for my community."
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Christchurch",
+      "electorate": "Harewood",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/104-153-Q19-Aaron_Portrait.jpg?itok=rAp5yd5Q",
+      "lives_in": null,
+      "name": "Aaron Keown",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06001#Aaron Keown",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Harewood",
+  "id": "WARD_06001",
+  "region": "Christchurch",
+  "type": "Council"
+}

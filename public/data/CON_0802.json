@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Manawat\u016b-Whanganui",
+      "electorate": "Whanganui",
+      "image": null,
+      "lives_in": null,
+      "name": "David Cotton",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0802#David Cotton",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "46",
+      "before_politics": "Environmental consultant",
+      "election": "Manawat\u016b-Whanganui",
+      "electorate": "Whanganui",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/164-216-Q19-Horizons_candidate_pic_Nicola_Patrick_2019__1.jpg?itok=YW5HbX1V",
+      "lives_in": "Whanganui",
+      "name": "Nicola Patrick",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0802#Nicola Patrick",
+      "why_elect": "I have diverse and relevant experience working at senior levels in the public, private, charitable and iwi sectors in Australia and NZ, as a volunteer, and I've served three years as a councillor. Educated in Whanganui, I have a science degree from Massey University and am mum to two boys.",
+      "why_stand": "I stood for Horizons Regional Council because I love Whanganui and NZ and want to see them thrive. I believe in environmental, economic and social values underpinning good decision-making and want to make a difference as a regional councillor."
+    }
+  ],
+  "electorate": "Whanganui",
+  "id": "CON_0802",
+  "region": "Manawat\u016b-Whanganui",
+  "type": "Regional Council"
+}

@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "South Taranaki",
+      "electorate": "P\u0101tea",
+      "image": null,
+      "lives_in": null,
+      "name": "Dean Charles Kahu",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03504#Dean Charles Kahu",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "South Taranaki",
+      "electorate": "P\u0101tea",
+      "image": null,
+      "lives_in": null,
+      "name": "Robert Northcott",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03504#Robert Northcott",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "65",
+      "before_politics": "Police Officer",
+      "election": "South Taranaki",
+      "electorate": "P\u0101tea",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/129-213-Q19-P1020027.jpg?itok=_X1moRED",
+      "lives_in": "Waiinu Beach, Waitotara",
+      "name": "Brian Rook",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_03504#Brian Rook",
+      "why_elect": "I have spent the last 35 years working in Law Enforcement and have always looked for innovative ways to deal with problem issues. I want to use that experience to make this a safe and happy community. I was born and bred in Patea and know this area well.",
+      "why_stand": "I have South Taranaki blood and I believe we have the best recreational opportunities than any other community. I believe that together we can make it one of the best tourist spots."
+    }
+  ],
+  "electorate": "P\u0101tea",
+  "id": "WARD_03504",
+  "region": "South Taranaki",
+  "type": "Council"
+}

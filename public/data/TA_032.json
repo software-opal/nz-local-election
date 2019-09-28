@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Central Hawke's Bay",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Darcie Meremere Tu Ahiahi Scowen",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_032#Darcie Meremere Tu Ahiahi Scowen",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "A Positive Future In CHB",
+      "age": null,
+      "before_politics": null,
+      "election": " Central Hawke's Bay",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Alex Walker",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_032#Alex Walker",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": null,
+  "id": "TA_032",
+  "region": " Central Hawke's Bay",
+  "type": "Mayor"
+}

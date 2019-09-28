@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "34",
+      "before_politics": "School Teacher Aide",
+      "election": "Waitomo",
+      "electorate": "Te Kuiti",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/319-500-Q19-1101FD63-56FB-406F-910B-F99FB8CB0BC6.jpg?itok=vyrNEOYL",
+      "lives_in": "Te K\u016biti",
+      "name": "Lisa Marshall",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_02002#Lisa Marshall",
+      "why_elect": "I have grown up in this community. I am a business owner which services our community and I work with our children of tomorrow.",
+      "why_stand": "Our community is a community of heart. It rally's together in the time of need and it shows our unity."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waitomo",
+      "electorate": "Te Kuiti",
+      "image": null,
+      "lives_in": null,
+      "name": "Janene New",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02002#Janene New",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "My Passion is this Community",
+      "age": null,
+      "before_politics": "Church Minister",
+      "election": "Waitomo",
+      "electorate": "Te Kuiti",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/417-675-Q19-JacobCut-Out_Aug2019_copy__1.jpg?itok=OZ-uMB2G",
+      "lives_in": "Te Kuiti",
+      "name": "Jacob Ngarewa",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_02002#Jacob Ngarewa",
+      "why_elect": "I am born and bread here in Te Kuiti. I am involved with many organisations and I'm all about walking the talk. I am the chairperson of two charitable trusts and coordinator of one of the local foodbanks I know our people.",
+      "why_stand": "I am running for council to be a strong voice for this community. I believe the current council do not listen to the ratepayers, to our residents. We need the right people in place to run our council."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waitomo",
+      "electorate": "Te Kuiti",
+      "image": null,
+      "lives_in": null,
+      "name": "Guy Whitaker",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02002#Guy Whitaker",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Te Kuiti",
+  "id": "WARD_02002",
+  "region": "Waitomo",
+  "type": "Council"
+}

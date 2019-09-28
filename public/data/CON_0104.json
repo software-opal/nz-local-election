@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "50",
+      "before_politics": "Communications consultant",
+      "election": "Northland",
+      "electorate": "Coastal North",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/109-148-Q19-Profile_pic_Aug_2019.jpg?itok=Gkpgh7Jp",
+      "lives_in": "Coastal North, Hukerenui",
+      "name": "Jocelyn Yeoman",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0104#Jocelyn Yeoman",
+      "why_elect": "Open, honest, transparent communications and collaboration are the cornerstones of my career. I've worked full-time for the community as a regional councillor, including as a hearing commissioner on the proposed regional plan. I ensure the communities concerns are at the heart of what I do.",
+      "why_stand": "I'm passionate about Northland and developing a resilient, prosperous region for future generations to continue to live, work and play here."
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Northland",
+      "electorate": "Coastal North",
+      "image": null,
+      "lives_in": null,
+      "name": "Marty Robinson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0104#Marty Robinson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Northland",
+      "electorate": "Coastal North",
+      "image": null,
+      "lives_in": null,
+      "name": "Dover Samuels",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0104#Dover Samuels",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Northland",
+      "electorate": "Coastal North",
+      "image": null,
+      "lives_in": null,
+      "name": "Bill Shepherd",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0104#Bill Shepherd",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Coastal North",
+  "id": "CON_0104",
+  "region": "Northland",
+  "type": "Regional Council"
+}

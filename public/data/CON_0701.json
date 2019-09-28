@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Taranaki",
+      "electorate": "North Taranaki",
+      "image": null,
+      "lives_in": null,
+      "name": "Mike Davey",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0701#Mike Davey",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Taranaki",
+      "electorate": "North Taranaki",
+      "image": null,
+      "lives_in": null,
+      "name": "Donald Hugh Mcintyre",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0701#Donald Hugh Mcintyre",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "40",
+      "before_politics": "Builder",
+      "election": "Taranaki",
+      "electorate": "North Taranaki",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/101-135-Q19-Chris_Wilkes_Pic.jpg?itok=jqN0GN1p",
+      "lives_in": "Okato",
+      "name": "Chris Wilkes",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0701#Chris Wilkes",
+      "why_elect": "I embrace the truth no matter how inconvenient it may be and speak with honesty and integrity. I am committed to bringing about the positive changes we need to ensure or continued prosperity as a region.",
+      "why_stand": "I am determined to bring a voice for the environment to the council table. I am passionate about the preservation and enhancement of the natural environment and believe we haven't got it right yet, so I am hoping to contribute in some way to bringing the balance."
+    }
+  ],
+  "electorate": "North Taranaki",
+  "id": "CON_0701",
+  "region": "Taranaki",
+  "type": "Regional Council"
+}

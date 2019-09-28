@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Otorohanga",
+      "electorate": "Kiokio-Korakonui",
+      "image": null,
+      "lives_in": null,
+      "name": "Bryan (Ferg) Ferguson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01803#Bryan Ferg Ferguson",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Kiokio-Korakonui",
+  "id": "WARD_01803",
+  "region": "Otorohanga",
+  "type": "Council"
+}

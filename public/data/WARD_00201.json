@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Whangarei",
+      "electorate": "Mangakahia-Maungatapere",
+      "image": null,
+      "lives_in": null,
+      "name": "Sid Diamond",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_00201#Sid Diamond",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Whangarei",
+      "electorate": "Mangakahia-Maungatapere",
+      "image": null,
+      "lives_in": null,
+      "name": "Simon Reid",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_00201#Simon Reid",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Mangakahia-Maungatapere",
+  "id": "WARD_00201",
+  "region": "Whangarei",
+  "type": "Council"
+}

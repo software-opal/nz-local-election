@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "A Resilient And Trustworthy Mayor",
+      "age": null,
+      "before_politics": null,
+      "election": " Horowhenua",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Michael Feyen",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_042#Michael Feyen",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Horowhenua",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Victoria Kaye-Simmons",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_042#Victoria Kaye-Simmons",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "64",
+      "before_politics": "Retailer",
+      "election": " Horowhenua",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/559-879-Q19-PROFILE_PICTURE_2.jpg?itok=ja0S3J6Z",
+      "lives_in": "Levin",
+      "name": "Bernie Wanden",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_042#Bernie Wanden",
+      "why_elect": "My working and community life has been to ensure positive outcomes for all and I would continue to do that if elected as mayor. I have been a conscientious and committed Councillor and would work tirelessly to make this district great.",
+      "why_stand": "I am running for Mayor because I genuinely care about this District and its future. We are an undervalued and under appreciated District which has the potential to deliver a wonderful lifestyle to all that live here. I want to ensure that happens."
+    }
+  ],
+  "electorate": null,
+  "id": "TA_042",
+  "region": " Horowhenua",
+  "type": "Mayor"
+}

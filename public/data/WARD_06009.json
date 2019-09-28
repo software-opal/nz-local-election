@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "The People's Choice",
+      "age": null,
+      "before_politics": null,
+      "election": "Christchurch",
+      "electorate": "Halswell",
+      "image": null,
+      "lives_in": null,
+      "name": "Anne Galloway",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06009#Anne Galloway",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": "Business Person",
+      "election": "Christchurch",
+      "electorate": "Halswell",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/190-309-Q19-Paul_Lonsdale.jpg?itok=B1hrUIHi",
+      "lives_in": "Halswell",
+      "name": "Paul Lonsdale",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06009#Paul Lonsdale",
+      "why_elect": "I have proven ability of getting things done and many years of management and governance experience. I have been a Christchurch City councillor and was involved in all aspects of the council and its subsidiaries. I carry a large amount of knowledge to ensure our community's voice is effectively heard.",
+      "why_stand": "I am running for council because I believe we can do better. Much better. As a resident of Halswell I have seen our traffic become more congested, flooding challenges increase and water quality decrease. I will not be swayed by Wellington politics and believe we need better local representation."
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Christchurch",
+      "electorate": "Halswell",
+      "image": null,
+      "lives_in": null,
+      "name": "Sam Yau",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06009#Sam Yau",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Halswell",
+  "id": "WARD_06009",
+  "region": "Christchurch",
+  "type": "Council"
+}

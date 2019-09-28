@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waitaki",
+      "electorate": "Corriedale",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/543-860-Q19-Eugen_Dupu.jpg?itok=WG4T2JVr",
+      "lives_in": null,
+      "name": "Eugen Dupu",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06804#Eugen Dupu",
+      "why_elect": "I lead with integrity, make a difference and bring a positive perspective. I have been involved in governance locally, nationally and internationally and is a strength of mine\u2014I can bring a different perspective to the table and a unique skill set.",
+      "why_stand": "I believe that the Waitaki district is one of the best places to live in our country and have seen the tremendous change and growth in our district. My passion are the people and people make the district."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waitaki",
+      "electorate": "Corriedale",
+      "image": null,
+      "lives_in": null,
+      "name": "Bill Kingan",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06804#Bill Kingan",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Waitaki",
+      "electorate": "Corriedale",
+      "image": null,
+      "lives_in": null,
+      "name": "Guy Percival",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06804#Guy Percival",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Corriedale",
+  "id": "WARD_06804",
+  "region": "Waitaki",
+  "type": "Council"
+}

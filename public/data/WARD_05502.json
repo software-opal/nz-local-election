@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Buller",
+      "electorate": "Inangahua",
+      "image": null,
+      "lives_in": null,
+      "name": "John Bougen",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05502#John Bougen",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Buller",
+      "electorate": "Inangahua",
+      "image": null,
+      "lives_in": null,
+      "name": "Dave Hawes",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05502#Dave Hawes",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Inangahua",
+  "id": "WARD_05502",
+  "region": "Buller",
+  "type": "Council"
+}

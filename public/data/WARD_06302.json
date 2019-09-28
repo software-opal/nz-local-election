@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Ashburton",
+      "electorate": "Eastern",
+      "image": null,
+      "lives_in": null,
+      "name": "Stuart Wilson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06302#Stuart Wilson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "64",
+      "before_politics": "Farmer and a volunteer",
+      "election": "Ashburton",
+      "electorate": "Eastern",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/33-60-Q19-6E1210F5-C677-4B05-9A8F-1E5610E80725.jpg?itok=odTDz_UG",
+      "lives_in": "Eiffelton District Ashburton",
+      "name": "Lynette Lovett",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06302#Lynette Lovett",
+      "why_elect": "I'm proud to be living on our family farm of four generations in the Eiffelton district which gives me a good grounding on the agricultural industry and rural communities. I have many interests in the agricultural sector and do a lot of volunteering in the community.",
+      "why_stand": "A rural voice working for town and country. I have the ability, energy, and will work collaboratively for the best outcome for the district, to grow and excel to be a desirable place to live work and play."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Ashburton",
+      "electorate": "Eastern",
+      "image": null,
+      "lives_in": null,
+      "name": "Mark Malcolm",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06302#Mark Malcolm",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Ashburton",
+      "electorate": "Eastern",
+      "image": null,
+      "lives_in": null,
+      "name": "Philip Arthur Rushton",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06302#Philip Arthur Rushton",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Eastern",
+  "id": "WARD_06302",
+  "region": "Ashburton",
+  "type": "Council"
+}

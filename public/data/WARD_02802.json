@@ -1,0 +1,83 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Gisborne",
+      "electorate": "Waipaoa",
+      "image": null,
+      "lives_in": null,
+      "name": "Ben Brown",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02802#Ben Brown",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Gisborne",
+      "electorate": "Waipaoa",
+      "image": null,
+      "lives_in": null,
+      "name": "Athena Emmerson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02802#Athena Emmerson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": "International Tourism lodge",
+      "election": "Gisborne",
+      "electorate": "Waipaoa",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/42-72-Q19-IMG_0320.jpg?itok=D9aoK-1j",
+      "lives_in": "Waipaoa",
+      "name": "Frank Murphy",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_02802#Frank Murphy",
+      "why_elect": "I have been chairman of a 150 member NZ wide tourism association for 25 years. know about meeting procedures and how to get things done. Proved this through a contract with GDC to bring cruise ships into Gisborne successfully achieved, on time and within budget.",
+      "why_stand": "Waipaoa ward needs a strong voice."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Gisborne",
+      "electorate": "Waipaoa",
+      "image": null,
+      "lives_in": null,
+      "name": "Charlie Reynolds",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02802#Charlie Reynolds",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Gisborne",
+      "electorate": "Waipaoa",
+      "image": null,
+      "lives_in": null,
+      "name": "Kerry Worsnop",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02802#Kerry Worsnop",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Waipaoa",
+  "id": "WARD_02802",
+  "region": "Gisborne",
+  "type": "Council"
+}

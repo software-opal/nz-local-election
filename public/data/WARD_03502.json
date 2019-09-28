@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "South Taranaki",
+      "electorate": "Eltham-Kaponga",
+      "image": null,
+      "lives_in": null,
+      "name": "Mark Bellringer",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03502#Mark Bellringer",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "South Taranaki",
+      "electorate": "Eltham-Kaponga",
+      "image": null,
+      "lives_in": null,
+      "name": "Gordon Lawson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03502#Gordon Lawson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "South Taranaki",
+      "electorate": "Eltham-Kaponga",
+      "image": null,
+      "lives_in": null,
+      "name": "Steffy Mackay",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03502#Steffy Mackay",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "South Taranaki",
+      "electorate": "Eltham-Kaponga",
+      "image": null,
+      "lives_in": null,
+      "name": "Lindsay Craig Maindonald",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03502#Lindsay Craig Maindonald",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Eltham-Kaponga",
+  "id": "WARD_03502",
+  "region": "South Taranaki",
+  "type": "Council"
+}

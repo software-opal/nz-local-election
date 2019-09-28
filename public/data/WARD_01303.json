@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Whangamarino",
+      "image": null,
+      "lives_in": null,
+      "name": "Jan Sedgwick",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01303#Jan Sedgwick",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Whangamarino",
+  "id": "WARD_01303",
+  "region": "Waikato",
+  "type": "Council"
+}

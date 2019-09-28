@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Southland",
+      "electorate": "Hokonui",
+      "image": null,
+      "lives_in": null,
+      "name": "Grant Hubber",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_1504#Grant Hubber",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Southland",
+      "electorate": "Hokonui",
+      "image": null,
+      "lives_in": null,
+      "name": "Peter Mcdonald",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_1504#Peter Mcdonald",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Hokonui",
+  "id": "CON_1504",
+  "region": "Southland",
+  "type": "Regional Council"
+}

@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": "Parent, farmer, director",
+      "election": "Gisborne",
+      "electorate": "Taruheru-Patutahi",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/99-154-Q19-P8040077-B-RS__3.jpg?itok=U9nk6NqV",
+      "lives_in": "Muriwai",
+      "name": "Sandra Faulkner",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_02804#Sandra Faulkner",
+      "why_elect": "I have a well-established business background in agriculture, horticulture and farm forestry while also having a portfolio of charitable and not-for-profit governance. I look forward to the opportunity to bring a high level of strategic thinking, energy and pride in our region, to the council table.",
+      "why_stand": "Gisborne is a great place to live, work and raise our families, but distance from the main centres can be debilitating for our small communities. Understanding issues on the ground allows me to better advocate for the regions rural families and businesses.\""
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Gisborne",
+      "electorate": "Taruheru-Patutahi",
+      "image": null,
+      "lives_in": null,
+      "name": "Malcolm Maclean",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_02804#Malcolm Maclean",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Taruheru-Patutahi",
+  "id": "WARD_02804",
+  "region": "Gisborne",
+  "type": "Council"
+}

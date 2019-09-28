@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Otorohanga",
+      "electorate": "Otorohanga",
+      "image": null,
+      "lives_in": null,
+      "name": "Katrina Christison",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01804#Katrina Christison",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Otorohanga",
+      "electorate": "Otorohanga",
+      "image": null,
+      "lives_in": null,
+      "name": "Paul (Porky) McConnell",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01804#Paul Porky McConnell",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Otorohanga",
+      "electorate": "Otorohanga",
+      "image": null,
+      "lives_in": null,
+      "name": "Wikit\u014dria T\u0101ne",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01804#Wikit\u014dria T\u0101ne",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Otorohanga",
+  "id": "WARD_01804",
+  "region": "Otorohanga",
+  "type": "Council"
+}

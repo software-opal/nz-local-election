@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Ruapehu",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Don Cameron",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_036#Don Cameron",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "TLC Set Us Free",
+      "age": "50",
+      "before_politics": "Sales Exec.",
+      "election": " Ruapehu",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/362-575-Q19-IMG_7479.jpg?itok=ha_2YZpB",
+      "lives_in": "Taumarunui",
+      "name": "Jacques Windell",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_036#Jacques Windell",
+      "why_elect": "I am very tenacious, as my 3 year fight with the lines issue at central government level proves. I am also not scared to take on Ministers if I have to. Our voice will be heard and I will not be denied. That's my promise to you.",
+      "why_stand": "I am running for Mayor because I believe we need a fearless leader who will not accept the lunacy of some of the compliance laws central government is forcing on us. Robust push-back is critical, as a matter of urgency to save our towns!"
+    }
+  ],
+  "electorate": null,
+  "id": "TA_036",
+  "region": " Ruapehu",
+  "type": "Mayor"
+}

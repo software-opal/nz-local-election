@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "53",
+      "before_politics": "Finance and Farmer",
+      "election": "Hastings",
+      "electorate": "Mohaka",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/75-130-Q19-20190818_144104.jpg?itok=nlvki1yY",
+      "lives_in": "Glengarry Road, Mohaka",
+      "name": "Tania Kerr",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_03001#Tania Kerr",
+      "why_elect": "Experience. Knowing each community is so vital in this vast rural ward. Having lived here for 30 years, raised a family and served this community from pre-school president to board of trustees chair, from rural community board member to chairperson, now councillor with the added honour of being Deputy Mayor.",
+      "why_stand": "I enjoy serving my community, helping them reach their goals, be it improved roading network and safety, or increased community resilience in time of disaster. We have more to achieve, ie Taihape Road to be funded by NZTA, security camera rollout around the district, rural halls to be earthquake proof."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": "Business person and orchardist",
+      "election": "Hastings",
+      "electorate": "Mohaka",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/31-56-Q19-stuart_perry.jpg?itok=LbNQezKs",
+      "lives_in": "Crownthorpe",
+      "name": "Stuart Perry",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_03001#Stuart Perry",
+      "why_elect": "I have 30 years of executive management and governance experience. I've worked at high levels of councils, have been in private enterprise, have lived and worked in rural communities and understand the importance of a strong vibrant agricultural, industrial and business district. And I listen and work with people!",
+      "why_stand": "Because I want to make a difference and work for the community. Council needs to be transparent and have councillors who listen to the residents. I put people first and systems second. I don't compromise on my beliefs and will speak out on issues that impact our communities."
+    }
+  ],
+  "electorate": "Mohaka",
+  "id": "WARD_03001",
+  "region": "Hastings",
+  "type": "Council"
+}

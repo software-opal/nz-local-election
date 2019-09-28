@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Team Energy",
+      "age": null,
+      "before_politics": null,
+      "election": " South Taranaki",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Craig Baylis",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_035#Craig Baylis",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " South Taranaki",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Clem Coxhead",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_035#Clem Coxhead",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " South Taranaki",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Phil Nixon",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_035#Phil Nixon",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": null,
+  "id": "TA_035",
+  "region": " South Taranaki",
+  "type": "Mayor"
+}

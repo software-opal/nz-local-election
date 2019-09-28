@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Thames-Coromandel",
+      "electorate": "Mercury Bay",
+      "image": null,
+      "lives_in": null,
+      "name": "Debbie Farrell",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01102#Debbie Farrell",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Thames-Coromandel",
+      "electorate": "Mercury Bay",
+      "image": null,
+      "lives_in": null,
+      "name": "Tony Fox",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01102#Tony Fox",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "39",
+      "before_politics": "Coordinator for NGO",
+      "election": "Thames-Coromandel",
+      "electorate": "Mercury Bay",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/446-718-Q19-DSCN9067.jpg?itok=UYtiLPZD",
+      "lives_in": "Whitianga Town",
+      "name": "Augusta Macassey-Pickard",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_01102#Augusta Macassey-Pickard",
+      "why_elect": "I am a long term local, I am a mum. I really care about the future of our area. I have engaged extensively with District Plans and RMA processes, have given evidence to community boards and select committees alike, I understand local government, and I believe it is for locals.",
+      "why_stand": "I am running for council as, having worked within the local government framework for the last 15 years, I can see that we need a range of perspectives, or knowledge in the council to ensure that the decisions we make result in resilient communities into the future."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Thames-Coromandel",
+      "electorate": "Mercury Bay",
+      "image": null,
+      "lives_in": null,
+      "name": "Murray Mclean",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01102#Murray Mclean",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Mercury Bay",
+  "id": "WARD_01102",
+  "region": "Thames-Coromandel",
+  "type": "Council"
+}

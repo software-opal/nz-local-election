@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "51",
+      "before_politics": "General Manager",
+      "election": " South Wairarapa",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/18-35-Q19-Mayor_Photo.jpg?itok=AebZvxLg",
+      "lives_in": "RD4 Martinborough",
+      "name": "Alex Beijen",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_050#Alex Beijen",
+      "why_elect": "I have lived in the South Wairarapa for 20 years, and have raised a family here. Having worked in business management and Council research, as well as living on a farm, I feel I have a good insight into the needs and requirements of our community.",
+      "why_stand": "In the South Wairarapa, with a small population maintaining a massive area, we have to be proactive, efficient and forward-thinking in our management of resources and funds. I know I can collaboratively work towards achieving a robust efficient Council over the next 2 terms."
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": " South Wairarapa",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Dayle Harwood",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_050#Dayle Harwood",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " South Wairarapa",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Viv Napier",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_050#Viv Napier",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "VOTE FOR THE TUNNEL",
+      "age": "62",
+      "before_politics": "Designer - Architecture Degree",
+      "election": " South Wairarapa",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/680-1115-Q19-Graeme_Farr_Mayoral_candidate_picture.jpg?itok=mDloyJ5k",
+      "lives_in": "Johnsonville in Wellington",
+      "name": "Graeme Farr",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_050#Graeme Farr",
+      "why_elect": "Anyone else is probably better than me but I am better than no-one. And no-one seems to have put their hand up! And I won't give up until I drive through it!",
+      "why_stand": "I am running for all three Wairarapa mayoralties to get people focused on building a tunnel through the Rimutakas. Anywhere else in the world would have done this 50 or more years ago. The route is much simpler than you think and the benefits for the region are enormous."
+    }
+  ],
+  "electorate": null,
+  "id": "TA_050",
+  "region": " South Wairarapa",
+  "type": "Mayor"
+}

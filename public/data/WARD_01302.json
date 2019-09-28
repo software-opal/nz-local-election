@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Onewhero-Te Akau",
+      "image": null,
+      "lives_in": null,
+      "name": "Carolyn Eyre",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01302#Carolyn Eyre",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": "Project Consultant",
+      "election": "Waikato",
+      "electorate": "Onewhero-Te Akau",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/WARD_01302_2.jpg?itok=yk8RYqjY",
+      "lives_in": "Te Akau",
+      "name": "Bronwyn Main",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_01302#Bronwyn Main",
+      "why_elect": "Because I love my ward, the people in it and the community I live in  They are all unique, magic and special and deserve to be represented and understood and my experience means I am the ideal person to do this and want to do it. It is a privilege.",
+      "why_stand": "I am standing for re-election because I am passionate about the ward and people I represent. They are unique and truly special and for me it is unfinished business in ensuring they get a better fairer representation and spend of their rating dollar on things that directly effect them."
+    }
+  ],
+  "electorate": "Onewhero-Te Akau",
+  "id": "WARD_01302",
+  "region": "Waikato",
+  "type": "Council"
+}

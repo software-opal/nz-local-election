@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Gore",
+      "electorate": "Mataura",
+      "image": null,
+      "lives_in": null,
+      "name": "Neville Phillips",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07404#Neville Phillips",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Mataura",
+  "id": "WARD_07404",
+  "region": "Gore",
+  "type": "Council"
+}

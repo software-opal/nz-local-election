@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Bay of Plenty",
+      "electorate": "Eastern Bay of Plenty",
+      "image": null,
+      "lives_in": null,
+      "name": "Bill Clark",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0404#Bill Clark",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Bay of Plenty",
+      "electorate": "Eastern Bay of Plenty",
+      "image": null,
+      "lives_in": null,
+      "name": "Douglas Leeder",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0404#Douglas Leeder",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Eastern Bay of Plenty",
+  "id": "CON_0404",
+  "region": "Bay of Plenty",
+  "type": "Regional Council"
+}

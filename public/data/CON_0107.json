@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "60",
+      "before_politics": "maintenance fitter",
+      "election": "Northland",
+      "electorate": "Coastal South",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/67-86-Q19.jpg?itok=5dkb5NCt",
+      "lives_in": "Waipu",
+      "name": "David Lourie",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0107#David Lourie",
+      "why_elect": "I understand the issues, the players and their ideologies and motives, and the concerns of the public. What I don't understand I can research. I can discern fact from fantasy and information from disinformation. That is a good basis for the role of governance.",
+      "why_stand": "I have been involved in many submission and hearing processes and a few campaigns. There have been elements within council that obstruct good central government legislation, policy statements and stonewall public input, the latest being ignoring public concern over the release of GMOs. Better to be sitting at the table."
+    },
+    {
+      "affiliation": null,
+      "age": "63",
+      "before_politics": "School teacher/businessman",
+      "election": "Northland",
+      "electorate": "Coastal South",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/149-195-Q19-IMGP9999a__1.jpg?itok=SPLNBQAj",
+      "lives_in": "Langs Beach, Waipu Northland",
+      "name": "Rick Stolwerk",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0107#Rick Stolwerk",
+      "why_elect": "Having been involved on school, regional and national boards I believe I have the governance experience to move this region forward. I see my role in the next term of council as growing the interconnection between community, economy and environment by building on local community initiatives already underway.",
+      "why_stand": "Having lived at my amazing local beach for 41 years, I believe that I understand the issues that this area faces; in particular pest management, coastal flooding and coastal water quality. Having been involved in surf life saving for this period I have seen the devastating changes to the coast."
+    }
+  ],
+  "electorate": "Coastal South",
+  "id": "CON_0107",
+  "region": "Northland",
+  "type": "Regional Council"
+}

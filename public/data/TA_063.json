@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Ashburton",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Leen Braam",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_063#Leen Braam",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Ashburton",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Neil Brown",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_063#Neil Brown",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Ashburton",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Donna Favel",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_063#Donna Favel",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "72",
+      "before_politics": "Fashion Retailer",
+      "election": " Ashburton",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/382-613-Q19-Tony_Todd_for_Mayor_Photo_2.jpg?itok=9W_onxlO",
+      "lives_in": "Allenton Ashburton",
+      "name": "Tony Todd",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_063#Tony Todd",
+      "why_elect": "I have worked in retail for 54 years, on East Street with Todds of Ashburton. Secretary and President of the local Retailers Association. Joined Jaycee Secretary, President and JCI Senator. Rotary President. Board member of Ashburton Licensing Trust for 30 years last 12 years as President. Life Member of NZLTA.",
+      "why_stand": "I have great health and plenty of vigour remaining, plus a deep-seated love for this community that has been my whole life, I become driven by a need to offer my experience and collective wisdom to lead this great district through the next few crucial years."
+    }
+  ],
+  "electorate": null,
+  "id": "TA_063",
+  "region": " Ashburton",
+  "type": "Mayor"
+}

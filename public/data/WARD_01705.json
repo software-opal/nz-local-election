@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waipa",
+      "electorate": "Kakepuku",
+      "image": null,
+      "lives_in": null,
+      "name": "Susan O'Regan",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01705#Susan ORegan",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Kakepuku",
+  "id": "WARD_01705",
+  "region": "Waipa",
+  "type": "Council"
+}

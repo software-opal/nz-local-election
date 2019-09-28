@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Northland",
+      "electorate": "Hokianga-Kaikohe",
+      "image": null,
+      "lives_in": null,
+      "name": "Justin Blaikie",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0102#Justin Blaikie",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Hokianga-Kaikohe",
+  "id": "CON_0102",
+  "region": "Northland",
+  "type": "Regional Council"
+}

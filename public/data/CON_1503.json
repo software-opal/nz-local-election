@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Southland",
+      "electorate": "Western",
+      "image": null,
+      "lives_in": null,
+      "name": "Nicol George Horrell",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_1503#Nicol George Horrell",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "40",
+      "before_politics": "Dolphin Consultant",
+      "election": "Southland",
+      "electorate": "Western",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/89-119-Q19-IMG_2645.jpg?itok=qX64pDan",
+      "lives_in": "Colac Bay",
+      "name": "Gemma Mcgrath",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_1503#Gemma Mcgrath",
+      "why_elect": "I'm all about collaboration and working together to progress people, alongside regenerating the health of our natural environment. I'll serve you well, as I'm good at understanding multiple peoples' perspectives, as well as the science. I have qualifications and experience in science communication and marine conservation.",
+      "why_stand": "I'm standing to represent you and our environment\u2014our greatest community asset. I love the land, and the waterways that surround us. We need to improve the state of our environment for our future and our children."
+    },
+    {
+      "affiliation": null,
+      "age": "47",
+      "before_politics": "Post Graduate Student @ Otago",
+      "election": "Southland",
+      "electorate": "Western",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/CON_1503_3.jpg?itok=SnNqXrCu",
+      "lives_in": "Nightcaps",
+      "name": "Sera Perham",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_1503#Sera Perham",
+      "why_elect": "I have lived in almost every city of New Zealand except for Auckland. What attracted my family to Nightcaps is the spirit of counter-urbanisation; lifestyle, affordability, community spirit of looking out for each other. I have the time for my community, to ask questions and keeping everyone informed.",
+      "why_stand": "Our rural community is expanding. We need thinkers who can express community voices clearly at regional council meetings. We need thinkers who can interrogate regional policies that are fundamentally fair to all parties. Importantly, we need thinkers who believe in local knowledge while respecting each others differences."
+    }
+  ],
+  "electorate": "Western",
+  "id": "CON_1503",
+  "region": "Southland",
+  "type": "Regional Council"
+}

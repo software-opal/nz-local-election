@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Mackenzie",
+      "electorate": "Pukaki",
+      "image": null,
+      "lives_in": null,
+      "name": "Matt Murphy",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06501#Matt Murphy",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Mackenzie",
+      "electorate": "Pukaki",
+      "image": null,
+      "lives_in": null,
+      "name": "Russell Armstrong",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06501#Russell Armstrong",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "30",
+      "before_politics": "Business Owner Operator",
+      "election": "Mackenzie",
+      "electorate": "Pukaki",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/497-788-Q19-Council.jpg?itok=JEZH_1GX",
+      "lives_in": "Twizel",
+      "name": "Emily Bradbury",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06501#Emily Bradbury",
+      "why_elect": "In my short time spent living in Twizel, I have never been so sure about living there. I have a fresh set of eyes and ideas that I believe will be a great addition to the local council and the planning and development that lies ahead.",
+      "why_stand": "My family and I thoroughly enjoy the Mackenzie Country for its natural tranquility and outlook. It has so much to offer, with it's lakes, mountains and so many more outdoor activities. I am motivated because there is so much opportunity in this region, we just need to unlock it."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Mackenzie",
+      "electorate": "Pukaki",
+      "image": null,
+      "lives_in": null,
+      "name": "James Leslie",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06501#James Leslie",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Pukaki",
+  "id": "WARD_06501",
+  "region": "Mackenzie",
+  "type": "Council"
+}

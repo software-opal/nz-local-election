@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": "Lawyer and partner",
+      "election": " Marlborough",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/57-88-Q19-John_Leggett_Shots_JH_RBP__1.jpg?itok=_jQCkmfJ",
+      "lives_in": "Blenheim",
+      "name": "John Leggett",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_053#John Leggett",
+      "why_elect": "The role of Mayor requires strong leadership, exemplary governance, integrity, experience, professionalism and a progressive vision. During my two terms as Councillor and one term as Mayor, I have unfailingly demonstrated that I stand true to those attributes, and that I am someone who Marlborough can trust.",
+      "why_stand": "Like so many who live alongside me in our wonderful region, I am driven by a desire to ensure enduring success for Marlborough. What people want from a Mayor is to know they are being heard, and I strive to ensure public engagement is always a priority."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Marlborough",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Rick Ireland",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_053#Rick Ireland",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "39",
+      "before_politics": "Self employed",
+      "election": " Marlborough",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/44-75-Q19-JA_Candidate_Photo.jpg?itok=1YmShvh9",
+      "lives_in": "Renwick",
+      "name": "Jamie Arbuckle",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_053#Jamie Arbuckle",
+      "why_elect": "I have nine years experience across every facet of Council as a constructive member on a range of committees. I am accessible and have ensured constituents are treated equally, listened to and valued. Marlborough deserves a full time Mayor\u2014vote Jamie Arbuckle.",
+      "why_stand": "It is time for decisive action on key regional issues. With a sense of urgency obvious in the community on a range of topics from climate change to the affordability of rates, I will lead this council to implement meaningful policy change before it's too late."
+    }
+  ],
+  "electorate": null,
+  "id": "TA_053",
+  "region": " Marlborough",
+  "type": "Mayor"
+}

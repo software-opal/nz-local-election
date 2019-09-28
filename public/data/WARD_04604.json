@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Lower Hutt",
+      "electorate": "Central",
+      "image": null,
+      "lives_in": null,
+      "name": "David Bassett",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_04604#David Bassett",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Central",
+  "id": "WARD_04604",
+  "region": "Lower Hutt",
+  "type": "Council"
+}

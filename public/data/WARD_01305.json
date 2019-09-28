@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": "61",
+      "before_politics": "Business consultant",
+      "election": "Waikato",
+      "electorate": "Eureka",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/513-814-Q19-E_Goodwin_blue_1.jpg?itok=vZfk3kas",
+      "lives_in": "Newstead, Eureka Ward",
+      "name": "Elizabeth Goodwin",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_01305#Elizabeth Goodwin",
+      "why_elect": "My work experience includes: Science, business, construction industry and local government. This is supported by the following qualifications: PhD -Marine Biology; MSc honours\u2014Freshwater Biology; MBA\u2014business management. I will bring logical, robust and responsible decision making. I am known for integrity, responsibility, courage, and collaborative problem solving.",
+      "why_stand": "The Eureka Ward has been my place of residence for 32 years, and my vision is that by working together we can harness the potential of the Waikato to support business growth and employment while protecting our environment, and creating a desirable place to live and work."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Eureka",
+      "image": null,
+      "lives_in": null,
+      "name": "Rob Mcguire",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01305#Rob Mcguire",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Eureka",
+  "id": "WARD_01305",
+  "region": "Waikato",
+  "type": "Council"
+}

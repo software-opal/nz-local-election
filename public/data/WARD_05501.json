@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Buller",
+      "electorate": "Seddon",
+      "image": null,
+      "lives_in": null,
+      "name": "Rosalie Sampson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05501#Rosalie Sampson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Buller",
+      "electorate": "Seddon",
+      "image": null,
+      "lives_in": null,
+      "name": "Rob Burdekin",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05501#Rob Burdekin",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Coast First",
+      "age": null,
+      "before_politics": null,
+      "election": "Buller",
+      "electorate": "Seddon",
+      "image": null,
+      "lives_in": null,
+      "name": "Martin Hil",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_05501#Martin Hil",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Seddon",
+  "id": "WARD_05501",
+  "region": "Buller",
+  "type": "Council"
+}

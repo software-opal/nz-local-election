@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": " Thames-Coromandel",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Sandra Goudie",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_011#Sandra Goudie",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": "42",
+      "before_politics": "It's complicated",
+      "election": " Thames-Coromandel",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/263-417-Q19-IMG_20190819_202427.jpg?itok=4WjK-vtj",
+      "lives_in": "Aotea",
+      "name": "Ben Parsons",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_011#Ben Parsons",
+      "why_elect": "I am now a self-employed Architectural Technician working out of a solar-powered studio in Northern Coromandel, but I have worked for many years in primary industries and also in corporate events production. I also maintain an organic garden in Kopu and have a deep family connection to the Coromandel Peninsula.",
+      "why_stand": "I want Coromandel to be a place that our kids can be proud of; an enjoyable piece of paradise for generations to come and an example of an enlightened society."
+    },
+    {
+      "affiliation": "Independent",
+      "age": "63",
+      "before_politics": "Fingerpickin' Forklift Driver",
+      "election": " Thames-Coromandel",
+      "electorate": null,
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/539-856-Q19-Len_Salt_press_release_photo_No_2_Sept_1st_2019.jpg?itok=3DyghDfF",
+      "lives_in": "Whitianga",
+      "name": "Len Salt",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/TA_011#Len Salt",
+      "why_elect": "I have more than 40 years business experience and a proven track record of using innovation and creative thinking to find better and more cost-effective solutions. I have a deep commitment to community service, integrity and to the financial, social, environmental and economic well-being of the community I live in.",
+      "why_stand": "The Coromandel needs an independent, non-aligned mayor who is prepared to listen to the people and make balanced decisions for the benefit of the whole community."
+    }
+  ],
+  "electorate": null,
+  "id": "TA_011",
+  "region": " Thames-Coromandel",
+  "type": "Mayor"
+}

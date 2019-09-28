@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Clutha",
+      "electorate": "Kaitangata-Matau",
+      "image": null,
+      "lives_in": null,
+      "name": "Bruce Roger Graham",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07207#Bruce Roger Graham",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Kaitangata-Matau",
+  "id": "WARD_07207",
+  "region": "Clutha",
+  "type": "Council"
+}

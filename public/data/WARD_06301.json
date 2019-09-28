@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Ashburton",
+      "electorate": "Western",
+      "image": null,
+      "lives_in": null,
+      "name": "Evan Chisnall",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06301#Evan Chisnall",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Ashburton",
+      "electorate": "Western",
+      "image": null,
+      "lives_in": null,
+      "name": "Rodger Letham",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06301#Rodger Letham",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Ashburton",
+      "electorate": "Western",
+      "image": null,
+      "lives_in": null,
+      "name": "Liz McMillan",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06301#Liz McMillan",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Western",
+  "id": "WARD_06301",
+  "region": "Ashburton",
+  "type": "Council"
+}

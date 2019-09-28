@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "The People's Choice - Labour",
+      "age": "28",
+      "before_politics": "Farsi Interpreter.",
+      "election": "Christchurch",
+      "electorate": "Waimairi",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/536-851-Q19-IMG_1823__2.jpg?itok=T0VXhJNo",
+      "lives_in": "Wigram",
+      "name": "Zahra Hussaini",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06002#Zahra Hussaini",
+      "why_elect": "Christchurch has been my home for the past 15 years and I work on different events that bring communities together to create positive change. I believe I can carry my organisational abilities to bring people together through to local government in a council environment.",
+      "why_stand": "My name is Zahra Hussaini, and I'm standing for council here in Waimairi. I come from a big Afghan family and Christchurch has been my home for the past 15 years. My goal is to bring diverse communities together. I believe climate change should be our number one priority."
+    },
+    {
+      "affiliation": "Independent Citizens",
+      "age": "28",
+      "before_politics": "Chartered Accountant",
+      "election": "Christchurch",
+      "electorate": "Waimairi",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/WARD_06002_2.jpg?itok=gR4XxFl2",
+      "lives_in": "Avonhead, Christchurch",
+      "name": "Sam MacDonald",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06002#Sam MacDonald",
+      "why_elect": "I'm a Chartered Accountant, and currently Chair our community board. I know our area, and our city well and have a vision for the role council should place. We should be an enabler, not the barrier to sensible and sustainable development and investment in our city.",
+      "why_stand": "I'm standing for council because I am well placed to serve our community. We have a range of issues facing our City and we need local, competent representation at council. I live and pay rates in my Ward, and understand the challenges the residents face."
+    }
+  ],
+  "electorate": "Waimairi",
+  "id": "WARD_06002",
+  "region": "Christchurch",
+  "type": "Council"
+}

@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Awaroa ki Tuakau",
+      "image": null,
+      "lives_in": null,
+      "name": "Jacqui Church",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01301#Jacqui Church",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Awaroa ki Tuakau",
+      "image": null,
+      "lives_in": null,
+      "name": "Stephanie Henderson",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01301#Stephanie Henderson",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Awaroa ki Tuakau",
+      "image": null,
+      "lives_in": null,
+      "name": "Kandi Ngataki",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01301#Kandi Ngataki",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Awaroa ki Tuakau",
+  "id": "WARD_01301",
+  "region": "Waikato",
+  "type": "Council"
+}

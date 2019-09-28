@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Christchurch",
+      "electorate": "Papanui",
+      "image": null,
+      "lives_in": null,
+      "name": "John Stringer",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06003#John Stringer",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": "43",
+      "before_politics": "Manager",
+      "election": "Christchurch",
+      "electorate": "Papanui",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/350-554-Q19-259C4128-BCEB-4B5C-ABED-536E4E710C7D.jpg?itok=grlDlgor",
+      "lives_in": "Papanui",
+      "name": "Mike Davidson",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06003#Mike Davidson",
+      "why_elect": "Living locally and representing my community for the last six years I've been approachable and available to the community. My governance experience coupled with my managerial background with qualifications in insurance and environmental management makes me ideally suited to the needs of Christchurch residents and the future needs of our city.",
+      "why_stand": "Christchurch has amazing potential to be a truly modern and sustainable city. I want to make a difference and help shape the future while still ensuring the city still works for the people of today, by focusing on strong communities, resilient infrastructure and a healthy natural environment."
+    },
+    {
+      "affiliation": "The People's Choice - Labour",
+      "age": "48",
+      "before_politics": "Managing Director\u2014my company",
+      "election": "Christchurch",
+      "electorate": "Papanui",
+      "image": null,
+      "lives_in": "Redwood",
+      "name": "Nathan McCluskey",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06003#Nathan McCluskey",
+      "why_elect": "I am someone who knows how to build bridges rather than walls. I am committed to fostering compassionate communities and as a small business owner, I also understand bottom lines. For years I have been involved in youth leadership and that has kept me young at heart. I'm not boring!",
+      "why_stand": "I'm running for election because Christchurch is my city and Papanui is my place in it. It is the location where I was born and have been formed. I love it in spite of its scars and I want to give back to it. I also have the necessary skill set."
+    },
+    {
+      "affiliation": "Independent Citizens",
+      "age": "60",
+      "before_politics": "Accountant",
+      "election": "Christchurch",
+      "electorate": "Papanui",
+      "image": null,
+      "lives_in": "Strowan",
+      "name": "Peter McDougall",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06003#Peter McDougall",
+      "why_elect": "I have worked in central and local government for over twenty years. I understand how it functions and I know the right questions to ask and where we can make things better. I understand how we can save on rates without compromising levels of service.",
+      "why_stand": "I believe Christchurch can have everything or at least do I significant amount more. There was such hope and optimism for a better Christchurch immediately after the earthquakes. Unfortunately our politicians both local and national have let us down. I am standing because I believe we can do better."
+    }
+  ],
+  "electorate": "Papanui",
+  "id": "WARD_06003",
+  "region": "Christchurch",
+  "type": "Council"
+}

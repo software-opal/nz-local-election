@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Gore",
+      "electorate": "Waikaka",
+      "image": null,
+      "lives_in": null,
+      "name": "John Clarence Gardyne",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07401#John Clarence Gardyne",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Waikaka",
+  "id": "WARD_07401",
+  "region": "Gore",
+  "type": "Council"
+}

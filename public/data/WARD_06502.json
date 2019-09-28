@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Mackenzie",
+      "electorate": "Opuha",
+      "image": null,
+      "lives_in": null,
+      "name": "Warren (Wal) Barker",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06502#Warren Wal Barker",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Mackenzie",
+      "electorate": "Opuha",
+      "image": null,
+      "lives_in": null,
+      "name": "Stuart D. Barwood",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06502#Stuart D Barwood",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Mackenzie",
+      "electorate": "Opuha",
+      "image": null,
+      "lives_in": null,
+      "name": "Murray Cox",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06502#Murray Cox",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Mackenzie",
+      "electorate": "Opuha",
+      "image": null,
+      "lives_in": null,
+      "name": "Anne Munro",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06502#Anne Munro",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Opuha",
+  "id": "WARD_06502",
+  "region": "Mackenzie",
+  "type": "Council"
+}

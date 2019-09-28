@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Selwyn",
+      "electorate": "Malvern",
+      "image": null,
+      "lives_in": null,
+      "name": "Bill Woods",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06201#Bill Woods",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Selwyn",
+      "electorate": "Malvern",
+      "image": null,
+      "lives_in": null,
+      "name": "Jenny Gallagher",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06201#Jenny Gallagher",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Selwyn",
+      "electorate": "Malvern",
+      "image": null,
+      "lives_in": null,
+      "name": "Bob Mugford",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06201#Bob Mugford",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": "59",
+      "before_politics": "Farmer/Contractor",
+      "election": "Selwyn",
+      "electorate": "Malvern",
+      "image": null,
+      "lives_in": "Sheffield",
+      "name": "Kerry Pauling",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06201#Kerry Pauling",
+      "why_elect": "I have lived and worked in Malvern for thirty years. Working as a shearer in my youth I Have seen much of the area and met a lot of people. I have also been a police officer and met all kinds. I will listen and communicate for you as your councillor.",
+      "why_stand": "We live in a Beautiful clean environment. It is largely unspoiled and I would like to keep it that way. Under the Southern Alps we enjoy Fishing, Hunting, Skiing, Boating at our Doorstep. An increasing Number of Visitors means we need to keep building more facilities. I can help with that."
+    }
+  ],
+  "electorate": "Malvern",
+  "id": "WARD_06201",
+  "region": "Selwyn",
+  "type": "Council"
+}

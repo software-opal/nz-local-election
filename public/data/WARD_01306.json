@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Huntly",
+      "image": null,
+      "lives_in": null,
+      "name": "Shelley Lynch",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01306#Shelley Lynch",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Waikato",
+      "electorate": "Huntly",
+      "image": null,
+      "lives_in": null,
+      "name": "Frank Mcinally",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_01306#Frank Mcinally",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": "58",
+      "before_politics": "Chief Financial Officer",
+      "election": "Waikato",
+      "electorate": "Huntly",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/142-229-Q19-Maxine_Moana-Tuwhanga_-_WARD_01306_3.jpg?itok=-2zKDydW",
+      "lives_in": "Ngaruawahia",
+      "name": "Maxine Moana-Tuwhangai",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_01306#Maxine Moana-Tuwhangai",
+      "why_elect": "I offer a range of skills that can support the workings of the council. I'm a chartered accountant and an accredited environmental commissioner. I have approximately 17 years of notable governance experience and am familiar with council processes. I believe I have integrity and listen. I consider myself 'work ready.'",
+      "why_stand": "Huntly is on the verge of exciting changes. I'm standing to be part of that change and to made a positive contribution to the community. Supporting my husband's home town also means supporting our families. I live in the adjacent council ward but if elected will fully commit to Huntly."
+    },
+    {
+      "affiliation": null,
+      "age": "71",
+      "before_politics": "retired",
+      "election": "Waikato",
+      "electorate": "Huntly",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/485-771-Q19-bill2019.jpg?itok=19G8UFiV",
+      "lives_in": "Glen Afton",
+      "name": "Bill Rosoman",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_01306#Bill Rosoman",
+      "why_elect": "I have a long history of being involved in communities and involved in local body politics. I belong to several community groups and try to help the community get bigger and better and Huntly to be a great place to live.",
+      "why_stand": "I believe if we work together as a community and get the public much more involved in community affairs we can make Huntly and District a better place to live and work. We also need to make the council much more transparent and accountable."
+    }
+  ],
+  "electorate": "Huntly",
+  "id": "WARD_01306",
+  "region": "Waikato",
+  "type": "Council"
+}

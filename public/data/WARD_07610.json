@@ -1,0 +1,83 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Auckland",
+      "electorate": "Howick",
+      "image": null,
+      "lives_in": null,
+      "name": "Sharon Stewart",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07610#Sharon Stewart",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Auckland",
+      "electorate": "Howick",
+      "image": null,
+      "lives_in": null,
+      "name": "Paul Young",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07610#Paul Young",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Collings for Council",
+      "age": null,
+      "before_politics": null,
+      "election": "Auckland",
+      "electorate": "Howick",
+      "image": null,
+      "lives_in": null,
+      "name": "David Collings",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07610#David Collings",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "Independent",
+      "age": "35",
+      "before_politics": "Change Manager",
+      "election": "Auckland",
+      "electorate": "Howick",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/89-140-Q19-Damian_Light__small.jpg?itok=VZ9eHedJ",
+      "lives_in": "Botany",
+      "name": "Damian Light",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_07610#Damian Light",
+      "why_elect": "For over a decade I've worked as a problem solver for large organisations, helping them improve outcomes for customers, staff and shareholders. I have the business and governance experience, combined with strong community connections to deliver positive change for our city.",
+      "why_stand": "I'm proud to have lived and worked in Auckland my entire life. Our city is a great place to live but we need more passion, ambition and leadership to make it everything it could be. I can see the potential but I'm frustrated by slow progress and lack of engagement."
+    },
+    {
+      "affiliation": "East Vision",
+      "age": null,
+      "before_politics": null,
+      "election": "Auckland",
+      "electorate": "Howick",
+      "image": null,
+      "lives_in": null,
+      "name": "Tofik Mamedov",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_07610#Tofik Mamedov",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Howick",
+  "id": "WARD_07610",
+  "region": "Auckland",
+  "type": "Council"
+}

@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": "Christchurch",
+      "electorate": "Heathcote",
+      "image": null,
+      "lives_in": null,
+      "name": "Darrell Latham",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_06015#Darrell Latham",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": "For Strong Communities and a Healthy Environment",
+      "age": "47",
+      "before_politics": "High School Teacher",
+      "election": "Christchurch",
+      "electorate": "Heathcote",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/349-553-Q19-D3C89A38-5481-4B60-A646-B255F875E990.jpg?itok=H7QuzSC0",
+      "lives_in": "Heathcote Valley",
+      "name": "Sara Templeton",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/WARD_06015#Sara Templeton",
+      "why_elect": "As an experienced councillor I've been active, open and accessible in the community. I've been effective around the Council table and transparent in my decision making. I have the skills needed to represent the views of my community and make decisions in the best interests of current and future generations.",
+      "why_stand": "I am standing as it's a crucial time in the regeneration of Christchurch, with a once in a lifetime opportunity to rebuild a 21st century, sustainable city. We need more focus on our changing environment and adaptive planning for our low lying city, putting people at the heart of decisions."
+    }
+  ],
+  "electorate": "Heathcote",
+  "id": "WARD_06015",
+  "region": "Christchurch",
+  "type": "Council"
+}

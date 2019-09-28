@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Independent",
+      "age": null,
+      "before_politics": null,
+      "election": " Gore",
+      "electorate": null,
+      "image": null,
+      "lives_in": null,
+      "name": "Tracy Hicks",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/TA_074#Tracy Hicks",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": null,
+  "id": "TA_074",
+  "region": " Gore",
+  "type": "Mayor"
+}

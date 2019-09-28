@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": "Better Value For Ratepayers",
+      "age": null,
+      "before_politics": null,
+      "election": "Rangit\u012bkei",
+      "electorate": "Northern",
+      "image": null,
+      "lives_in": null,
+      "name": "Owen Bonnor",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03801#Owen Bonnor",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Rangit\u012bkei",
+      "electorate": "Northern",
+      "image": null,
+      "lives_in": null,
+      "name": "Gill Duncan",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03801#Gill Duncan",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Rangit\u012bkei",
+      "electorate": "Northern",
+      "image": null,
+      "lives_in": null,
+      "name": "Angus Gordon",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03801#Angus Gordon",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Rangit\u012bkei",
+      "electorate": "Northern",
+      "image": null,
+      "lives_in": null,
+      "name": "Tracey Hiroa",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/WARD_03801#Tracey Hiroa",
+      "why_elect": null,
+      "why_stand": null
+    }
+  ],
+  "electorate": "Northern",
+  "id": "WARD_03801",
+  "region": "Rangit\u012bkei",
+  "type": "Council"
+}

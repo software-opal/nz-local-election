@@ -1,0 +1,1054 @@
+{
+  "grouped": {
+    "City Councillor": {
+      "Ashburton District Council": {
+        "Ashburton": "WARD_06303.json",
+        "Eastern": "WARD_06302.json",
+        "Western": "WARD_06301.json"
+      },
+      "Auckland Council": {
+        "Albany": "WARD_07602.json",
+        "Albert-Eden-Puket\u0101papa": "WARD_07607.json",
+        "Franklin": "WARD_07613.json",
+        "Howick": "WARD_07610.json",
+        "Manukau": "WARD_07611.json",
+        "Manurewa-Papakura": "WARD_07612.json",
+        "Maungakiekie-T\u0101maki": "WARD_07609.json",
+        "North Shore": "WARD_07603.json",
+        "Rodney": "WARD_07601.json",
+        "Waitemat\u0101 and Gulf": "WARD_07605.json",
+        "Wait\u0101kere": "WARD_07604.json",
+        "Whau": "WARD_07606.json",
+        "\u014cr\u0101kei": "WARD_07608.json"
+      },
+      "Buller District Council": {
+        "Inangahua": "WARD_05502.json",
+        "Seddon": "WARD_05501.json",
+        "Westport": "WARD_05503.json"
+      },
+      "Central Hawke's Bay District Council": {
+        "Aramoana-Ruahine": "WARD_03201.json",
+        "Ruataniwha": "WARD_03202.json"
+      },
+      "Central Otago District Council": {
+        "Cromwell": "WARD_06901.json",
+        "Maniototo": "WARD_06903.json",
+        "Teviot Valley": "WARD_06904.json",
+        "Vincent": "WARD_06902.json"
+      },
+      "Christchurch City Council": {
+        "Banks Peninsula": "WARD_06016.json",
+        "Burwood": "WARD_06006.json",
+        "Cashmere": "WARD_06013.json",
+        "Central": "WARD_06012.json",
+        "Coastal": "WARD_06007.json",
+        "Fendalton": "WARD_06004.json",
+        "Halswell": "WARD_06009.json",
+        "Harewood": "WARD_06001.json",
+        "Heathcote": "WARD_06015.json",
+        "Hornby": "WARD_06008.json",
+        "Innes": "WARD_06005.json",
+        "Linwood": "WARD_06014.json",
+        "Papanui": "WARD_06003.json",
+        "Riccarton": "WARD_06010.json",
+        "Spreydon": "WARD_06011.json",
+        "Waimairi": "WARD_06002.json"
+      },
+      "Clutha District Council": {
+        "Balclutha": "WARD_07204.json",
+        "Bruce": "WARD_07206.json",
+        "Catlins": "WARD_07205.json",
+        "Clinton": "WARD_07202.json",
+        "Clutha Valley": "WARD_07208.json",
+        "Kaitangata-Matau": "WARD_07207.json",
+        "Lawrence-Tuapeka": "WARD_07203.json",
+        "West Otago": "WARD_07201.json"
+      },
+      "Far North District Council": {
+        "Bay of Islands-Whangaroa": "WARD_00102.json",
+        "Kaikohe-Hokianga": "WARD_00103.json",
+        "Te Hiku": "WARD_00101.json"
+      },
+      "Gisborne District Council": {
+        "Gisborne": "WARD_02805.json",
+        "Matakaoa-Waiapu": "WARD_02801.json",
+        "Taruheru-Patutahi": "WARD_02804.json",
+        "Tawhiti-Uawa": "WARD_02803.json",
+        "Waipaoa": "WARD_02802.json"
+      },
+      "Gore District Council": {
+        "Gore": "WARD_07403.json",
+        "Kaiwera-Waimumu": "WARD_07402.json",
+        "Mataura": "WARD_07404.json",
+        "Waikaka": "WARD_07401.json"
+      },
+      "Grey District Council": {
+        "Central": "WARD_05602.json",
+        "Eastern": "WARD_05604.json",
+        "Northern": "WARD_05601.json",
+        "Southern": "WARD_05603.json"
+      },
+      "Hamilton City Council": {
+        "East": "WARD_01602.json",
+        "West": "WARD_01601.json"
+      },
+      "Hastings District Council": {
+        "Flaxmere": "WARD_03004.json",
+        "Hastings-Havelock North": "WARD_03003.json",
+        "Heretaunga": "WARD_03002.json",
+        "Kahuranaki": "WARD_03005.json",
+        "Mohaka": "WARD_03001.json"
+      },
+      "Hauraki District Council": {
+        "Paeroa": "WARD_01202.json",
+        "Plains": "WARD_01201.json",
+        "Waihi": "WARD_01203.json"
+      },
+      "Horowhenua District Council": {
+        "Kere Kere": "WARD_04201.json",
+        "Levin": "WARD_04203.json",
+        "Miranui": "WARD_04202.json",
+        "Waiopehu": "WARD_04204.json"
+      },
+      "Hurunui District Council": {
+        "East": "WARD_05802.json",
+        "South": "WARD_05803.json",
+        "West": "WARD_05801.json"
+      },
+      "Kaipara District Council": {
+        "Dargaville": "WARD_00301.json",
+        "Mangawhai-Kaiwaka": "WARD_00304.json",
+        "Otamatea": "WARD_00303.json",
+        "West Coast-Central": "WARD_00302.json"
+      },
+      "K\u0101piti Coast District Council": {
+        "Paek\u0101k\u0101riki-Raumati": "WARD_04304.json",
+        "Paraparaumu": "WARD_04302.json",
+        "Waikanae": "WARD_04303.json",
+        "\u014ctaki": "WARD_04301.json"
+      },
+      "Lower Hutt City Council": {
+        "Central": "WARD_04604.json",
+        "Eastern": "WARD_04605.json",
+        "Harbour": "WARD_04602.json",
+        "Northern": "WARD_04603.json",
+        "Wainuiomata": "WARD_04606.json",
+        "Western": "WARD_04601.json"
+      },
+      "Mackenzie District Council": {
+        "Opuha": "WARD_06502.json",
+        "Pukaki": "WARD_06501.json"
+      },
+      "Manawat\u016b District Council": {
+        "Feilding": "WARD_03902.json",
+        "Rural": "WARD_03901.json"
+      },
+      "Marlborough District Council": {
+        "Blenheim": "WARD_05303.json",
+        "Marlborough Sounds": "WARD_05301.json",
+        "Wairau-Awatere": "WARD_05302.json"
+      },
+      "Matamata-Piako District Council": {
+        "Matamata": "WARD_01503.json",
+        "Morrinsville": "WARD_01501.json",
+        "Te Aroha": "WARD_01502.json"
+      },
+      "Napier City Council": {
+        "Ahuriri": "WARD_03101.json",
+        "Nelson Park": "WARD_03103.json",
+        "Onekawa-Tamatea": "WARD_03102.json",
+        "Taradale": "WARD_03104.json"
+      },
+      "New Plymouth District Council": {
+        "New Plymouth City": "WARD_03301.json",
+        "North": "WARD_03302.json",
+        "South-West": "WARD_03303.json"
+      },
+      "Otorohanga District Council": {
+        "Kawhia-Tihiroa": "WARD_01801.json",
+        "Kiokio-Korakonui": "WARD_01803.json",
+        "Otorohanga": "WARD_01804.json",
+        "Waipa": "WARD_01802.json",
+        "Wharepuhunga": "WARD_01805.json"
+      },
+      "Porirua City Council": {
+        "Eastern/P\u0101utahanui ki te uunga mai o te ra": "WARD_04403.json",
+        "Northern/Pukerua ki te Raki": "WARD_04401.json",
+        "Western/Titahi Rangituhi Porirua ki te uru": "WARD_04402.json"
+      },
+      "Queenstown Lakes District Council": {
+        "Arrowtown": "WARD_07003.json",
+        "Queenstown-Wakatipu": "WARD_07001.json",
+        "Wanaka": "WARD_07002.json"
+      },
+      "Rangit\u012bkei District Council": {
+        "Central": "WARD_03802.json",
+        "Northern": "WARD_03801.json",
+        "Southern": "WARD_03803.json"
+      },
+      "Ruapehu District Council": {
+        "National Park": "WARD_03603.json",
+        "Ohura": "WARD_03601.json",
+        "Taumarunui": "WARD_03602.json",
+        "Waimarino-Waiouru": "WARD_03604.json"
+      },
+      "Selwyn District Council": {
+        "Ellesmere": "WARD_06203.json",
+        "Malvern": "WARD_06201.json",
+        "Selwyn Central": "WARD_06202.json",
+        "Springs": "WARD_06204.json"
+      },
+      "South Taranaki District Council": {
+        "Eltham-Kaponga": "WARD_03502.json",
+        "P\u0101tea": "WARD_03504.json",
+        "Taranaki Coastal": "WARD_03501.json",
+        "Te H\u0101wera": "WARD_03503.json"
+      },
+      "South Waikato District Council": {
+        "P\u016btaruru": "WARD_01902.json",
+        "Tokoroa": "WARD_01903.json",
+        "T\u012brau": "WARD_01901.json"
+      },
+      "South Wairarapa District Council": {
+        "Featherston": "WARD_05002.json",
+        "Greytown": "WARD_05001.json",
+        "Martinborough": "WARD_05003.json"
+      },
+      "Southland District Council": {
+        "Mararoa Waimea": "WARD_07301.json",
+        "Oreti": "WARD_07303.json",
+        "Stewart Island/Rakiura": "WARD_07305.json",
+        "Waiau Aparima": "WARD_07302.json",
+        "Waihopai Toetoe": "WARD_07304.json"
+      },
+      "Stratford District Council": {
+        "Stratford Rural": "WARD_03401.json",
+        "Stratford Urban": "WARD_03402.json"
+      },
+      "Tararua District Council": {
+        "North Tararua": "WARD_04101.json",
+        "South Tararua": "WARD_04102.json"
+      },
+      "Tasman District Council": {
+        "Golden Bay": "WARD_05101.json",
+        "Lakes-Murchison": "WARD_05102.json",
+        "Motueka": "WARD_05104.json",
+        "Moutere-Waimea": "WARD_05103.json",
+        "Richmond": "WARD_05105.json"
+      },
+      "Taup\u014d District Council": {
+        "Mangakino-Pouakani": "WARD_02101.json",
+        "Taup\u014d": "WARD_02102.json",
+        "Taup\u014d East Rural": "WARD_02104.json",
+        "Turangi-Tongariro": "WARD_02103.json"
+      },
+      "Tauranga City Council": {
+        "Mount Maunganui-Papamoa": "WARD_02301.json",
+        "Otumoetai-Pyes Pa": "WARD_02302.json",
+        "Te Papa-Welcome Bay": "WARD_02303.json"
+      },
+      "Thames-Coromandel District Council": {
+        "Coromandel-Colville": "WARD_01101.json",
+        "Mercury Bay": "WARD_01102.json",
+        "South Eastern": "WARD_01104.json",
+        "Thames": "WARD_01103.json"
+      },
+      "Timaru District Council": {
+        "Geraldine": "WARD_06401.json",
+        "Pleasant Point-Temuka": "WARD_06402.json",
+        "Timaru": "WARD_06403.json"
+      },
+      "Waikato District Council": {
+        "Awaroa ki Tuakau": "WARD_01301.json",
+        "Eureka": "WARD_01305.json",
+        "Hukanui-Waerenga": "WARD_01304.json",
+        "Huntly": "WARD_01306.json",
+        "Newcastle": "WARD_01308.json",
+        "Ngaruawahia": "WARD_01307.json",
+        "Onewhero-Te Akau": "WARD_01302.json",
+        "Raglan": "WARD_01309.json",
+        "Tamahere": "WARD_01310.json",
+        "Whangamarino": "WARD_01303.json"
+      },
+      "Waimakariri District Council": {
+        "Kaiapoi-Woodend": "WARD_05903.json",
+        "Oxford-Ohoka": "WARD_05901.json",
+        "Rangiora-Ashley": "WARD_05902.json"
+      },
+      "Waimate District Council": {
+        "Hakataramea-Waihaorunga": "WARD_06601.json",
+        "Lower Waihao": "WARD_06603.json",
+        "Pareora-Otaio-Makikihi": "WARD_06602.json",
+        "Waimate": "WARD_06604.json"
+      },
+      "Waipa District Council": {
+        "Cambridge": "WARD_01702.json",
+        "Kakepuku": "WARD_01705.json",
+        "Maungatautari": "WARD_01703.json",
+        "Pirongia": "WARD_01701.json",
+        "Te Awamutu": "WARD_01704.json"
+      },
+      "Wairoa District Council": {
+        "Wairoa General": "WARD_02901.json"
+      },
+      "Waitaki District Council": {
+        "Ahuriri": "WARD_06801.json",
+        "Corriedale": "WARD_06804.json",
+        "Oamaru": "WARD_06802.json",
+        "Waihemo": "WARD_06803.json"
+      },
+      "Waitomo District Council": {
+        "Te Kuiti": "WARD_02002.json",
+        "Waitomo Rural": "WARD_02001.json"
+      },
+      "Wellington City Council": {
+        "Motukairangi/Eastern": "WARD_04704.json",
+        "Paekawakawa/Southern": "WARD_04705.json",
+        "Pukeh\u012bnau/Lambton": "WARD_04703.json",
+        "Takap\u016b/Northern": "WARD_04701.json",
+        "Wharangi/Onslow-Western": "WARD_04702.json"
+      },
+      "Western Bay of Plenty District Council": {
+        "Kaimai": "WARD_02203.json",
+        "Katikati-Waihi Beach": "WARD_02201.json",
+        "Maketu-Te Puke": "WARD_02202.json"
+      },
+      "Westland District Council": {
+        "Hokitika": "WARD_05702.json",
+        "Northern": "WARD_05701.json",
+        "Southern": "WARD_05703.json"
+      },
+      "Whakat\u0101ne District Council": {
+        "Galatea-Murupara": "WARD_02504.json",
+        "Rangit\u0101iki": "WARD_02501.json",
+        "T\u0101neatua-Waimana": "WARD_02503.json",
+        "Whakat\u0101ne-\u014chope": "WARD_02502.json"
+      },
+      "Whangarei District Council": {
+        "Bream Bay": "WARD_00206.json",
+        "Denby": "WARD_00204.json",
+        "Hikurangi-Coastal": "WARD_00202.json",
+        "Mangakahia-Maungatapere": "WARD_00201.json",
+        "Okara": "WARD_00205.json",
+        "Whangarei Heads": "WARD_00203.json"
+      },
+      "\u014cp\u014dtiki District Council": {
+        "Coast": "WARD_02701.json",
+        "Waioeka-Waiotahi": "WARD_02702.json",
+        "\u014cp\u014dtiki": "WARD_02703.json"
+      }
+    },
+    "DHB": {
+      "Auckland DHB": {
+        "null": "DHB_03.json"
+      },
+      "Bay of Plenty DHB": {
+        "null": "DHB_07.json"
+      },
+      "Canterbury DHB": {
+        "null": "DHB_18.json"
+      },
+      "Capital and Coast DHB": {
+        "null": "DHB_14.json"
+      },
+      "Counties Manukau DHB": {
+        "null": "DHB_04.json"
+      },
+      "Hawke's Bay DHB": {
+        "null": "DHB_10.json"
+      },
+      "Hutt Valley DHB": {
+        "null": "DHB_13.json"
+      },
+      "Lakes DHB": {
+        "null": "DHB_06.json"
+      },
+      "MidCentral DHB": {
+        "null": "DHB_12.json"
+      },
+      "Nelson Marlborough DHB": {
+        "null": "DHB_16.json"
+      },
+      "Northland DHB": {
+        "null": "DHB_01.json"
+      },
+      "South Canterbury DHB": {
+        "null": "DHB_19.json"
+      },
+      "Tair\u0101whiti DHB": {
+        "null": "DHB_08.json"
+      },
+      "Taranaki DHB": {
+        "null": "DHB_09.json"
+      },
+      "Wairarapa DHB": {
+        "null": "DHB_15.json"
+      },
+      "Waitemat\u0101 DHB": {
+        "null": "DHB_02.json"
+      },
+      "West Coast DHB": {
+        "null": "DHB_17.json"
+      },
+      "Whanganui DHB": {
+        "null": "DHB_11.json"
+      }
+    },
+    "Mayor": {
+      "Mayor of Ashburton District": {
+        "null": "TA_063.json"
+      },
+      "Mayor of Auckland": {
+        "null": "TA_076.json"
+      },
+      "Mayor of Buller District": {
+        "null": "TA_055.json"
+      },
+      "Mayor of Carterton District": {
+        "null": "TA_049.json"
+      },
+      "Mayor of Central Hawke's Bay District": {
+        "null": "TA_032.json"
+      },
+      "Mayor of Central Otago District": {
+        "null": "TA_069.json"
+      },
+      "Mayor of Chatham Islands Territory": {
+        "null": "TA_067.json"
+      },
+      "Mayor of Christchurch": {
+        "null": "TA_060.json"
+      },
+      "Mayor of Clutha District": {
+        "null": "TA_072.json"
+      },
+      "Mayor of Dunedin": {
+        "null": "TA_071.json"
+      },
+      "Mayor of Far North District": {
+        "null": "TA_001.json"
+      },
+      "Mayor of Gisborne District": {
+        "null": "TA_028.json"
+      },
+      "Mayor of Gore District": {
+        "null": "TA_074.json"
+      },
+      "Mayor of Grey District": {
+        "null": "TA_056.json"
+      },
+      "Mayor of Hamilton": {
+        "null": "TA_016.json"
+      },
+      "Mayor of Hastings District": {
+        "null": "TA_030.json"
+      },
+      "Mayor of Hauraki District": {
+        "null": "TA_012.json"
+      },
+      "Mayor of Horowhenua District": {
+        "null": "TA_042.json"
+      },
+      "Mayor of Hurunui District": {
+        "null": "TA_058.json"
+      },
+      "Mayor of Invercargill": {
+        "null": "TA_075.json"
+      },
+      "Mayor of Kaik\u014dura District": {
+        "null": "TA_054.json"
+      },
+      "Mayor of Kaipara District": {
+        "null": "TA_003.json"
+      },
+      "Mayor of Kawerau District": {
+        "null": "TA_026.json"
+      },
+      "Mayor of K\u0101piti Coast District": {
+        "null": "TA_043.json"
+      },
+      "Mayor of Lower Hutt": {
+        "null": "TA_046.json"
+      },
+      "Mayor of Mackenzie District": {
+        "null": "TA_065.json"
+      },
+      "Mayor of Manawat\u016b District": {
+        "null": "TA_039.json"
+      },
+      "Mayor of Marlborough District": {
+        "null": "TA_053.json"
+      },
+      "Mayor of Masterton District": {
+        "null": "TA_048.json"
+      },
+      "Mayor of Matamata-Piako District": {
+        "null": "TA_015.json"
+      },
+      "Mayor of Napier": {
+        "null": "TA_031.json"
+      },
+      "Mayor of Nelson": {
+        "null": "TA_052.json"
+      },
+      "Mayor of New Plymouth District": {
+        "null": "TA_033.json"
+      },
+      "Mayor of Otorohanga District": {
+        "null": "TA_018.json"
+      },
+      "Mayor of Palmerston North": {
+        "null": "TA_040.json"
+      },
+      "Mayor of Porirua": {
+        "null": "TA_044.json"
+      },
+      "Mayor of Queenstown Lakes District": {
+        "null": "TA_070.json"
+      },
+      "Mayor of Rangit\u012bkei District": {
+        "null": "TA_038.json"
+      },
+      "Mayor of Rotorua District": {
+        "null": "TA_024.json"
+      },
+      "Mayor of Ruapehu District": {
+        "null": "TA_036.json"
+      },
+      "Mayor of Selwyn District": {
+        "null": "TA_062.json"
+      },
+      "Mayor of South Taranaki District": {
+        "null": "TA_035.json"
+      },
+      "Mayor of South Waikato District": {
+        "null": "TA_019.json"
+      },
+      "Mayor of South Wairarapa District": {
+        "null": "TA_050.json"
+      },
+      "Mayor of Southland District": {
+        "null": "TA_073.json"
+      },
+      "Mayor of Stratford District": {
+        "null": "TA_034.json"
+      },
+      "Mayor of Tararua District": {
+        "null": "TA_041.json"
+      },
+      "Mayor of Tasman District": {
+        "null": "TA_051.json"
+      },
+      "Mayor of Taup\u014d District": {
+        "null": "TA_021.json"
+      },
+      "Mayor of Tauranga": {
+        "null": "TA_023.json"
+      },
+      "Mayor of Thames-Coromandel District": {
+        "null": "TA_011.json"
+      },
+      "Mayor of Timaru District": {
+        "null": "TA_064.json"
+      },
+      "Mayor of Upper Hutt": {
+        "null": "TA_045.json"
+      },
+      "Mayor of Waikato District": {
+        "null": "TA_013.json"
+      },
+      "Mayor of Waimakariri District": {
+        "null": "TA_059.json"
+      },
+      "Mayor of Waimate District": {
+        "null": "TA_066.json"
+      },
+      "Mayor of Waipa District": {
+        "null": "TA_017.json"
+      },
+      "Mayor of Wairoa District": {
+        "null": "TA_029.json"
+      },
+      "Mayor of Waitaki District": {
+        "null": "TA_068.json"
+      },
+      "Mayor of Waitomo District": {
+        "null": "TA_020.json"
+      },
+      "Mayor of Wellington": {
+        "null": "TA_047.json"
+      },
+      "Mayor of Western Bay of Plenty District": {
+        "null": "TA_022.json"
+      },
+      "Mayor of Westland District": {
+        "null": "TA_057.json"
+      },
+      "Mayor of Whakat\u0101ne District": {
+        "null": "TA_025.json"
+      },
+      "Mayor of Whanganui District": {
+        "null": "TA_037.json"
+      },
+      "Mayor of Whangarei District": {
+        "null": "TA_002.json"
+      },
+      "Mayor of \u014cp\u014dtiki District": {
+        "null": "TA_027.json"
+      }
+    },
+    "Regional Councillor": {
+      "Bay of Plenty Regional Council": {
+        "Eastern Bay of Plenty": "CON_0404.json",
+        "Rotorua": "CON_0403.json",
+        "Tauranga": "CON_0402.json",
+        "Western Bay of Plenty": "CON_0401.json"
+      },
+      "Canterbury Regional Council": {
+        "Christchurch Central/\u014choko": "CON_1306.json",
+        "Christchurch North East/\u014crei": "CON_1305.json",
+        "Christchurch South/\u014cwhanga": "CON_1307.json",
+        "Christchurch West/\u014cpuna": "CON_1302.json",
+        "Mid-Canterbury/\u014cp\u0101kihi": "CON_1303.json",
+        "North Canterbury/\u014cpukepuke": "CON_1301.json",
+        "South Canterbury/\u014ctuhituhi": "CON_1304.json"
+      },
+      "Hawke's Bay Regional Council": {
+        "Central Hawke's Bay": "CON_0604.json",
+        "Hastings": "CON_0605.json",
+        "Napier": "CON_0602.json",
+        "Ngaruroro": "CON_0603.json",
+        "Wairoa": "CON_0601.json"
+      },
+      "Manawat\u016b-Whanganui Regional Council": {
+        "Horowhenua": "CON_0805.json",
+        "Manawat\u016b-Rangit\u012bkei": "CON_0803.json",
+        "Palmerston North": "CON_0804.json",
+        "Ruapehu": "CON_0801.json",
+        "Tararua": "CON_0806.json",
+        "Whanganui": "CON_0802.json"
+      },
+      "Northland Regional Council": {
+        "Coastal Central": "CON_0106.json",
+        "Coastal North": "CON_0104.json",
+        "Coastal South": "CON_0107.json",
+        "Hokianga-Kaikohe": "CON_0102.json",
+        "Kaipara": "CON_0103.json",
+        "Te Hiku": "CON_0101.json",
+        "Whangarei Urban": "CON_0105.json"
+      },
+      "Otago Regional Council": {
+        "Dunedin": "CON_1404.json",
+        "Dunstan": "CON_1401.json",
+        "Moeraki": "CON_1402.json",
+        "Molyneux": "CON_1403.json"
+      },
+      "Southland Regional Council": {
+        "Eastern-Dome": "CON_1502.json",
+        "Fiordland": "CON_1501.json",
+        "Hokonui": "CON_1504.json",
+        "Invercargill-Rakiura": "CON_1506.json",
+        "Southern": "CON_1505.json",
+        "Western": "CON_1503.json"
+      },
+      "Taranaki Regional Council": {
+        "New Plymouth": "CON_0702.json",
+        "North Taranaki": "CON_0701.json",
+        "South Taranaki": "CON_0704.json",
+        "Stratford": "CON_0703.json"
+      },
+      "Waikato Regional Council": {
+        "Hamilton": "CON_0305.json",
+        "Taup\u014d-Rotorua": "CON_0304.json",
+        "Thames-Coromandel": "CON_0301.json",
+        "Waihou": "CON_0303.json",
+        "Waikato": "CON_0302.json",
+        "Waip\u0101-King Country": "CON_0306.json"
+      },
+      "Wellington Regional Council": {
+        "K\u0101piti Coast": "CON_0901.json",
+        "Porirua-Tawa": "CON_0902.json",
+        "P\u014dneke/Wellington": "CON_0905.json",
+        "Te Awa Kairangi ki Tai/Lower Hutt": "CON_0904.json",
+        "Te Awa Kairangi ki Uta/Upper Hutt": "CON_0903.json",
+        "Wairarapa": "CON_0906.json"
+      },
+      "West Coast Regional Council": {
+        "Buller": "CON_1201.json",
+        "Grey": "CON_1202.json",
+        "Westland": "CON_1203.json"
+      }
+    }
+  },
+  "named": {
+    "CON_0101": "CON_0101.json",
+    "CON_0102": "CON_0102.json",
+    "CON_0103": "CON_0103.json",
+    "CON_0104": "CON_0104.json",
+    "CON_0105": "CON_0105.json",
+    "CON_0106": "CON_0106.json",
+    "CON_0107": "CON_0107.json",
+    "CON_0301": "CON_0301.json",
+    "CON_0302": "CON_0302.json",
+    "CON_0303": "CON_0303.json",
+    "CON_0304": "CON_0304.json",
+    "CON_0305": "CON_0305.json",
+    "CON_0306": "CON_0306.json",
+    "CON_0401": "CON_0401.json",
+    "CON_0402": "CON_0402.json",
+    "CON_0403": "CON_0403.json",
+    "CON_0404": "CON_0404.json",
+    "CON_0601": "CON_0601.json",
+    "CON_0602": "CON_0602.json",
+    "CON_0603": "CON_0603.json",
+    "CON_0604": "CON_0604.json",
+    "CON_0605": "CON_0605.json",
+    "CON_0701": "CON_0701.json",
+    "CON_0702": "CON_0702.json",
+    "CON_0703": "CON_0703.json",
+    "CON_0704": "CON_0704.json",
+    "CON_0801": "CON_0801.json",
+    "CON_0802": "CON_0802.json",
+    "CON_0803": "CON_0803.json",
+    "CON_0804": "CON_0804.json",
+    "CON_0805": "CON_0805.json",
+    "CON_0806": "CON_0806.json",
+    "CON_0901": "CON_0901.json",
+    "CON_0902": "CON_0902.json",
+    "CON_0903": "CON_0903.json",
+    "CON_0904": "CON_0904.json",
+    "CON_0905": "CON_0905.json",
+    "CON_0906": "CON_0906.json",
+    "CON_1201": "CON_1201.json",
+    "CON_1202": "CON_1202.json",
+    "CON_1203": "CON_1203.json",
+    "CON_1301": "CON_1301.json",
+    "CON_1302": "CON_1302.json",
+    "CON_1303": "CON_1303.json",
+    "CON_1304": "CON_1304.json",
+    "CON_1305": "CON_1305.json",
+    "CON_1306": "CON_1306.json",
+    "CON_1307": "CON_1307.json",
+    "CON_1401": "CON_1401.json",
+    "CON_1402": "CON_1402.json",
+    "CON_1403": "CON_1403.json",
+    "CON_1404": "CON_1404.json",
+    "CON_1501": "CON_1501.json",
+    "CON_1502": "CON_1502.json",
+    "CON_1503": "CON_1503.json",
+    "CON_1504": "CON_1504.json",
+    "CON_1505": "CON_1505.json",
+    "CON_1506": "CON_1506.json",
+    "DHB_01": "DHB_01.json",
+    "DHB_02": "DHB_02.json",
+    "DHB_03": "DHB_03.json",
+    "DHB_04": "DHB_04.json",
+    "DHB_06": "DHB_06.json",
+    "DHB_07": "DHB_07.json",
+    "DHB_08": "DHB_08.json",
+    "DHB_09": "DHB_09.json",
+    "DHB_10": "DHB_10.json",
+    "DHB_11": "DHB_11.json",
+    "DHB_12": "DHB_12.json",
+    "DHB_13": "DHB_13.json",
+    "DHB_14": "DHB_14.json",
+    "DHB_15": "DHB_15.json",
+    "DHB_16": "DHB_16.json",
+    "DHB_17": "DHB_17.json",
+    "DHB_18": "DHB_18.json",
+    "DHB_19": "DHB_19.json",
+    "TA_001": "TA_001.json",
+    "TA_002": "TA_002.json",
+    "TA_003": "TA_003.json",
+    "TA_011": "TA_011.json",
+    "TA_012": "TA_012.json",
+    "TA_013": "TA_013.json",
+    "TA_015": "TA_015.json",
+    "TA_016": "TA_016.json",
+    "TA_017": "TA_017.json",
+    "TA_018": "TA_018.json",
+    "TA_019": "TA_019.json",
+    "TA_020": "TA_020.json",
+    "TA_021": "TA_021.json",
+    "TA_022": "TA_022.json",
+    "TA_023": "TA_023.json",
+    "TA_024": "TA_024.json",
+    "TA_025": "TA_025.json",
+    "TA_026": "TA_026.json",
+    "TA_027": "TA_027.json",
+    "TA_028": "TA_028.json",
+    "TA_029": "TA_029.json",
+    "TA_030": "TA_030.json",
+    "TA_031": "TA_031.json",
+    "TA_032": "TA_032.json",
+    "TA_033": "TA_033.json",
+    "TA_034": "TA_034.json",
+    "TA_035": "TA_035.json",
+    "TA_036": "TA_036.json",
+    "TA_037": "TA_037.json",
+    "TA_038": "TA_038.json",
+    "TA_039": "TA_039.json",
+    "TA_040": "TA_040.json",
+    "TA_041": "TA_041.json",
+    "TA_042": "TA_042.json",
+    "TA_043": "TA_043.json",
+    "TA_044": "TA_044.json",
+    "TA_045": "TA_045.json",
+    "TA_046": "TA_046.json",
+    "TA_047": "TA_047.json",
+    "TA_048": "TA_048.json",
+    "TA_049": "TA_049.json",
+    "TA_050": "TA_050.json",
+    "TA_051": "TA_051.json",
+    "TA_052": "TA_052.json",
+    "TA_053": "TA_053.json",
+    "TA_054": "TA_054.json",
+    "TA_055": "TA_055.json",
+    "TA_056": "TA_056.json",
+    "TA_057": "TA_057.json",
+    "TA_058": "TA_058.json",
+    "TA_059": "TA_059.json",
+    "TA_060": "TA_060.json",
+    "TA_062": "TA_062.json",
+    "TA_063": "TA_063.json",
+    "TA_064": "TA_064.json",
+    "TA_065": "TA_065.json",
+    "TA_066": "TA_066.json",
+    "TA_067": "TA_067.json",
+    "TA_068": "TA_068.json",
+    "TA_069": "TA_069.json",
+    "TA_070": "TA_070.json",
+    "TA_071": "TA_071.json",
+    "TA_072": "TA_072.json",
+    "TA_073": "TA_073.json",
+    "TA_074": "TA_074.json",
+    "TA_075": "TA_075.json",
+    "TA_076": "TA_076.json",
+    "WARD_00101": "WARD_00101.json",
+    "WARD_00102": "WARD_00102.json",
+    "WARD_00103": "WARD_00103.json",
+    "WARD_00201": "WARD_00201.json",
+    "WARD_00202": "WARD_00202.json",
+    "WARD_00203": "WARD_00203.json",
+    "WARD_00204": "WARD_00204.json",
+    "WARD_00205": "WARD_00205.json",
+    "WARD_00206": "WARD_00206.json",
+    "WARD_00301": "WARD_00301.json",
+    "WARD_00302": "WARD_00302.json",
+    "WARD_00303": "WARD_00303.json",
+    "WARD_00304": "WARD_00304.json",
+    "WARD_01101": "WARD_01101.json",
+    "WARD_01102": "WARD_01102.json",
+    "WARD_01103": "WARD_01103.json",
+    "WARD_01104": "WARD_01104.json",
+    "WARD_01201": "WARD_01201.json",
+    "WARD_01202": "WARD_01202.json",
+    "WARD_01203": "WARD_01203.json",
+    "WARD_01301": "WARD_01301.json",
+    "WARD_01302": "WARD_01302.json",
+    "WARD_01303": "WARD_01303.json",
+    "WARD_01304": "WARD_01304.json",
+    "WARD_01305": "WARD_01305.json",
+    "WARD_01306": "WARD_01306.json",
+    "WARD_01307": "WARD_01307.json",
+    "WARD_01308": "WARD_01308.json",
+    "WARD_01309": "WARD_01309.json",
+    "WARD_01310": "WARD_01310.json",
+    "WARD_01501": "WARD_01501.json",
+    "WARD_01502": "WARD_01502.json",
+    "WARD_01503": "WARD_01503.json",
+    "WARD_01601": "WARD_01601.json",
+    "WARD_01602": "WARD_01602.json",
+    "WARD_01701": "WARD_01701.json",
+    "WARD_01702": "WARD_01702.json",
+    "WARD_01703": "WARD_01703.json",
+    "WARD_01704": "WARD_01704.json",
+    "WARD_01705": "WARD_01705.json",
+    "WARD_01801": "WARD_01801.json",
+    "WARD_01802": "WARD_01802.json",
+    "WARD_01803": "WARD_01803.json",
+    "WARD_01804": "WARD_01804.json",
+    "WARD_01805": "WARD_01805.json",
+    "WARD_01901": "WARD_01901.json",
+    "WARD_01902": "WARD_01902.json",
+    "WARD_01903": "WARD_01903.json",
+    "WARD_02001": "WARD_02001.json",
+    "WARD_02002": "WARD_02002.json",
+    "WARD_02101": "WARD_02101.json",
+    "WARD_02102": "WARD_02102.json",
+    "WARD_02103": "WARD_02103.json",
+    "WARD_02104": "WARD_02104.json",
+    "WARD_02201": "WARD_02201.json",
+    "WARD_02202": "WARD_02202.json",
+    "WARD_02203": "WARD_02203.json",
+    "WARD_02301": "WARD_02301.json",
+    "WARD_02302": "WARD_02302.json",
+    "WARD_02303": "WARD_02303.json",
+    "WARD_02501": "WARD_02501.json",
+    "WARD_02502": "WARD_02502.json",
+    "WARD_02503": "WARD_02503.json",
+    "WARD_02504": "WARD_02504.json",
+    "WARD_02701": "WARD_02701.json",
+    "WARD_02702": "WARD_02702.json",
+    "WARD_02703": "WARD_02703.json",
+    "WARD_02801": "WARD_02801.json",
+    "WARD_02802": "WARD_02802.json",
+    "WARD_02803": "WARD_02803.json",
+    "WARD_02804": "WARD_02804.json",
+    "WARD_02805": "WARD_02805.json",
+    "WARD_02901": "WARD_02901.json",
+    "WARD_03001": "WARD_03001.json",
+    "WARD_03002": "WARD_03002.json",
+    "WARD_03003": "WARD_03003.json",
+    "WARD_03004": "WARD_03004.json",
+    "WARD_03005": "WARD_03005.json",
+    "WARD_03101": "WARD_03101.json",
+    "WARD_03102": "WARD_03102.json",
+    "WARD_03103": "WARD_03103.json",
+    "WARD_03104": "WARD_03104.json",
+    "WARD_03201": "WARD_03201.json",
+    "WARD_03202": "WARD_03202.json",
+    "WARD_03301": "WARD_03301.json",
+    "WARD_03302": "WARD_03302.json",
+    "WARD_03303": "WARD_03303.json",
+    "WARD_03401": "WARD_03401.json",
+    "WARD_03402": "WARD_03402.json",
+    "WARD_03501": "WARD_03501.json",
+    "WARD_03502": "WARD_03502.json",
+    "WARD_03503": "WARD_03503.json",
+    "WARD_03504": "WARD_03504.json",
+    "WARD_03601": "WARD_03601.json",
+    "WARD_03602": "WARD_03602.json",
+    "WARD_03603": "WARD_03603.json",
+    "WARD_03604": "WARD_03604.json",
+    "WARD_03801": "WARD_03801.json",
+    "WARD_03802": "WARD_03802.json",
+    "WARD_03803": "WARD_03803.json",
+    "WARD_03901": "WARD_03901.json",
+    "WARD_03902": "WARD_03902.json",
+    "WARD_04101": "WARD_04101.json",
+    "WARD_04102": "WARD_04102.json",
+    "WARD_04201": "WARD_04201.json",
+    "WARD_04202": "WARD_04202.json",
+    "WARD_04203": "WARD_04203.json",
+    "WARD_04204": "WARD_04204.json",
+    "WARD_04301": "WARD_04301.json",
+    "WARD_04302": "WARD_04302.json",
+    "WARD_04303": "WARD_04303.json",
+    "WARD_04304": "WARD_04304.json",
+    "WARD_04401": "WARD_04401.json",
+    "WARD_04402": "WARD_04402.json",
+    "WARD_04403": "WARD_04403.json",
+    "WARD_04601": "WARD_04601.json",
+    "WARD_04602": "WARD_04602.json",
+    "WARD_04603": "WARD_04603.json",
+    "WARD_04604": "WARD_04604.json",
+    "WARD_04605": "WARD_04605.json",
+    "WARD_04606": "WARD_04606.json",
+    "WARD_04701": "WARD_04701.json",
+    "WARD_04702": "WARD_04702.json",
+    "WARD_04703": "WARD_04703.json",
+    "WARD_04704": "WARD_04704.json",
+    "WARD_04705": "WARD_04705.json",
+    "WARD_05001": "WARD_05001.json",
+    "WARD_05002": "WARD_05002.json",
+    "WARD_05003": "WARD_05003.json",
+    "WARD_05101": "WARD_05101.json",
+    "WARD_05102": "WARD_05102.json",
+    "WARD_05103": "WARD_05103.json",
+    "WARD_05104": "WARD_05104.json",
+    "WARD_05105": "WARD_05105.json",
+    "WARD_05301": "WARD_05301.json",
+    "WARD_05302": "WARD_05302.json",
+    "WARD_05303": "WARD_05303.json",
+    "WARD_05501": "WARD_05501.json",
+    "WARD_05502": "WARD_05502.json",
+    "WARD_05503": "WARD_05503.json",
+    "WARD_05601": "WARD_05601.json",
+    "WARD_05602": "WARD_05602.json",
+    "WARD_05603": "WARD_05603.json",
+    "WARD_05604": "WARD_05604.json",
+    "WARD_05701": "WARD_05701.json",
+    "WARD_05702": "WARD_05702.json",
+    "WARD_05703": "WARD_05703.json",
+    "WARD_05801": "WARD_05801.json",
+    "WARD_05802": "WARD_05802.json",
+    "WARD_05803": "WARD_05803.json",
+    "WARD_05901": "WARD_05901.json",
+    "WARD_05902": "WARD_05902.json",
+    "WARD_05903": "WARD_05903.json",
+    "WARD_06001": "WARD_06001.json",
+    "WARD_06002": "WARD_06002.json",
+    "WARD_06003": "WARD_06003.json",
+    "WARD_06004": "WARD_06004.json",
+    "WARD_06005": "WARD_06005.json",
+    "WARD_06006": "WARD_06006.json",
+    "WARD_06007": "WARD_06007.json",
+    "WARD_06008": "WARD_06008.json",
+    "WARD_06009": "WARD_06009.json",
+    "WARD_06010": "WARD_06010.json",
+    "WARD_06011": "WARD_06011.json",
+    "WARD_06012": "WARD_06012.json",
+    "WARD_06013": "WARD_06013.json",
+    "WARD_06014": "WARD_06014.json",
+    "WARD_06015": "WARD_06015.json",
+    "WARD_06016": "WARD_06016.json",
+    "WARD_06201": "WARD_06201.json",
+    "WARD_06202": "WARD_06202.json",
+    "WARD_06203": "WARD_06203.json",
+    "WARD_06204": "WARD_06204.json",
+    "WARD_06301": "WARD_06301.json",
+    "WARD_06302": "WARD_06302.json",
+    "WARD_06303": "WARD_06303.json",
+    "WARD_06401": "WARD_06401.json",
+    "WARD_06402": "WARD_06402.json",
+    "WARD_06403": "WARD_06403.json",
+    "WARD_06501": "WARD_06501.json",
+    "WARD_06502": "WARD_06502.json",
+    "WARD_06601": "WARD_06601.json",
+    "WARD_06602": "WARD_06602.json",
+    "WARD_06603": "WARD_06603.json",
+    "WARD_06604": "WARD_06604.json",
+    "WARD_06801": "WARD_06801.json",
+    "WARD_06802": "WARD_06802.json",
+    "WARD_06803": "WARD_06803.json",
+    "WARD_06804": "WARD_06804.json",
+    "WARD_06901": "WARD_06901.json",
+    "WARD_06902": "WARD_06902.json",
+    "WARD_06903": "WARD_06903.json",
+    "WARD_06904": "WARD_06904.json",
+    "WARD_07001": "WARD_07001.json",
+    "WARD_07002": "WARD_07002.json",
+    "WARD_07003": "WARD_07003.json",
+    "WARD_07201": "WARD_07201.json",
+    "WARD_07202": "WARD_07202.json",
+    "WARD_07203": "WARD_07203.json",
+    "WARD_07204": "WARD_07204.json",
+    "WARD_07205": "WARD_07205.json",
+    "WARD_07206": "WARD_07206.json",
+    "WARD_07207": "WARD_07207.json",
+    "WARD_07208": "WARD_07208.json",
+    "WARD_07301": "WARD_07301.json",
+    "WARD_07302": "WARD_07302.json",
+    "WARD_07303": "WARD_07303.json",
+    "WARD_07304": "WARD_07304.json",
+    "WARD_07305": "WARD_07305.json",
+    "WARD_07401": "WARD_07401.json",
+    "WARD_07402": "WARD_07402.json",
+    "WARD_07403": "WARD_07403.json",
+    "WARD_07404": "WARD_07404.json",
+    "WARD_07601": "WARD_07601.json",
+    "WARD_07602": "WARD_07602.json",
+    "WARD_07603": "WARD_07603.json",
+    "WARD_07604": "WARD_07604.json",
+    "WARD_07605": "WARD_07605.json",
+    "WARD_07606": "WARD_07606.json",
+    "WARD_07607": "WARD_07607.json",
+    "WARD_07608": "WARD_07608.json",
+    "WARD_07609": "WARD_07609.json",
+    "WARD_07610": "WARD_07610.json",
+    "WARD_07611": "WARD_07611.json",
+    "WARD_07612": "WARD_07612.json",
+    "WARD_07613": "WARD_07613.json"
+  }
+}

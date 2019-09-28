@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "affiliation": null,
+      "age": "69",
+      "before_politics": "Businessperson",
+      "election": "Taranaki",
+      "electorate": "South Taranaki",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/30-39-Q19-Neil_full_resolution_cropped.jpg?itok=OLCYf1_a",
+      "lives_in": "Hawera",
+      "name": "Neil Walker",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0704#Neil Walker",
+      "why_elect": "I have a wide experience of all areas of Taranaki life. I have developed a number of new businesses. I am a Scientist by profession and held national and international roles. I am locally involved in Health, Education, Hospitals, Rest Homes, Disability organisations, Church, Social services, etc.",
+      "why_stand": "I am passionate about our Province. I want to balance environment and development to make it the best place to live. The aim is balance. I hold many roles in Taranaki and we need the whole community to be involved and cooperating together. Fostering the \"Taranaki way\" to do business."
+    },
+    {
+      "affiliation": null,
+      "age": "64",
+      "before_politics": "Agricultural Consultant",
+      "election": "Taranaki",
+      "electorate": "South Taranaki",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/69-88-Q19-Michael_Joyce-NZ_Passport__digital_format.jpg?itok=EZDaE3QL",
+      "lives_in": "South Taranaki",
+      "name": "Michael Joyce",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0704#Michael Joyce",
+      "why_elect": "I have strong governance experience and currently have a number of key roles on Taranaki Regional Council committees.",
+      "why_stand": "I want to work for the continuing improvement of environmental protection and enhancement of Taranaki while striving for a strong regional economy. I have the skills, passion and experience to make a real difference for the good of Taranaki and its people."
+    },
+    {
+      "affiliation": null,
+      "age": null,
+      "before_politics": null,
+      "election": "Taranaki",
+      "electorate": "South Taranaki",
+      "image": null,
+      "lives_in": null,
+      "name": "David Macleod",
+      "priorities": [],
+      "social_media": {},
+      "url": "https://www.policylocal.nz/candidates/CON_0704#David Macleod",
+      "why_elect": null,
+      "why_stand": null
+    },
+    {
+      "affiliation": null,
+      "age": "65",
+      "before_politics": "Builder",
+      "election": "Taranaki",
+      "electorate": "South Taranaki",
+      "image": "https://www.policylocal.nz/sites/default/files/styles/round_portrait/public/candidatephotos/15-22-Q19-Alan_Murray-NZ_Passport__digital_format.jpg?itok=_4jGc1bd",
+      "lives_in": "Ohawe",
+      "name": "Alan Murray",
+      "priorities": [],
+      "social_media": null,
+      "url": "https://www.policylocal.nz/candidates/CON_0704#Alan Murray",
+      "why_elect": "Accountancy and water treatment experience coupled with my agricultural/horticultural experience puts me in a position where I may be able to help educate those close to the coalface on the best environmental path forward.",
+      "why_stand": "I spent 15 years as an agricultural consultant, promoting soil and animal health. I believe we have a lot to do to reach my ideal environmental aims. Education is the key, but we must start with the Council itself."
+    }
+  ],
+  "electorate": "South Taranaki",
+  "id": "CON_0704",
+  "region": "Taranaki",
+  "type": "Regional Council"
+}
